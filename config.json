@@ -1,0 +1,41 @@
+{
+  "keywords": {
+    "pokemon": ["pokemon", "pokémon", "pkmn"],
+    "dragonball": ["dragon ball", "dragonball", "dbs", "db super"]
+  },
+  "shops": [
+    {
+      "name": "Cardmaniac",
+      "type": "shopify",
+      "base_url": "https://cardmaniac.ch",
+      "enabled": true
+    },
+    {
+      "name": "Pikaversum",
+      "type": "shopify",
+      "base_url": "https://pikaversum.ch",
+      "enabled": true
+    },
+    {
+      "name": "The Uncommon Shop",
+      "type": "woocommerce",
+      "enabled": true,
+      "urls": [
+        "https://theuncommonshop.ch/produktkategorie/pokemon/",
+        "https://theuncommonshop.ch/produktkategorie/weitere-sammelkarten/dragon-ball/"
+      ]
+    },
+    {
+      "name": "JapHunter",
+      "type": "shopify",
+      "base_url": "https://japhunter.ch",
+      "enabled": true
+    },
+    {
+      "name": "PokeAlp",
+      "type": "shopify",
+      "base_url": "https://pokealp.ch",
+      "enabled": true
+    }
+  ]
+}
