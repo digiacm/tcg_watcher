@@ -242,6 +242,14 @@ def main():
     state = load_json(STATE_PATH, {})
     keyword_groups = config.get("keywords", {})
 
+    # Erkennt, ob state.json schon einmal befüllt wurde (Meta-Marker).
+    # Beim allerersten echten Lauf werden nur Bestände gespeichert,
+    # damit nicht sofort alles als "neu" gemeldet wird.
+    is_first_run = "__meta__" not in state
+    if is_first_run:
+        print("[INFO] Erster Lauf erkannt: Bestand wird eingelesen, ohne Meldungen zu senden.")
+        state["__meta__"] = {"seeded": True}
+
     new_alerts = []
 
     for shop in config.get("shops", []):
@@ -266,7 +274,8 @@ def main():
             now_available = item.get("available", False)
 
             # Melden wenn: neu entdeckt UND verfügbar, ODER Status wechselt von nicht-verfügbar -> verfügbar
-            if now_available and not was_available:
+            # (nicht beim allerersten Lauf, da käme sonst der komplette Bestand als "neu")
+            if not is_first_run and now_available and not was_available:
                 is_preorder = item.get("preorder")
                 label = "PREORDER" if is_preorder else "RESTOCK"
                 color = 0x5865F2 if is_preorder else 0x57F287  # blau / grün
