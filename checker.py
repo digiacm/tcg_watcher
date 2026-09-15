@@ -45,13 +45,20 @@ def matches_keywords(text, keyword_groups):
     return False
 
 
+# Merchandise, das faelschlicherweise auf "dragon ball" o.ae. anspringen wuerde,
+# obwohl es keine TCG-Karten/Booster/Displays sind (z.B. Actionfiguren).
+EXCLUDE_TERMS = [
+    "funko", "figur", "figure", "plüsch", "plush", "statue",
+    "dxf", "solid edge works", "blood of saiyans", "colosseum",
+]
+
+
+def is_merchandise(text):
+    text_lower = text.lower()
+    return any(term in text_lower for term in EXCLUDE_TERMS)
+
+
 def check_woocommerce_shop(shop, keyword_groups):
-    """
-    Für WooCommerce-Shops (WordPress), z.B. theuncommonshop.ch.
-    Sucht robust nach Produkt-Links (/product/...) statt exakter CSS-Klassen,
-    da WooCommerce-Themes stark angepasst sein können. Liest den Text im
-    umgebenden Container, um Titel und Verfügbarkeit zu bestimmen.
-    """
     found = {}
 
     for url in shop["urls"]:
@@ -68,7 +75,6 @@ def check_woocommerce_shop(shop, keyword_groups):
         for link in product_links:
             href = link.get("href")
 
-            # Container mit Titel/Status finden: 3 Ebenen nach oben laufen
             container = link
             for _ in range(4):
                 if container.parent:
@@ -78,7 +84,6 @@ def check_woocommerce_shop(shop, keyword_groups):
 
             block_text = container.get_text(" ", strip=True)
 
-            # Titel bestimmen: Linktext, sonst img alt, sonst erster Teil vom Block
             title = link.get_text(strip=True)
             if not title:
                 img = container.find("img")
@@ -89,6 +94,8 @@ def check_woocommerce_shop(shop, keyword_groups):
 
             if not matches_keywords(title, keyword_groups):
                 continue
+            if is_merchandise(title):
+                continue
 
             block_lower = block_text.lower()
             sold_out = "ausverkauft" in block_lower
@@ -96,7 +103,6 @@ def check_woocommerce_shop(shop, keyword_groups):
 
             available = (not sold_out) or preorder
 
-            # Dedupe: pro Produkt-URL nur einmal, bevorzugt Eintrag mit mehr Info
             if href not in found or len(title) > len(found[href]["title"]):
                 found[href] = {
                     "id": f"{shop['name']}:{href}",
@@ -134,10 +140,6 @@ def send_discord(title, url, shop, label, color):
 
 
 def check_shopify_shop(shop, keyword_groups):
-    """
-    Nutzt die öffentliche Shopify products.json API.
-    Funktioniert für die meisten Shopify-basierten Shops ohne Anpassung.
-    """
     found = []
     base = shop["base_url"].rstrip("/")
     page = 1
@@ -163,6 +165,8 @@ def check_shopify_shop(shop, keyword_groups):
 
             if not matches_keywords(searchable, keyword_groups):
                 continue
+            if is_merchandise(searchable):
+                continue
 
             variants = p.get("variants", [])
             any_available = any(v.get("available") for v in variants)
@@ -178,7 +182,7 @@ def check_shopify_shop(shop, keyword_groups):
             })
 
         page += 1
-        if page > 20:  # Sicherheitslimit
+        if page > 20:
             break
         time.sleep(0.5)
 
@@ -186,10 +190,6 @@ def check_shopify_shop(shop, keyword_groups):
 
 
 def check_custom_shop(shop, keyword_groups):
-    """
-    Generisches HTML-Scraping über CSS-Selektoren aus der config.json.
-    Muss pro Shop einmalig anhand der echten Seitenstruktur kalibriert werden.
-    """
     found = []
     sel = shop["selectors"]
 
@@ -214,6 +214,8 @@ def check_custom_shop(shop, keyword_groups):
             title = title_el.get_text(strip=True)
 
             if not matches_keywords(title, keyword_groups):
+                continue
+            if is_merchandise(title):
                 continue
 
             href = link_el.get("href") if link_el else url
@@ -242,9 +244,6 @@ def main():
     state = load_json(STATE_PATH, {})
     keyword_groups = config.get("keywords", {})
 
-    # Erkennt, ob state.json schon einmal befüllt wurde (Meta-Marker).
-    # Beim allerersten echten Lauf werden nur Bestände gespeichert,
-    # damit nicht sofort alles als "neu" gemeldet wird.
     is_first_run = "__meta__" not in state
     if is_first_run:
         print("[INFO] Erster Lauf erkannt: Bestand wird eingelesen, ohne Meldungen zu senden.")
@@ -273,12 +272,10 @@ def main():
             was_available = state.get(item_id, {}).get("available", False)
             now_available = item.get("available", False)
 
-            # Melden wenn: neu entdeckt UND verfügbar, ODER Status wechselt von nicht-verfügbar -> verfügbar
-            # (nicht beim allerersten Lauf, da käme sonst der komplette Bestand als "neu")
             if not is_first_run and now_available and not was_available:
                 is_preorder = item.get("preorder")
                 label = "PREORDER" if is_preorder else "RESTOCK"
-                color = 0x5865F2 if is_preorder else 0x57F287  # blau / grün
+                color = 0x5865F2 if is_preorder else 0x57F287
                 new_alerts.append({
                     "title": item["title"],
                     "url": item["url"],
