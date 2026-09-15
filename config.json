@@ -36,6 +36,30 @@
       "type": "shopify",
       "base_url": "https://pokealp.ch",
       "enabled": true
+    },
+    {
+      "name": "PokeUri",
+      "type": "shopify",
+      "base_url": "https://pokeuri.ch",
+      "enabled": true
+    },
+    {
+      "name": "Detsuki",
+      "type": "shopify",
+      "base_url": "https://detsuki.ch",
+      "enabled": true
+    },
+    {
+      "name": "RyuLand",
+      "type": "shopify",
+      "base_url": "https://ryu.land",
+      "enabled": true
+    },
+    {
+      "name": "Mr. Packhouse",
+      "type": "shopify",
+      "base_url": "https://www.mrpackhouse.ch",
+      "enabled": true
     }
   ]
 }
