@@ -60,6 +60,18 @@
       "type": "shopify",
       "base_url": "https://www.mrpackhouse.ch",
       "enabled": true
+    },
+    {
+      "name": "BoosterBox",
+      "type": "shopify",
+      "base_url": "https://boosterbox.ch",
+      "enabled": true
+    },
+    {
+      "name": "Zaibatsu",
+      "type": "shopify",
+      "base_url": "https://zaibatsu.ch",
+      "enabled": true
     }
   ]
 }
