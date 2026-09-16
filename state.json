@@ -20037,7 +20037,7 @@
     "url": "https://boosterbox.ch/products/pokemon-mega-forces-tin-mega-dragonite-ex-en"
   },
   "BoosterBox:15830789947766": {
-    "available": false,
+    "available": true,
     "title": "Pokémon First Partner Illustration Collection Series 3 (3 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-first-partner-illustration-collection-series-3-en"
@@ -20127,7 +20127,7 @@
     "url": "https://boosterbox.ch/products/pokemon-perfect-order-booster-pack-en"
   },
   "BoosterBox:15734651322742": {
-    "available": false,
+    "available": true,
     "title": "Pokémon First Partner Illustration Collection Series 2 (3 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-first-partner-illustration-collection-series-2-en"
@@ -20845,5 +20845,11 @@
     "title": "Pokémon Scarlet & Violet Eevee Coin Set No.0133 | Simplified Chinese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-scarlet-violet-eevee-coin-set-no-0133-simplified-chinese-edition"
+  },
+  "BoosterBox:15885848805750": {
+    "available": true,
+    "title": "Pokémon First Partner Illustration Collection Series 1 (3 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-first-partner-illustration-collection-series-1-en"
   }
 }
