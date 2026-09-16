@@ -603,7 +603,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-fatale-flammen-booster-box"
   },
   "Cardmaniac:8334510424239": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG - Premium-Kollektion Mega-Bisaflor-ex",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-premium-kollektion-mega-bisaflor-ex"
@@ -19965,7 +19965,7 @@
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-mini-tin-en"
   },
   "BoosterBox:15877581177206": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Celebration Elite Trainer Box (9 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-etb-en"
@@ -19983,7 +19983,7 @@
     "url": "https://boosterbox.ch/products/pokemon-center-fukuoka-special-box-jp"
   },
   "BoosterBox:15847600193910": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Celebration Poster Collection (3 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-poster-collection-en"
@@ -20817,13 +20817,13 @@
     "url": "https://boosterbox.ch/products/pokemon-poke-ball-tin-2024-en"
   },
   "BoosterBox:15884101976438": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Celebration Eevee Blister (2 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-eevee-blister-en"
   },
   "BoosterBox:15884101878134": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Celebration Binder Collection (5 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-binder-collection-en"
