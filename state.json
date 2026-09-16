@@ -5847,7 +5847,7 @@
     "url": "https://pikaversum.ch/products/protecc-acryl-case-pokemon-english-booster"
   },
   "Pikaversum:15748474569078": {
-    "available": true,
+    "available": false,
     "title": "Protecc - Acryl Case Pokémon Ultra Premium Collection",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/protecc-acryl-case-pokemon-ultra-premium-collection"
@@ -20839,5 +20839,11 @@
     "title": "Pokémon - 30th - 30th Celebration - Booster Box [JP]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-30th-30th-celebration-booster-box-jp"
+  },
+  "JapHunter:15409841176899": {
+    "available": true,
+    "title": "Pokémon Scarlet & Violet Eevee Coin Set No.0133 | Simplified Chinese Edition",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/pokemon-scarlet-violet-eevee-coin-set-no-0133-simplified-chinese-edition"
   }
 }
