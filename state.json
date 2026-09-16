@@ -14241,7 +14241,7 @@
     "url": "https://pokeuri.ch/products/pre-order-pokemon-poster-collection-30-celebrations-de"
   },
   "PokeUri:16088431952252": {
-    "available": true,
+    "available": false,
     "title": "PRE-ORDER: POKÉMON POSTER COLLECTION 30 CELEBRATIONS -EN-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pre-order-pokemon-poster-collection-30-celebrations-en"
@@ -14259,7 +14259,7 @@
     "url": "https://pokeuri.ch/products/pre-order-pokemon-2-pack-blister-30th-celebrations-de"
   },
   "PokeUri:16088422252924": {
-    "available": true,
+    "available": false,
     "title": "PRE-ORDER: POKÉMON 2-PACK BLISTER 30TH CELEBRATIONS -FR-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pre-order-pokemon-2-pack-blister-30th-celebrations-fr"
@@ -20803,5 +20803,29 @@
     "title": "Pokémon – Mega Evolution – 30th Celebration – Collector Display Gift Box – Espeon ex & Umbreon ex",
     "shop": "The Uncommon Shop",
     "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-collector-display-gift-box-espeon-ex-umbreon-ex/"
+  },
+  "BoosterBox:15884102271350": {
+    "available": true,
+    "title": "Pokémon Mega Moonlit Mega Clefable ex Tin (4 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-mega-moonlit-mega-clefable-ex-tin-en"
+  },
+  "BoosterBox:15884102173046": {
+    "available": true,
+    "title": "Pokémon Poké Ball Tin 2024 (3 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-poke-ball-tin-2024-en"
+  },
+  "BoosterBox:15884101976438": {
+    "available": true,
+    "title": "Pokémon 30th Celebration Eevee Blister (2 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-30th-celebration-eevee-blister-en"
+  },
+  "BoosterBox:15884101878134": {
+    "available": true,
+    "title": "Pokémon 30th Celebration Binder Collection (5 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-30th-celebration-binder-collection-en"
   }
 }
