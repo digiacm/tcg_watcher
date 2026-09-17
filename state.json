@@ -1623,7 +1623,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-paldea-evolved-checklane-blister"
   },
   "Cardmaniac:7672550621359": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG - Shiny Treasure ex Booster Box",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-shiny-treasure-ex-booster-box"
@@ -11559,7 +11559,7 @@
     "url": "https://japhunter.ch/products/pokemon-30th-anniversary-celebration-card-display-sleeve-set-greninja-ex-simplified-chinese-edition"
   },
   "JapHunter:15401286271299": {
-    "available": false,
+    "available": true,
     "title": "Pokémon 30th Anniversary Celebration Collector Display Gift Box – Espeon ex & Umbreon ex | Simplified Chinese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-30th-anniversary-celebration-collector-display-gift-box-espeon-ex-umbreon-ex-simplified-chinese-edition"
