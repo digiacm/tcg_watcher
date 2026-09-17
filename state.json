@@ -19971,7 +19971,7 @@
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-etb-en"
   },
   "BoosterBox:15682615869814": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Perfect Order (ME03) Elite Trainer Box (9 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-perfect-order-etb-en"
@@ -20851,5 +20851,11 @@
     "title": "Pokémon First Partner Illustration Collection Series 1 (3 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-first-partner-illustration-collection-series-1-en"
+  },
+  "PokeUri:16124412756348": {
+    "available": true,
+    "title": "POKÉMON 30th CELEBRATION ESPEON EX & UMBREON EX PREMIUM DECK BOX -JP-",
+    "shop": "PokeUri",
+    "url": "https://pokeuri.ch/products/pokemon-30th-celebration-espeon-ex-umbreon-ex-premium-deck-box-jp"
   }
 }
