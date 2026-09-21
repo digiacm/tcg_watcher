@@ -20877,7 +20877,7 @@
     "url": "https://pokeuri.ch/products/pre-order-pokemon-boosterbundle-30th-celebration-de"
   },
   "PokeUri:16126259462524": {
-    "available": true,
+    "available": false,
     "title": "PRE-ORDER: POKÉMON BOOSTERBUNDLE 30TH CELEBRATION -EN-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-boosterbundle-30th-celebration-en"
@@ -20887,5 +20887,17 @@
     "title": "PRE-ORDER: POKÉMON BOOSTERBUNDLE 30TH CELEBRATION -FR-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pre-order-pokemon-boosterbundle-30th-celebration-fr"
+  },
+  "JapHunter:15413724152131": {
+    "available": true,
+    "title": "Pokémon 30th Celebration AR Card Collection | Single Card or Complete 20-Card Set | Japanese Edition",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/pokemon-30th-celebration-ar-card-collection-single-card-or-complete-20-card-set-japanese-edition"
+  },
+  "JapHunter:15413718745411": {
+    "available": true,
+    "title": "Pokémon MEGA 30th CELEBRATION Pikachu Complete Set | 30 Cards | Japanese Edition",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/pokemon-mega-30th-celebration-pikachu-complete-set-30-cards-japanese-edition"
   }
 }
