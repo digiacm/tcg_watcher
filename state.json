@@ -2319,7 +2319,7 @@
     "url": "https://pikaversum.ch/products/ho-oh-clb-001-025"
   },
   "Pikaversum:15869101932918": {
-    "available": true,
+    "available": false,
     "title": "Goodra [CRI - 068/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/goodra-cri-068-086"
@@ -2679,7 +2679,7 @@
     "url": "https://pikaversum.ch/products/primarina-085-081-m5-085-081"
   },
   "Pikaversum:15858952601974": {
-    "available": true,
+    "available": false,
     "title": "Frogadier - 087/083 [m4 - 087/083]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/frogadier-087-083-m4-087-083"
@@ -3957,7 +3957,7 @@
     "url": "https://pikaversum.ch/products/carracosta-blk-023-086"
   },
   "Pikaversum:15798257942902": {
-    "available": true,
+    "available": false,
     "title": "Panpour [BLK - 017/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/panpour-blk-017-086"
@@ -4071,7 +4071,7 @@
     "url": "https://pikaversum.ch/products/dialga-swsh07-112-203"
   },
   "Pikaversum:15797069119862": {
-    "available": true,
+    "available": false,
     "title": "Gardevoir [SWSH06 - 061/198]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/gardevoir-swsh06-061-198"
@@ -4137,7 +4137,7 @@
     "url": "https://pikaversum.ch/products/golurk-v-swsh07-070-203"
   },
   "Pikaversum:15797068726646": {
-    "available": true,
+    "available": false,
     "title": "Eldegoss [SHF - 015/072]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/eldegoss-shf-015-072"
@@ -4995,7 +4995,7 @@
     "url": "https://pikaversum.ch/products/chespin-084-083-m4-084-083"
   },
   "Pikaversum:15782952141174": {
-    "available": true,
+    "available": false,
     "title": "Sliggoo - 093/083 [m4 - 093/083]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/sliggoo-093-083-m4-093-083"
@@ -5115,7 +5115,7 @@
     "url": "https://pikaversum.ch/products/aurorus-084-080-m3-084-080"
   },
   "Pikaversum:15782953779574": {
-    "available": true,
+    "available": false,
     "title": "Snorunt - 200/193 [M2a - 200/193]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/snorunt-200-193-m2a-200-193"
@@ -5139,7 +5139,7 @@
     "url": "https://pikaversum.ch/products/dreepy-211-193-m2a-211-193"
   },
   "Pikaversum:15782952206710": {
-    "available": true,
+    "available": false,
     "title": "Silvally - 093/081 [M5 - 093/081]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/silvally-093-081-m5-093-081"
@@ -5157,7 +5157,7 @@
     "url": "https://pikaversum.ch/products/team-rocket-s-mimikyu-205-193-m2a-205-193"
   },
   "Pikaversum:15782952010102": {
-    "available": true,
+    "available": false,
     "title": "Toucannon - 092/081 [M5 - 092/081]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/toucannon-092-081-m5-092-081"
