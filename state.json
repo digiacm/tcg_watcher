@@ -39,22 +39,22 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-tech-sticker-kollektion-30-jahre-lucario"
   },
   "Cardmaniac:8686136623279": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG – Poster-Kollektion 30 Jahre",
     "shop": "Cardmaniac",
-    "url": "https://cardmaniac.ch/products/pokemon-tcg-poster-kollektion-30-jahre"
+    "url": "https://cardmaniac.ch/products/pokemon-tcg-poster-k0llektion-30-jahre"
   },
   "Cardmaniac:8686130004143": {
     "available": false,
     "title": "Pokémon TCG – Tin-Box 30 Jahre: Feelinara‑ex",
     "shop": "Cardmaniac",
-    "url": "https://cardmaniac.ch/products/pokemon-tcg-tin-box-30-jahre-feelinara-ex"
+    "url": "https://cardmaniac.ch/products/pokemon-tcg-tin-b0x-30-jahre-feelinara-ex"
   },
   "Cardmaniac:8686126760111": {
     "available": false,
     "title": "Pokémon TCG – Tin-Box 30 Jahre: Quajutsu‑ex",
     "shop": "Cardmaniac",
-    "url": "https://cardmaniac.ch/products/pokemon-tcg-tin-box-30-jahre-quajutsu-ex"
+    "url": "https://cardmaniac.ch/products/pokemon-tcg-tin-b0x-30-jahre-quajutsu-ex"
   },
   "Cardmaniac:8685495910575": {
     "available": false,
@@ -20923,5 +20923,17 @@
     "title": "Pokémon TCG Gem Pack Vol. 6 – Booster Display (Chinesisch)",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-gem-pack-vol-6-booster-display-chinesisch"
+  },
+  "Cardmaniac:10314782507183": {
+    "available": true,
+    "title": "Pokémon TCG – Mini-Tin-Box 30 Jahre",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/pokemon-tcg-mini-tin-box-30-jahre"
+  },
+  "Cardmaniac:10314754228399": {
+    "available": true,
+    "title": "Pokémon TCG – Boosterbundle 30 Jahre",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/pokemon-tcg-boosterbundle-30-jahre"
   }
 }
