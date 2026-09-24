@@ -16191,7 +16191,7 @@
     "url": "https://detsuki.ch/products/pokemon-first-partner-illustration-collection-3"
   },
   "Detsuki:15837263757656": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Terastal Grand Gathering Eeveelution Binder Gift Box",
     "shop": "Detsuki",
     "url": "https://detsuki.ch/products/pokemon-terastal-grand-gathering-eeveelution-binder-gift-box"
@@ -16233,7 +16233,7 @@
     "url": "https://detsuki.ch/products/pokemon-mega-greninja-ex-premium-collection"
   },
   "Detsuki:15817028895064": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Abyss Eye Display Box (M5)",
     "shop": "Detsuki",
     "url": "https://detsuki.ch/products/pokemon-abyss-eye-display-box-m5"
@@ -16485,7 +16485,7 @@
     "url": "https://detsuki.ch/products/pokemon-journey-together-sleeved-booster-sv09"
   },
   "Detsuki:15419659780440": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Mega Dream ex Display Box (M2a)",
     "shop": "Detsuki",
     "url": "https://detsuki.ch/products/pokemon-mega-dream-ex-m2a"
@@ -20947,5 +20947,41 @@
     "title": "Dragon Ball Super – Ultra Bout Series – Three Glorious Fighters (B30) – Booster Display",
     "shop": "The Uncommon Shop",
     "url": "https://theuncommonshop.ch/product/dragon-ball-super-ultra-bout-series-03-zenkai-b30-booster-display/"
+  },
+  "Detsuki:16032795623768": {
+    "available": true,
+    "title": "Pokémon Terastal Grand Gathering Badge Set (CSV9.5C)",
+    "shop": "Detsuki",
+    "url": "https://detsuki.ch/products/pokemon-terastal-grand-gathering-badge-set-csv9-5c"
+  },
+  "Detsuki:16032783040856": {
+    "available": true,
+    "title": "Pokémon Glory of Team Rocket Booster Display (CS10C)",
+    "shop": "Detsuki",
+    "url": "https://detsuki.ch/products/pokemon-glory-of-team-rocket-booster-display-cs10c"
+  },
+  "Detsuki:16032764920152": {
+    "available": true,
+    "title": "Pokémon Dragon Boat Festival Gift Box 2026",
+    "shop": "Detsuki",
+    "url": "https://detsuki.ch/products/pokemon-dragon-boat-festival-gift-box-2026"
+  },
+  "Detsuki:16032690635096": {
+    "available": true,
+    "title": "Pokémon Mid-Autumn Festival Gift Box 2026",
+    "shop": "Detsuki",
+    "url": "https://detsuki.ch/products/pokemon-mid-autumn-festival-gift-box-2026"
+  },
+  "Detsuki:16032590922072": {
+    "available": true,
+    "title": "Pokémon 30th Anniversary First Partner Special Illustration Card Set Vol. 3",
+    "shop": "Detsuki",
+    "url": "https://detsuki.ch/products/pokemon-30th-anniversary-first-partner-special-illustration-card-set-vol-3"
+  },
+  "Detsuki:16032352207192": {
+    "available": true,
+    "title": "Pokémon Storm Emeralda Display Box (M6)",
+    "shop": "Detsuki",
+    "url": "https://detsuki.ch/products/pokemon-storm-emeralda-display-box-m6"
   }
 }
