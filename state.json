@@ -11745,7 +11745,7 @@
     "url": "https://japhunter.ch/products/psa-10-sylveon-ex-sar-212-187-terastal-festival-ex-japanese-sv8a"
   },
   "JapHunter:15356813607235": {
-    "available": false,
+    "available": true,
     "title": "PSA 10 Umbreon ex SAR #217/187 – Terastal Festival ex Japanese SV8a",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-umbreon-ex-sar-217-187-terastal-festival-ex-japanese-sv8a"
@@ -21007,5 +21007,11 @@
     "title": "Pokémon TCG: 30th Celebration - Elite Trainer Box | French Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box-french-edition"
+  },
+  "JapHunter:15417755763011": {
+    "available": true,
+    "title": "Pokémon TCG: 30th Celebration - 2-Pack Blister | French Edition",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/pokemon-tcg-30th-celebration-2-pack-blister-french-edition"
   }
 }
