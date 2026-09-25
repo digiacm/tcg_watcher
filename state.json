@@ -2151,7 +2151,7 @@
     "url": "https://pikaversum.ch/products/gliscor-pfl-050-094"
   },
   "Pikaversum:15880138686838": {
-    "available": true,
+    "available": false,
     "title": "Smogon [TR - 58/82]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/koffing-tr-58-82"
@@ -2163,7 +2163,7 @@
     "url": "https://pikaversum.ch/products/celebi-meg-012-132"
   },
   "Pikaversum:15880138359158": {
-    "available": true,
+    "available": false,
     "title": "Elekid [N1 - 022/111]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/elekid-n1-022-111"
@@ -2175,7 +2175,7 @@
     "url": "https://pikaversum.ch/products/genesect-pfl-008-094"
   },
   "Pikaversum:15880138064246": {
-    "available": true,
+    "available": false,
     "title": "Enton (Holo Common) [DEP - 7/18]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/psyduck-holo-common-dep-7-18"
@@ -2187,7 +2187,7 @@
     "url": "https://pikaversum.ch/products/spiritomb-pbl-035-084"
   },
   "Pikaversum:15880137736566": {
-    "available": true,
+    "available": false,
     "title": "Schlurp (Holo Common) [DEP - 16/18]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/lickitung-holo-common-dep-16-18"
@@ -2241,7 +2241,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-booster-box-simplified-chinese"
   },
   "Pikaversum:15869193421174": {
-    "available": true,
+    "available": false,
     "title": "Forschung des Professors (Prof. Eich) [CLB - 023/025]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/professor-s-research-professor-oak-clb-023-025"
@@ -3345,7 +3345,7 @@
     "url": "https://pikaversum.ch/products/claydol-ccc-15-106"
   },
   "Pikaversum:15808378732918": {
-    "available": true,
+    "available": false,
     "title": "Arenatrainer [SHF - 068/072]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/gym-trainer-full-art-shf-068-072"
@@ -3609,7 +3609,7 @@
     "url": "https://pikaversum.ch/products/grant-full-art-swsh10-185-189"
   },
   "Pikaversum:15806698783094": {
-    "available": true,
+    "available": false,
     "title": "Ulrich [SWSH08 - 264/264]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/sidney-full-art-swsh08-264-264"
@@ -3651,7 +3651,7 @@
     "url": "https://pikaversum.ch/products/schoolgirl-full-art-swsh08-262-264"
   },
   "Pikaversum:15806698258806": {
-    "available": true,
+    "available": false,
     "title": "Fokussierter-Stil-Mastrich [SWSH05 - 163/163]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/single-strike-style-mustard-full-art-swsh05-163-163"
