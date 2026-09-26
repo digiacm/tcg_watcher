@@ -2643,7 +2643,7 @@
     "url": "https://pikaversum.ch/products/mega-pyroar-ex-015-086-cri-015-086"
   },
   "Pikaversum:15863717790070": {
-    "available": true,
+    "available": false,
     "title": "Emma - 107/086 [CRI - 107/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/emma-107-086-cri-107-086"
@@ -2691,7 +2691,7 @@
     "url": "https://pikaversum.ch/products/bastiodon-091-081-m5-091-081"
   },
   "Pikaversum:15858951586166": {
-    "available": true,
+    "available": false,
     "title": "Goldeen - 084/081 [M5 - 084/081]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/goldeen-084-081-m5-084-081"
@@ -3207,7 +3207,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-mega-forces-tin-2026"
   },
   "Pikaversum:15808385581430": {
-    "available": true,
+    "available": false,
     "title": "Schlaraffel V [SHF - 053/072]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/greedent-v-shf-053-072"
@@ -3261,7 +3261,7 @@
     "url": "https://pikaversum.ch/products/tsareena-v-swsh08-021-264"
   },
   "Pikaversum:15808379781494": {
-    "available": true,
+    "available": false,
     "title": "Urgl V [SWSD - SWSH086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/cramorant-v-swsh086-swsd-swsh086"
@@ -6627,7 +6627,7 @@
     "url": "https://pikaversum.ch/products/budew-196-193-m2a-high-class-pack-mega-dream-ex-665867"
   },
   "Pikaversum:15525651939702": {
-    "available": true,
+    "available": false,
     "title": "Team Rocket's Dugtrio - 206/193 [M2a - 206/193]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/team-rocket-s-dugtrio-206-193-m2a-high-class-pack-mega-dream-ex-665877"
@@ -7113,7 +7113,7 @@
     "url": "https://pikaversum.ch/products/mega-gardevoir-ex-226-193-m2a-high-class-pack-mega-dream-ex-665898"
   },
   "Pikaversum:15494773866870": {
-    "available": true,
+    "available": false,
     "title": "Medicham - 207/193 [M2a - 207/193]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/medicham-207-193-m2a-high-class-pack-mega-dream-ex-665878"
@@ -8133,7 +8133,7 @@
     "url": "https://pikaversum.ch/products/bronzor-074-071-sv5k-wild-force-568408"
   },
   "Pikaversum:15353242648950": {
-    "available": true,
+    "available": false,
     "title": "Iron Thorns - 077/071 [SV5M - 077/071]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/iron-thorns-077-071-sv5m-cyber-judge-566228"
@@ -8163,7 +8163,7 @@
     "url": "https://pikaversum.ch/products/flutter-mane-076-071-sv5k-wild-force-568410"
   },
   "Pikaversum:15353236881782": {
-    "available": true,
+    "available": false,
     "title": "Cramorant - 072/066 [SV5a - 072/066]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/cramorant-072-066-sv5a-crimson-haze-566127"
@@ -9141,7 +9141,7 @@
     "url": "https://pikaversum.ch/products/pidgeotto-119-108-sv3-ruler-of-the-black-flame-567073"
   },
   "Pikaversum:15327720178038": {
-    "available": true,
+    "available": false,
     "title": "Palafin - 111/108 [SV3 - 111/108]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/palafin-111-108-sv3-ruler-of-the-black-flame-567065"
