@@ -20037,7 +20037,7 @@
     "url": "https://boosterbox.ch/products/pokemon-mega-forces-tin-mega-dragonite-ex-en"
   },
   "BoosterBox:15830789947766": {
-    "available": false,
+    "available": true,
     "title": "Pokémon First Partner Illustration Collection Series 3 (3 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-first-partner-illustration-collection-series-3-en"
@@ -21061,5 +21061,17 @@
     "title": "Dragon Ball Super – Fusion World – Brightness of Hope (FB11) – Booster Display",
     "shop": "The Uncommon Shop",
     "url": "https://theuncommonshop.ch/product/dragon-ball-super-fusion-world-brightness-of-hope-fb11-booster-display/"
+  },
+  "JapHunter:15421763322179": {
+    "available": true,
+    "title": "PSA 10 Magikarp AR #080/073 – Triplet Beat Japanese SV1a Japanese",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/psa-10-magikarp-ar-080-073-triplet-beat-japanese-sv1a"
+  },
+  "JapHunter:15421763354947": {
+    "available": true,
+    "title": "PSA 10 Zekrom ex SAR #169/086 – Black Bolt Japanese SV11B",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/psa-10-zekrom-ex-sar-169-086-black-bolt-japanese-sv11b"
   }
 }
