@@ -20259,7 +20259,7 @@
     "url": "https://boosterbox.ch/products/pokemon-inferno-x-display-jp"
   },
   "BoosterBox:15706890174838": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Mega Dream ex (M2A) Booster Display (Japanisch, 10 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-mega-dream-ex-display-jp"
@@ -21037,5 +21037,23 @@
     "title": "Protecc Acryl Case für Pokémon Booster Displays",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/protecc-acryl-case-pokemon-booster-display"
+  },
+  "BoosterBox:15903164989814": {
+    "available": true,
+    "title": "Pokémon Storm Emeralda (M6) Booster Display (Japanisch, 30 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-storm-emeralda-display-jp"
+  },
+  "BoosterBox:15903164957046": {
+    "available": true,
+    "title": "Pokémon 30th Celebration Premium Deck Set Espeon & Umbreon (Japanisch)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-30th-celebration-premium-deck-set-jp"
+  },
+  "BoosterBox:15903164924278": {
+    "available": true,
+    "title": "Pokémon 30th Celebration (M6A) Booster Display (Japanisch, 20 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-30th-celebration-display-jp"
   }
 }
