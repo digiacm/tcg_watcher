@@ -2349,7 +2349,7 @@
     "url": "https://pikaversum.ch/products/crustle-012-182-dri-012-182"
   },
   "Pikaversum:15869101113718": {
-    "available": true,
+    "available": false,
     "title": "Latios [MEG - 101/132]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/latios-meg-101-132"
@@ -2367,7 +2367,7 @@
     "url": "https://pikaversum.ch/products/lopunny-meg-108-132"
   },
   "Pikaversum:15869100294518": {
-    "available": true,
+    "available": false,
     "title": "Raboot [MEG - 027/132]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/raboot-meg-027-132"
@@ -2457,7 +2457,7 @@
     "url": "https://pikaversum.ch/products/steven-s-claydol-dri-084-182"
   },
   "Pikaversum:15869086531958": {
-    "available": true,
+    "available": false,
     "title": "Leafeon - 170 (Cosmos Holo) [SVP - 170]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/leafeon-170-cosmos-holo-svp-170"
@@ -2889,7 +2889,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-storm-emeralda-booster-box-m6-jpn"
   },
   "Pikaversum:15825291706742": {
-    "available": true,
+    "available": false,
     "title": "Celebi [TM - 3/102]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/celebi-tm-3-102"
@@ -3993,7 +3993,7 @@
     "url": "https://pikaversum.ch/products/tympole-poke-ball-pattern-blk-019-086"
   },
   "Pikaversum:15798255386998": {
-    "available": true,
+    "available": false,
     "title": "Victini (Poke Ball Pattern) [BLK - 012/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/victini-poke-ball-pattern-blk-012-086"
@@ -4077,7 +4077,7 @@
     "url": "https://pikaversum.ch/products/gardevoir-swsh06-061-198"
   },
   "Pikaversum:15797069087094": {
-    "available": true,
+    "available": false,
     "title": "Seviper [SWSH06 - 102/198]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/seviper-swsh06-102-198"
@@ -4125,7 +4125,7 @@
     "url": "https://pikaversum.ch/products/lapras-swsh06-029-198"
   },
   "Pikaversum:15797068792182": {
-    "available": true,
+    "available": false,
     "title": "Rillaboom [SHF - 013/072]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/rillaboom-shf-013-072"
@@ -4515,7 +4515,7 @@
     "url": "https://pikaversum.ch/products/celebi-shf-003-072"
   },
   "Pikaversum:15796442005878": {
-    "available": true,
+    "available": false,
     "title": "Inteleon - 041/132 [MEG - 041/132]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/inteleon-041-132-meg-041-132"
@@ -4605,7 +4605,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-dark-crystal-blaze-booster-box-csv5c-simplified-chinese"
   },
   "Pikaversum:15785892774262": {
-    "available": true,
+    "available": false,
     "title": "Inteleon - 069/063 [m1S - 069/063]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/inteleon-069-063-m1s-069-063"
@@ -4911,7 +4911,7 @@
     "url": "https://pikaversum.ch/products/shedinja-072-063-m1s-mega-symphonia-647230"
   },
   "Pikaversum:15525653676406": {
-    "available": true,
+    "available": false,
     "title": "Terapagos (Energy Symbol Pattern) [M2a - 144/193]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/terapagos-energy-symbol-pattern-m2a-high-class-pack-mega-dream-ex-666205"
