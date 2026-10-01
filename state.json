@@ -2847,7 +2847,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box"
   },
   "Pikaversum:15839180423542": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG - Tin-Box Pokéball 2024 (EN)",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-tin-box-pokeball-2024-en"
@@ -21103,5 +21103,29 @@
     "title": "Dragon Ball Super – Card Game Masters – Ultimate Advent (B26) – Booster Display",
     "shop": "The Uncommon Shop",
     "url": "https://theuncommonshop.ch/product/dragon-ball-super-card-game-masters-ultimate-advent-b26-booster-display/"
+  },
+  "Pikaversum:15907003728246": {
+    "available": true,
+    "title": "Pokémon TCG Bundle: 30th Celebration Mini Tin Display + Lumiose City Mini Tin Display (Französisch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-mini-tin-display-lumiose-city-mini-tin-display-franzosisch"
+  },
+  "Pikaversum:15907001532790": {
+    "available": true,
+    "title": "Pokémon TCG Bundle: 30th Celebration Mini Tin Display + Ascended Heroes Mini Tin Display (Französisch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-mini-tin-display-ascended-heroes-mini-tin-set-franzosisch"
+  },
+  "Pikaversum:15906996420982": {
+    "available": true,
+    "title": "Pokémon TCG Tin Bundle: 30th Celebration Sylveon ex + Mega Moonlit Mega Clefable ex (EN)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-tin-bundle-30th-celebration-sylveon-ex-mega-moonlit-mega-clefable-ex-en"
+  },
+  "Pikaversum:15906995077494": {
+    "available": false,
+    "title": "Pokémon TCG Tin Bundle: 30th Celebration Greninja ex + Mega Moonlit Mega Gengar ex (EN)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-tin-bundle-30th-celebration-greninja-ex-mega-moonlit-mega-gengar-ex-en"
   }
 }
