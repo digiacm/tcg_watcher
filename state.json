@@ -20008,7 +20008,7 @@
   },
   "BoosterBox:15847599604086": {
     "available": true,
-    "title": "Pokémon 30th Celebration Sylveon ex Tin (4 Packs)",
+    "title": "Pokémon 30th Celebration Sylveon ex Tin (Englisch, 4 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-sylveon-ex-tin-en"
   },
@@ -20164,7 +20164,7 @@
   },
   "BoosterBox:15721420652918": {
     "available": false,
-    "title": "Pokémon Ascended Heroes (ME02.5) Booster Bundle (6 Packs)",
+    "title": "Pokémon Ascended Heroes (ME02.5) Booster Bundle (Englisch, 6 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-ascended-heroes-bundle-en"
   },
@@ -21163,5 +21163,23 @@
     "title": "Pokémon TCG Bundle: 3× 30th Celebration Booster Bundle + Ascended Heroes Mini Tin Display (Italienisch)",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-3-30th-celebration-booster-bundle-ascended-heroes-mini-tin-display-italienisch"
+  },
+  "BoosterBox:15912678654326": {
+    "available": true,
+    "title": "Pokémon 30 Jahre Tin-Box Feelinara-ex (Deutsch, 4 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-30-jahre-feelinara-ex-tin-de"
+  },
+  "BoosterBox:15912678621558": {
+    "available": true,
+    "title": "Pokémon Erhabene Helden (ME02.5) Booster Bundle (6 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-erhabene-helden-bundle-de"
+  },
+  "BoosterBox:15912678490486": {
+    "available": true,
+    "title": "Pokémon Greninja ex & Kingdra ex Special Collection (8 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-greninja-ex-kingdra-ex-special-collection-en"
   }
 }
