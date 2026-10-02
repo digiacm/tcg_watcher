@@ -16599,7 +16599,7 @@
     "url": "https://detsuki.ch/products/pokemon-mega-evolution-mini-tin-me01"
   },
   "Detsuki:15292304884056": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Inferno X Display Box (M2)",
     "shop": "Detsuki",
     "url": "https://detsuki.ch/products/pokemon-inferno-x-display-box-m2"
@@ -21151,5 +21151,17 @@
     "title": "Pokémon Terastal Gathering Booster Box Display (CSV9.5 C) | Édition Chinois simplifié",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-terastal-gathering-booster-box-display-csv9-5-c-chinese"
+  },
+  "Pikaversum:15911579025782": {
+    "available": true,
+    "title": "Pokémon TCG Bundle: 3× 30th Celebration Booster Bundle + Lumiose City Mini Tin Display (Italienisch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-3-30th-celebration-booster-bundle-lumiose-city-mini-tin-display-italienisch"
+  },
+  "Pikaversum:15911571751286": {
+    "available": true,
+    "title": "Pokémon TCG Bundle: 3× 30th Celebration Booster Bundle + Ascended Heroes Mini Tin Display (Italienisch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-3-30th-celebration-booster-bundle-ascended-heroes-mini-tin-display-italienisch"
   }
 }
