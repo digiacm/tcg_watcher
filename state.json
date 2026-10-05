@@ -495,7 +495,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-trainer-s-toolkit-2025"
   },
   "Cardmaniac:8420678303919": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG - MEGA Dream ex Booster Box",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-mega-dream-ex-booster-box"
@@ -19953,7 +19953,7 @@
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-ultra-premium-collection-day-en"
   },
   "BoosterBox:15877581275510": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Celebration Booster Bundle (6 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-bundle-en"
