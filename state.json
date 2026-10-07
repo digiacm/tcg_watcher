@@ -933,7 +933,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-the-glory-of-team-rocket-booster-box"
   },
   "Cardmaniac:8204931956911": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG - Team Rocket's Glory Attaché Case Set",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-team-rockets-glory-attache-case-set"
@@ -21265,5 +21265,11 @@
     "title": "PSA 10 Pikachu FA #323/S-P – Princess Collection Box Japanese Promo",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-pikachu-fa-323-s-p-princess-collection-box-japanese-promo"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-xy-generations-xy8-5-20th-anniversary-genesect-mythical-collection/": {
+    "available": true,
+    "title": "Pokémon – XY – Generations (XY8.5) – 20th Anniversary – Genesect – Mythical Collection",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-xy-generations-xy8-5-20th-anniversary-genesect-mythical-collection/"
   }
 }
