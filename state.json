@@ -15,7 +15,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-espeon-ex-umbreon-ex-30th-celebration-premium-deck-set"
   },
   "Cardmaniac:8697568133295": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG – 30th Celebration Booster Box",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-30th-celebration-booster-box"
@@ -21235,5 +21235,35 @@
     "title": "Pokémon 30th Celebration Display (30thC)",
     "shop": "Detsuki",
     "url": "https://detsuki.ch/products/pokemon-30th-celebration-display-30thc"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-espeon-deluxe-deck/": {
+    "available": true,
+    "title": "Pokémon – Mega Evolution – 30th Celebration – Espeon Deluxe Deck",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-espeon-deluxe-deck/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-umbreon-deluxe-deck/": {
+    "available": true,
+    "title": "Pokémon – Mega Evolution – 30th Celebration – Umbreon Deluxe Deck",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-umbreon-deluxe-deck/"
+  },
+  "JapHunter:15433408315715": {
+    "available": true,
+    "title": "PSA 10 Venusaur-Holo #002/025 – Pokémon Card 25th Anniversary Edition Japanese S8a-P",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/psa-10-venusaur-holo-002-025-pokemon-card-25th-anniversary-edition-japanese-s8a-p"
+  },
+  "JapHunter:15433408774467": {
+    "available": true,
+    "title": "PSA 10 Roaring Moon ex SAR #218/187 – Terastal Fest ex Japanese SV8a",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/psa-10-roaring-moon-ex-sar-218-187-terastal-fest-ex-japanese-sv8a"
+  },
+  "JapHunter:15433408971075": {
+    "available": true,
+    "title": "PSA 10 Pikachu FA #323/S-P – Princess Collection Box Japanese Promo",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/psa-10-pikachu-fa-323-s-p-princess-collection-box-japanese-promo"
   }
 }
