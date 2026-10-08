@@ -21273,9 +21273,15 @@
     "url": "https://theuncommonshop.ch/product/pokemon-xy-generations-xy8-5-20th-anniversary-genesect-mythical-collection/"
   },
   "PokeAlp:16061625401675": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG 30th Celebration only Binder Collection",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-tcg-30th-celebration-binder-collection-english-edition"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-scarlet-violet-paradox-rift-sv04-sleeved-booster-pack/": {
+    "available": true,
+    "title": "Pokémon – Scarlet & Violet – Paradox Rift (SV04) – Sleeved Booster Pack",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-scarlet-violet-paradox-rift-sv04-sleeved-booster-pack/"
   }
 }
