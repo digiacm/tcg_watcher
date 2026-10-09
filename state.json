@@ -17943,7 +17943,7 @@
     "url": "https://ryu.land/products/ultra-pro-stiched-playmat-pokemon-caterpie-evolutions"
   },
   "RyuLand:15218525208906": {
-    "available": true,
+    "available": false,
     "title": "Ultra Pro - Premium Green - Pokémon - Snap Binder",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/ultra-pro-premium-green-pokemon-snap-binder"
@@ -21289,5 +21289,23 @@
     "title": "Booster Legend Revival",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/retro-pack-legend-revival-pokemon-japanese-booster"
+  },
+  "JapHunter:15434817995075": {
+    "available": true,
+    "title": "PSA 10 Nidoking AR #174/165 – Pokémon Card 151 Japanese SV2a",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/psa-10-nidoking-ar-174-165-pokemon-card-151-japanese-sv2a"
+  },
+  "JapHunter:15434818027843": {
+    "available": true,
+    "title": "PSA 10 Machoke AR #177/165 – Pokémon Card 151 Japanese SV2a",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/psa-10-machoke-ar-177-165-pokemon-card-151-japanese-sv2a"
+  },
+  "JapHunter:15434818060611": {
+    "available": true,
+    "title": "PSA 10 Hiroshima's Pikachu #261/SV-P – Pokémon Center Hiroshima Japanese Promo",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/psa-10-hiroshimas-pikachu-261-sv-p-pokemon-center-hiroshima-japanese-promo"
   }
 }
