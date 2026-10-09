@@ -21475,5 +21475,29 @@
     "title": "Pokémon - SV03.5 - Scarlet & Violet - 151 - Elite Trainer Box",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-sv03-5-scarlet-violet-151-elite-trainer-box"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-greninja-card-holder-set/": {
+    "available": true,
+    "title": "Pokémon – Mega Evolution – 30th Celebration – Greninja Card Holder Set",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-greninja-card-holder-set/"
+  },
+  "RyuLand:16096708198730": {
+    "available": false,
+    "title": "Pokémon - SV04 - Scarlet & Violet - Paradox Rift - Elite Trainer Box",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-sv04-scarlet-violet-paradox-rift-elite-trainer-box"
+  },
+  "RyuLand:16096708002122": {
+    "available": false,
+    "title": "Pokémon - SV04 - Scarlet & Violet - Paradox Rift - Booster",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-sv04-scarlet-violet-paradox-rift-booster"
+  },
+  "RyuLand:16096707903818": {
+    "available": false,
+    "title": "Pokémon - SV04 - Scarlet & Violet - Paradox Rift - Booster Box",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-sv04-scarlet-violet-paradox-rift-booster-box"
   }
 }
