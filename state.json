@@ -11475,7 +11475,7 @@
     "url": "https://japhunter.ch/products/psa-10-reshiram-ex-sar-168-086-white-flare-japanese-sv11w"
   },
   "JapHunter:15403020190019": {
-    "available": true,
+    "available": false,
     "title": "PSA 10 Oricorio ex SAR #111/080 – Inferno X Japanese M2",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-oricorio-ex-sar-111-080-inferno-x-japanese-m2"
@@ -21331,5 +21331,11 @@
     "title": "Pokémon TCG: 30th Celebration Poster Collection",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-tcg-30th-celebration-poster-collection"
+  },
+  "JapHunter:15428323901763": {
+    "available": true,
+    "title": "PSA 10 Mega Charizard X ex MA #223/193 – MEGA Dream ex Japanese M2a",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/psa-10-mega-charizard-x-ex-ma-223-193-mega-dream-ex-japanese-m2a"
   }
 }
