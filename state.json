@@ -21393,9 +21393,21 @@
     "url": "https://japhunter.ch/products/psa-10-squirtle-ar-170-165-pokemon-card-151-japanese-sv2a"
   },
   "RyuLand:16096630079818": {
-    "available": false,
+    "available": true,
     "title": "Pokémon - SV02 - Scarlet & Violet - Paldea Evolved - Booster Box",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-sv02-scarlet-violet-paldea-evolved-booster-box"
+  },
+  "RyuLand:16096630538570": {
+    "available": false,
+    "title": "Pokémon - SV02 - Scarlet & Violet - Paldea Evolved - Elite Trainer Box",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-sv02-scarlet-violet-paldea-evolved-elite-trainer-box"
+  },
+  "RyuLand:16096630243658": {
+    "available": false,
+    "title": "Pokémon - SV02 - Scarlet & Violet - Paldea Evolved - Booster",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-sv02-scarlet-violet-paldea-evolved-booster"
   }
 }
