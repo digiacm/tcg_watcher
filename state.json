@@ -21757,5 +21757,23 @@
     "title": "Pokémon - SV08.5 - Scarlet & Violet - Prismatic Evolutions - Elite Trainer Box",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-sv08-5-scarlet-violet-prismatic-evolutions-elite-trainer-box"
+  },
+  "RyuLand:16098728345930": {
+    "available": false,
+    "title": "Pokémon - SV09 - Scarlet & Violet - Journey Together - Elite Trainer Box",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-sv09-scarlet-violet-journey-together-elite-trainer-box"
+  },
+  "RyuLand:16098728214858": {
+    "available": false,
+    "title": "Pokémon - SV09 - Scarlet & Violet - Journey Together - Booster",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-sv09-scarlet-violet-journey-together-booster"
+  },
+  "RyuLand:16098728149322": {
+    "available": true,
+    "title": "Pokémon - SV09 - Scarlet & Violet - Journey Together - Booster Box",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-sv09-scarlet-violet-journey-together-booster-box"
   }
 }
