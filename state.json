@@ -10527,7 +10527,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-scarlet-violet-journey-together-elite-trainer-box"
   },
   "Pikaversum:15025540628854": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG - Journey Together - Booster Display",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-journey-together-booster-display"
@@ -21583,5 +21583,23 @@
     "title": "Pokémon MEGA - Aura Seeker Booster Box Display (M7) | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-mega-aura-seeker-booster-box-display-m7-japanese-edition"
+  },
+  "Pikaversum:15927957881206": {
+    "available": true,
+    "title": "Pokémon TCG Bundle: 3× 30th Celebration Booster Bundle + Aventures Ensemble Booster Display (Französisch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-3-30th-celebration-booster-bundle-aventures-ensemble-booster-display-franzosisch"
+  },
+  "RyuLand:16098448605514": {
+    "available": false,
+    "title": "Pokémon - SV06 - Scarlet & Violet - Twilight Masquerade - Elite Trainer Box",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-sv06-scarlet-violet-twilight-masquerade-elite-trainer-box"
+  },
+  "RyuLand:16098448441674": {
+    "available": false,
+    "title": "Pokémon - SV06 - Scarlet & Violet - Twilight Masquerade - Booster",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-sv06-scarlet-violet-twilight-masquerade-booster"
   }
 }
