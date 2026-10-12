@@ -2841,7 +2841,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-2-pack-blister"
   },
   "Pikaversum:15839832637814": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG: 30th Celebration Elite Trainer Box",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box"
@@ -17307,19 +17307,19 @@
     "url": "https://ryu.land/products/pok-mon-m5-abyss-eye-booster-box-jp"
   },
   "RyuLand:15672111792458": {
-    "available": false,
+    "available": true,
     "title": "Pokémon - 2026 Dragon Boat Festival - Gift Box [CN]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-2026-dragon-boat-festival-gift-box-cn"
   },
   "RyuLand:15672158224714": {
-    "available": false,
+    "available": true,
     "title": "Pokémon - CSV9C - Stellar Crystal - Slim Booster Box [CN]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-csv9c-stellar-crystal-booster-box-cn"
   },
   "RyuLand:15672219500874": {
-    "available": false,
+    "available": true,
     "title": "Pokémon - CSV8C - Brilliant Illusions - Slim Booster Box [CN]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-csv8c-brilliant-illusions-slim-booster-box-cn"
@@ -17337,7 +17337,7 @@
     "url": "https://ryu.land/products/pok-mon-csv5c-dark-crystal-blaze-slim-booster-box-cn"
   },
   "RyuLand:15672572838218": {
-    "available": false,
+    "available": true,
     "title": "Pokémon - CBB5C - Gem Pack Vol. 5 - Booster Box [CN]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-cbb5c-gem-pack-vol-5-booster-box-cn"
@@ -21195,7 +21195,7 @@
     "url": "https://pokealp.ch/products/pokemon-tcg-30th-celebration-mini-tin-en"
   },
   "PokeAlp:16052873199947": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG: 30th Celebration Booster Bundle (6 Packs)",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-tcg-30th-celebration-booster-bundle-6-packs-en"
