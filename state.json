@@ -609,7 +609,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-premium-kollektion-mega-bisaflor-ex"
   },
   "Cardmaniac:8334508556463": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG - Ultra-Premium-Kollektion Mega Glurak X ex",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-ultra-premium-kollektion-mega-glurak-x-ex"
@@ -1797,7 +1797,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-back-to-school-eraser-blister-2023"
   },
   "Cardmaniac:7582974607535": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG - Ruler of the Black Flame Booster Box",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-ruler-of-the-black-flame-booster-box"
@@ -11541,7 +11541,7 @@
     "url": "https://japhunter.ch/products/pokemon-30th-anniversary-celebration-futuristic-gift-box-simplified-chinese-edition"
   },
   "JapHunter:15401287024963": {
-    "available": false,
+    "available": true,
     "title": "Pokémon 30th Anniversary Celebration Deluxe Deck Set Bundle – Espeon ex & Umbreon ex | Simplified Chinese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/umbreon-espeon-chinese"
@@ -11565,7 +11565,7 @@
     "url": "https://japhunter.ch/products/pokemon-30th-anniversary-celebration-collector-display-gift-box-espeon-ex-umbreon-ex-simplified-chinese-edition"
   },
   "JapHunter:15401285878083": {
-    "available": false,
+    "available": true,
     "title": "Pokémon 30th Anniversary Celebration Deluxe Deck Set – Umbreon ex | Simplified Chinese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-30th-anniversary-celebration-deluxe-deck-set-umbreon-ex-simplified-chinese-edition"
