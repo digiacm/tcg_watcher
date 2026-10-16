@@ -21903,7 +21903,7 @@
     "url": "https://japhunter.ch/products/psa-10-mewtwo-ar-183-165-pokemon-card-151-japanese-sv2a"
   },
   "JapHunter:15428324065603": {
-    "available": true,
+    "available": false,
     "title": "PSA 10 Pikachu AR #173/165 – Pokémon Card 151 Japanese SV2a",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-pikachu-ar-173-165-pokemon-card-151-japanese-sv2a"
@@ -21955,5 +21955,17 @@
     "title": "[Box Break] Pokémon - CBB6C - Gem Pack Vol. 6 - Booster [CN]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/box-break-pok-mon-cbb6c-gem-pack-vol-6-booster-cn"
+  },
+  "JapHunter:15444757283139": {
+    "available": true,
+    "title": "Pokémon Règne Delta ME06 | Display 36 Boosters Méga-Évolution | Édition Française",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/pokemon-regne-delta-me06-display-36-boosters-mega-evolution-francais"
+  },
+  "JapHunter:15444643512643": {
+    "available": true,
+    "title": "Pokémon AR CARDS Complete Set | 27 First Partner Cards | 30th Celebration | Japanese Edition",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/pokemon-ar-cards-complete-set-27-first-partner-cards-30th-celebration-japanese"
   }
 }
