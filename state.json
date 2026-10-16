@@ -11943,7 +11943,7 @@
     "url": "https://japhunter.ch/products/pokemon-eevee-friends-gift-box-set-simplified-chinese-edition"
   },
   "JapHunter:15339566039363": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Eevee & Friends Exclusive Gift Box | Simplified Chinese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-eevee-friends-exclusive-gift-box-simplified-chinese-edition"
@@ -15693,7 +15693,7 @@
     "url": "https://pokeuri.ch/products/2022-cherens-care-241-psa-10"
   },
   "PokeUri:9318651265311": {
-    "available": true,
+    "available": false,
     "title": "2023 UMBREON #130 - PSA 10",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/2023-umbreon-130-psa-10-kopie"
@@ -21943,5 +21943,11 @@
     "title": "Pokémon - CBB6C - Gem Pack Vol. 6 - Booster Box [CN]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-cbb6c-gem-pack-vol-6-booster-box-cn"
+  },
+  "Cardmaniac:10342899253423": {
+    "available": false,
+    "title": "Dragon Ball Super Fusion World – BRIGHTNESS OF HOPE Booster Box – FB11",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/dragon-ball-super-fusion-world-brightness-of-hope-booster-box-fb11"
   }
 }
