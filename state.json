@@ -19635,7 +19635,7 @@
     "url": "https://www.mrpackhouse.ch/products/pokemon-sv10-the-glory-of-team-rocket-booster-display-jap"
   },
   "Mr. Packhouse:10628785176915": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Wachsendes Chaos DE",
     "shop": "Mr. Packhouse",
     "url": "https://www.mrpackhouse.ch/products/pokemon-wachsendes-chaos-de"
@@ -21957,7 +21957,7 @@
     "url": "https://ryu.land/products/box-break-pok-mon-cbb6c-gem-pack-vol-6-booster-cn"
   },
   "JapHunter:15444757283139": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Règne Delta ME06 | Display 36 Boosters Méga-Évolution | Édition Française",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-regne-delta-me06-display-36-boosters-mega-evolution-francais"
@@ -21967,5 +21967,11 @@
     "title": "Pokémon AR CARDS Complete Set | 27 First Partner Cards | 30th Celebration | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-ar-cards-complete-set-27-first-partner-cards-30th-celebration-japanese"
+  },
+  "Detsuki:16113307877720": {
+    "available": true,
+    "title": "Pokémon 30th Celebration Premium Deck Set Espeon & Umbreon",
+    "shop": "Detsuki",
+    "url": "https://detsuki.ch/products/pokemon-30th-celebration-premium-deck-set-espeon-umbreon"
   }
 }
