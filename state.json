@@ -20001,7 +20001,7 @@
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-sylveon-ex-box-en"
   },
   "BoosterBox:15847599800694": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Celebration Greninja ex Tin (4 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-greninja-ex-tin-en"
@@ -21973,5 +21973,35 @@
     "title": "Pokémon 30th Celebration Premium Deck Set Espeon & Umbreon",
     "shop": "Detsuki",
     "url": "https://detsuki.ch/products/pokemon-30th-celebration-premium-deck-set-espeon-umbreon"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-mega-card-set/": {
+    "available": true,
+    "title": "Pokémon – Mega Evolution – 30th Celebration – Mega Card Set",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-mega-card-set/"
+  },
+  "JapHunter:15444755513667": {
+    "available": true,
+    "title": "Pokémon Règne Delta ME06 | Tripack 3 Boosters + Carte Promo Otaria | Édition Française",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/pokemon-regne-delta-me06-tripack-3-boosters-carte-promo-otaria-francais"
+  },
+  "JapHunter:15444756332867": {
+    "available": true,
+    "title": "Pokémon Règne Delta ME06 | Pack Blister 1 Booster Aléatoire | Édition Française",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/pokemon-regne-delta-me06-pack-blister-1-booster-aleatoire-francais"
+  },
+  "JapHunter:15444756758851": {
+    "available": true,
+    "title": "Pokémon Règne Delta ME06 | Coffret Dresseur d'Élite (ETB) Méga-Rayquaza | Édition Française",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/pokemon-regne-delta-me06-coffret-dresseur-d-elite-etb-mega-rayquaza-francais"
+  },
+  "JapHunter:15446300950851": {
+    "available": true,
+    "title": "Pokémon Gem Pack Vol.7 Booster Box Display (CBB7C) | Simplified Chinese Edition",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/pokemon-gem-pack-vol-7-psyduck-booster-box-display-simplified-chinese-edition"
   }
 }
