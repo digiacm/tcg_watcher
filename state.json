@@ -13527,7 +13527,7 @@
     "url": "https://japhunter.ch/products/violet-ex-display-sv1v"
   },
   "JapHunter:9600181174595": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Triple Beat sv1a Japanese Booster Box Display",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/triple-beat-display"
@@ -21225,7 +21225,7 @@
     "url": "https://japhunter.ch/products/psa-10-charizard-v-sr-103-100-star-birth-japanese-s9"
   },
   "Cardmaniac:10326657958063": {
-    "available": true,
+    "available": false,
     "title": "Eventticket – Pokémon TCG: Delta-Herrschaft Prerelease-Turnier",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/eventticket-pokemon-tcg-delta-herrschaft-prerelease-turnier"
@@ -22231,5 +22231,41 @@
     "title": "Pokémon - ME01 - Mega Evolution - Base - Booster Box",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-me01-mega-evolution-base-booster-box"
+  },
+  "Pikaversum:15967949193590": {
+    "available": true,
+    "title": "Protecc PET Case Pokémon Regular ETB | 5er Pack",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/protecc-pet-case-pokemon-regular-etb-5er-pack"
+  },
+  "RyuLand:16127775342922": {
+    "available": false,
+    "title": "Pokémon - ME06 - Mega Evolution - Delta Reign - Booster",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-me06-mega-evolution-delta-reign-booster"
+  },
+  "RyuLand:16127832785226": {
+    "available": true,
+    "title": "Pokémon - ME04 - Mega Evolution - Chaos Rising - Booster Bundle",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-me04-mega-evolution-chaos-rising-booster-bundle"
+  },
+  "RyuLand:16127832686922": {
+    "available": false,
+    "title": "Pokémon - ME04 - Mega Evolution - Chaos Rising - Elite Trainer Box",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-me04-mega-evolution-chaos-rising-elite-trainer-box"
+  },
+  "RyuLand:16127832523082": {
+    "available": false,
+    "title": "Pokémon - ME04 - Mega Evolution - Chaos Rising - Booster",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-me04-mega-evolution-chaos-rising-booster"
+  },
+  "RyuLand:16127832457546": {
+    "available": false,
+    "title": "Pokémon - ME04 - Mega Evolution - Chaos Rising - Booster Box",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-me04-mega-evolution-chaos-rising-booster-box"
   }
 }
