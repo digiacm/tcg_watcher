@@ -2871,7 +2871,7 @@
     "url": "https://pikaversum.ch/products/yamper-099-094-pfl-099-094"
   },
   "Pikaversum:15827254542710": {
-    "available": false,
+    "available": true,
     "title": "Mega Chandelure ex - 038/084 [PBL - 038/084]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/mega-chandelure-ex-038-084-pbl-038-084"
@@ -3057,19 +3057,19 @@
     "url": "https://pikaversum.ch/products/beedrill-ex-003-086-cri-003-086"
   },
   "Pikaversum:15821837173110": {
-    "available": true,
+    "available": false,
     "title": "Worker (Full Art) [SWSH12 - 195/195]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/worker-full-art-swsh12-195-195"
   },
   "Pikaversum:15821837009270": {
-    "available": true,
+    "available": false,
     "title": "Worker (Secret) [SWSH12 - 209/195]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/worker-secret-swsh12-209-195"
   },
   "Pikaversum:15821836845430": {
-    "available": true,
+    "available": false,
     "title": "Wallace (Full Art) [SWSH12 - 194/195]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/wallace-full-art-swsh12-194-195"
@@ -3081,7 +3081,7 @@
     "url": "https://pikaversum.ch/products/wallace-secret-swsh12-208-195"
   },
   "Pikaversum:15821836583286": {
-    "available": true,
+    "available": false,
     "title": "Serena (Secret) [SWSH12 - 207/195]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/serena-secret-swsh12-207-195"
@@ -3111,7 +3111,7 @@
     "url": "https://pikaversum.ch/products/mega-pyroar-ex-099-086-cri-099-086"
   },
   "Pikaversum:15821836058998": {
-    "available": false,
+    "available": true,
     "title": "Mega Gallade ex [CRI - 048/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/mega-gallade-ex-cri-048-086"
@@ -3123,19 +3123,19 @@
     "url": "https://pikaversum.ch/products/lance-secret-swsh12-206-195"
   },
   "Pikaversum:15821835764086": {
-    "available": true,
+    "available": false,
     "title": "Lance (Full Art) [SWSH12 - 192/195]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/lance-full-art-swsh12-192-195"
   },
   "Pikaversum:15821835633014": {
-    "available": true,
+    "available": false,
     "title": "Furisode Girl (Full Art) [SWSH12 - 190/195]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/furisode-girl-full-art-swsh12-190-195"
   },
   "Pikaversum:15821835534710": {
-    "available": true,
+    "available": false,
     "title": "Furisode Girl (Secret) [SWSH12 - 205/195]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/furisode-girl-secret-swsh12-205-195"
@@ -3147,25 +3147,25 @@
     "url": "https://pikaversum.ch/products/cobalion-ex-064-086-cri-064-086"
   },
   "Pikaversum:15821835305334": {
-    "available": true,
+    "available": false,
     "title": "Candice (Full Art) [SWSH12 - 189/195]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/candice-full-art-swsh12-189-195"
   },
   "Pikaversum:15821835174262": {
-    "available": true,
+    "available": false,
     "title": "Candice (Secret) [SWSH12 - 204/195]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/candice-secret-swsh12-204-195"
   },
   "Pikaversum:15821835043190": {
-    "available": true,
+    "available": false,
     "title": "Brandon (Secret) [SWSH12 - 203/195]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/brandon-secret-swsh12-203-195"
   },
   "Pikaversum:15821834912118": {
-    "available": true,
+    "available": false,
     "title": "Brandon (Full Art) [SWSH12 - 188/195]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/brandon-full-art-swsh12-188-195"
@@ -5475,13 +5475,13 @@
     "url": "https://pikaversum.ch/products/serperior-vstar-secret-210-swsh12-210-195"
   },
   "Pikaversum:15771370291574": {
-    "available": true,
+    "available": false,
     "title": "Gordie [SWSH12: TG - TG24/TG30]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/gordie-swsh12-tg-tg24-tg30"
   },
   "Pikaversum:15771370258806": {
-    "available": true,
+    "available": false,
     "title": "Judge [SWSH12: TG - TG25/TG30]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/judge-swsh12-tg-tg25-tg30"
@@ -5511,7 +5511,7 @@
     "url": "https://pikaversum.ch/products/mawile-vstar-secret-swsh12-200-195"
   },
   "Pikaversum:15771369996662": {
-    "available": true,
+    "available": false,
     "title": "Raihan [SWSH12: TG - TG27/TG30]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/raihan-swsh12-tg-tg27-tg30"
@@ -5619,7 +5619,7 @@
     "url": "https://pikaversum.ch/products/mawile-v-swsh12-tg-tg17-tg30"
   },
   "Pikaversum:15771368489334": {
-    "available": true,
+    "available": false,
     "title": "Gym Trainer (Full Art) [SWSH12 - 191/195]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/gym-trainer-full-art-swsh12-191-195"
@@ -5661,7 +5661,7 @@
     "url": "https://pikaversum.ch/products/lugia-v-swsh12-138-195"
   },
   "Pikaversum:15771368227190": {
-    "available": true,
+    "available": false,
     "title": "Professor Burnet [SWSH12: TG - TG26/TG30]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/professor-burnet-swsh12-tg-tg26-tg30"
@@ -5685,8 +5685,8 @@
     "url": "https://pikaversum.ch/products/mega-floette-ex-035-086-cri-035-086"
   },
   "Pikaversum:15769875972470": {
-    "available": false,
-    "title": "Chillabell-ex [CRI - 073/086]",
+    "available": true,
+    "title": "Cinccino ex - 073/086 [CRI - 073/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/cinccino-ex-073-086-cri-073-086"
   },
@@ -6183,7 +6183,7 @@
     "url": "https://pikaversum.ch/products/stunfisk-ex-252-217-me-ascended-heroes-676064"
   },
   "Pikaversum:15630803075446": {
-    "available": false,
+    "available": true,
     "title": "Team Rocket's Nidoking ex - 119/182 [DRI - 119/182]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/team-rocket-s-nidoking-ex-119-182-sv10-destined-rivals-632927"
@@ -6279,7 +6279,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-2-pack-2026-booster-blister-raikou"
   },
   "Pikaversum:15576800756086": {
-    "available": false,
+    "available": true,
     "title": "Team Rocket's Crobat ex - 122/182 [DRI - 122/182]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/team-rocket-s-crobat-ex-122-182-sv10-destined-rivals-632930"
@@ -7257,7 +7257,7 @@
     "url": "https://pikaversum.ch/products/greninja-ex-083-066-sv5a-crimson-haze-566138"
   },
   "Pikaversum:15465011839350": {
-    "available": false,
+    "available": true,
     "title": "Zacian - 100/094 [PFL - 100/094]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/zacian-100-094-me02-phantasmal-flames-662245"
@@ -7287,7 +7287,7 @@
     "url": "https://pikaversum.ch/products/cetitan-ex-065-182-sv10-destined-rivals-632878"
   },
   "Pikaversum:15464993882486": {
-    "available": false,
+    "available": true,
     "title": "Hydrapple - 188/182 [DRI - 188/182]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/hydrapple-188-182-sv10-destined-rivals-632988"
@@ -7569,7 +7569,7 @@
     "url": "https://pikaversum.ch/products/dawn-118-094-me02-phantasmal-flames-662149"
   },
   "Pikaversum:15447228907894": {
-    "available": false,
+    "available": true,
     "title": "Wigglytuff - 105/094 [PFL - 105/094]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/wigglytuff-105-094-me02-phantasmal-flames-662240"
@@ -17277,7 +17277,7 @@
     "url": "https://ryu.land/products/pok-mon-mega-moonlit-ex-tin"
   },
   "RyuLand:15553989968202": {
-    "available": true,
+    "available": false,
     "title": "Pokémon - M4 - Mega Evolutions - Ninja Spinner - Booster [JP]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pokemon-m4-mega-evolutions-ninja-spinner-booster-jp"
@@ -21249,7 +21249,7 @@
     "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-umbreon-deluxe-deck/"
   },
   "JapHunter:15433408315715": {
-    "available": true,
+    "available": false,
     "title": "PSA 10 Venusaur-Holo #002/025 – Pokémon Card 25th Anniversary Edition Japanese S8a-P",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-venusaur-holo-002-025-pokemon-card-25th-anniversary-edition-japanese-s8a-p"
@@ -21897,7 +21897,7 @@
     "url": "https://pokealp.ch/products/pokemon-30th-celebration-me55-booster-anglais"
   },
   "JapHunter:15428324098371": {
-    "available": true,
+    "available": false,
     "title": "PSA 10 Mewtwo AR #183/165 – Pokémon Card 151 Japanese SV2a",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-mewtwo-ar-183-165-pokemon-card-151-japanese-sv2a"
@@ -22345,5 +22345,149 @@
     "title": "PSA 10 Entei V SAR #213/172 – VSTAR Universe Japanese S12a",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-entei-v-sar-213-172-vstar-universe-japanese-s12a"
+  },
+  "Pikaversum:15970937602422": {
+    "available": true,
+    "title": "Electivire ex - 069/182 [DRI - 069/182]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/electivire-ex-069-182-sv10-destined-rivals-632882"
+  },
+  "Pikaversum:15970937536886": {
+    "available": true,
+    "title": "Mega Dragonite ex - 271/217 [ASC - 271/217]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/mega-dragonite-ex-271-217-me-ascended-heroes-676083"
+  },
+  "Pikaversum:15970937471350": {
+    "available": true,
+    "title": "Ethan's Typhlosion - 190/182 [DRI - 190/182]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/ethan-s-typhlosion-190-182-sv10-destined-rivals-632990"
+  },
+  "Pikaversum:15970937438582": {
+    "available": true,
+    "title": "Mega Greninja ex - 100/086 [CRI - 100/086]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/mega-greninja-ex-100-086-me04-chaos-rising-693516"
+  },
+  "Pikaversum:15970937373046": {
+    "available": true,
+    "title": "Rabsca ex [DRI - 025/182]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/rabsca-ex-sv10-destined-rivals-632848"
+  },
+  "Pikaversum:15970937340278": {
+    "available": true,
+    "title": "Tyranitar V - SWSH109 [SWSD - SWSH109]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/tyranitar-v-swsh109-swsh-sword-shield-promo-cards-238553"
+  },
+  "Pikaversum:15970937241974": {
+    "available": true,
+    "title": "Lucario VSTAR - SWSH291 [SWSD - SWSH291]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/lucario-vstar-swsh291-swsh-sword-shield-promo-cards-475642"
+  },
+  "Pikaversum:15970937209206": {
+    "available": true,
+    "title": "Charcadet - 022 (Pokemon Center Exclusive) [MEP - 022]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/charcadet-022-pokemon-center-exclusive-me-mega-evolution-promo-665053"
+  },
+  "Pikaversum:15970937110902": {
+    "available": true,
+    "title": "N's Zoroark ex - 137/217 [ASC - 137/217]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/n-s-zoroark-ex-137-217-me-ascended-heroes-675949"
+  },
+  "Pikaversum:15970937078134": {
+    "available": true,
+    "title": "Lurantis ex - 004/084 [PBL - 004/084]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/lurantis-ex-004-084-me05-pitch-black-704761"
+  },
+  "Pikaversum:15970936979830": {
+    "available": true,
+    "title": "Tapu Koko ex [JTG - 051/159]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/tapu-koko-ex-sv09-journey-together-623478"
+  },
+  "Pikaversum:15970936914294": {
+    "available": true,
+    "title": "Team Rocket's Raticate - 202/182 [DRI - 202/182]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/team-rocket-s-raticate-202-182-sv10-destined-rivals-633002"
+  },
+  "Pikaversum:15970936881526": {
+    "available": true,
+    "title": "Levincia [DRI - 244/182]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/levincia-sv10-destined-rivals-633044"
+  },
+  "Pikaversum:15970932687222": {
+    "available": true,
+    "title": "Bulbasaur - 064/063 [m1L]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/bulbasaur-064-063-m1l-mega-brave-647173"
+  },
+  "Pikaversum:15970932621686": {
+    "available": true,
+    "title": "Ivysaur - 065/063 [m1L]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/ivysaur-065-063-m1l-mega-brave-647174"
+  },
+  "Pikaversum:15970932556150": {
+    "available": true,
+    "title": "Azurill - 086/076 [m6]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/azurill-086-076-m6-storm-emeralda-709239"
+  },
+  "Pikaversum:15970932523382": {
+    "available": true,
+    "title": "Sinistcha ex [SV8a - 019/187]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/sinistcha-ex-sv8a-terastal-fest-ex-602352"
+  },
+  "Pikaversum:15970932457846": {
+    "available": true,
+    "title": "Scoop Up Cyclone [SV8a - 149/187]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/scoop-up-cyclone-sv8a-terastal-fest-ex-602577"
+  },
+  "Pikaversum:15970932425078": {
+    "available": true,
+    "title": "Tyranitar ex - 122/108 [SV3]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/tyranitar-ex-122-108-sv3-ruler-of-the-black-flame-567076"
+  },
+  "Pikaversum:15970932359542": {
+    "available": true,
+    "title": "Growing Grass Energy [m6 - 104/076]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/growing-grass-energy-m6-storm-emeralda-709257"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-mega-evolution-aura-seeker-m7-booster-display/": {
+    "available": true,
+    "title": "Pokémon – Mega Evolution – Aura Seeker (M7) – Booster Display",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-aura-seeker-m7-booster-display/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-mega-evolution-flowing-fists-me07-booster-pack/": {
+    "available": true,
+    "title": "Pokémon – Mega Evolution – Flowing Fists (ME07) – Booster Pack",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-flowing-fists-me07-booster-pack/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-scarlet-violet-gem-pack-vol-7-cbb7c-booster-display/": {
+    "available": true,
+    "title": "Pokémon – Scarlet & Violet – Gem Pack Vol.7 (CBB7C) – Booster Display",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-scarlet-violet-gem-pack-vol-7-cbb7c-booster-display/"
+  },
+  "JapHunter:15460643078467": {
+    "available": true,
+    "title": "Dragon Ball Super Divers – Promotion Pack Vol.2 | 1 Random Card | Japanese Edition",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/dragon-ball-super-divers-promotion-pack-vol-2-japanese-edition"
   }
 }
