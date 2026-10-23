@@ -11739,7 +11739,7 @@
     "url": "https://japhunter.ch/products/psa-10-jolteon-ex-sar-209-187-terastal-festival-ex-japanese-sv8a"
   },
   "JapHunter:15356816949571": {
-    "available": false,
+    "available": true,
     "title": "PSA 10 Sylveon ex SAR #212/187 – Terastal Festival ex Japanese SV8a",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-sylveon-ex-sar-212-187-terastal-festival-ex-japanese-sv8a"
@@ -22489,5 +22489,11 @@
     "title": "Dragon Ball Super Divers – Promotion Pack Vol.2 | 1 Random Card | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/dragon-ball-super-divers-promotion-pack-vol-2-japanese-edition"
+  },
+  "BoosterBox:15970946908534": {
+    "available": true,
+    "title": "Pokémon Prismatische Entwicklungen Super-Premium-Kollektion (15 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-prismatische-entwicklungen-super-premium-kollektion-de"
   }
 }
