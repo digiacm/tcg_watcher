@@ -2043,19 +2043,19 @@
     "url": "https://pikaversum.ch/products/litleo-cri-014-086"
   },
   "Pikaversum:15880142717302": {
-    "available": true,
+    "available": false,
     "title": "Team Rocket's Articuno [DRI - 051/182]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/team-rocket-s-articuno-dri-051-182"
   },
   "Pikaversum:15880142455158": {
-    "available": true,
+    "available": false,
     "title": "Kyogre [MEG - 034/132]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/kyogre-meg-034-132"
   },
   "Pikaversum:15880142094710": {
-    "available": true,
+    "available": false,
     "title": "Charmeleon - 079 (Cosmos Holo) [MEP - 079]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/charmeleon-079-cosmos-holo-mep-079"
@@ -2073,7 +2073,7 @@
     "url": "https://pikaversum.ch/products/dwebble-054-086-poke-ball-pattern-sv11b-054-086"
   },
   "Pikaversum:15880141242742": {
-    "available": true,
+    "available": false,
     "title": "Moltres [PFL - 014/094]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/moltres-pfl-014-094"
@@ -2097,7 +2097,7 @@
     "url": "https://pikaversum.ch/products/terrakion-051-086-sv11w-051-086"
   },
   "Pikaversum:15880140423542": {
-    "available": true,
+    "available": false,
     "title": "Vileplume [PFL - 003/094]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/vileplume-pfl-003-094"
@@ -2157,7 +2157,7 @@
     "url": "https://pikaversum.ch/products/koffing-tr-58-82"
   },
   "Pikaversum:15880138654070": {
-    "available": true,
+    "available": false,
     "title": "Celebi [MEG - 012/132]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/celebi-meg-012-132"
@@ -2355,7 +2355,7 @@
     "url": "https://pikaversum.ch/products/latios-meg-101-132"
   },
   "Pikaversum:15869100818806": {
-    "available": true,
+    "available": false,
     "title": "Dhelmise [MEG - 018/132]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/dhelmise-meg-018-132"
@@ -2469,7 +2469,7 @@
     "url": "https://pikaversum.ch/products/ninetales-cri-009-086"
   },
   "Pikaversum:15869086302582": {
-    "available": true,
+    "available": false,
     "title": "Roaring Moon [PRE - 065/131]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/roaring-moon-pre-065-131"
@@ -2565,7 +2565,7 @@
     "url": "https://pikaversum.ch/products/okidogi-pre-057-131"
   },
   "Pikaversum:15869083582838": {
-    "available": true,
+    "available": false,
     "title": "Glaceon - 171 (Cosmos Holo) [SVP - 171]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/glaceon-171-cosmos-holo-svp-171"
@@ -3981,7 +3981,7 @@
     "url": "https://pikaversum.ch/products/reuniclus-poke-ball-pattern-blk-039-086"
   },
   "Pikaversum:15798256796022": {
-    "available": true,
+    "available": false,
     "title": "Archeops (Poke Ball Pattern) [WHT - 051/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/archeops-poke-ball-pattern-wht-051-086"
@@ -4065,7 +4065,7 @@
     "url": "https://pikaversum.ch/products/banette-swsh06-063-198"
   },
   "Pikaversum:15797069152630": {
-    "available": true,
+    "available": false,
     "title": "Dialga [SWSH07 - 112/203]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/dialga-swsh07-112-203"
@@ -4239,7 +4239,7 @@
     "url": "https://pikaversum.ch/products/walrein-swsh06-039-198"
   },
   "Pikaversum:15796445184374": {
-    "available": true,
+    "available": false,
     "title": "Altaria [SWSH07 - 106/203]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/altaria-swsh07-106-203"
@@ -5079,7 +5079,7 @@
     "url": "https://pikaversum.ch/products/fletchinder-029-193-pal-029-193"
   },
   "Pikaversum:15784231567734": {
-    "available": true,
+    "available": false,
     "title": "Chandelure [WHT - 018/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/chandelure-wht-018-086"
@@ -6003,7 +6003,7 @@
     "url": "https://pikaversum.ch/products/entei-quick-ball-me-ascended-heroes-676873"
   },
   "Pikaversum:15712338248054": {
-    "available": true,
+    "available": false,
     "title": "Dreepy - 158/217 (Energy Symbol Pattern) [ASC - 158/217]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/dreepy-158-217-energy-symbol-pattern-me-ascended-heroes-677116"
@@ -6183,7 +6183,7 @@
     "url": "https://pikaversum.ch/products/stunfisk-ex-252-217-me-ascended-heroes-676064"
   },
   "Pikaversum:15630803075446": {
-    "available": true,
+    "available": false,
     "title": "Team Rocket's Nidoking ex - 119/182 [DRI - 119/182]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/team-rocket-s-nidoking-ex-119-182-sv10-destined-rivals-632927"
@@ -11469,7 +11469,7 @@
     "url": "https://japhunter.ch/products/psa-10-seismitoad-ar-109-086-black-bolt-japanese-sv11b"
   },
   "JapHunter:15403020812611": {
-    "available": true,
+    "available": false,
     "title": "PSA 10 Reshiram ex SAR #168/086 – White Flare Japanese SV11W",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-reshiram-ex-sar-168-086-white-flare-japanese-sv11w"
@@ -11547,7 +11547,7 @@
     "url": "https://japhunter.ch/products/umbreon-espeon-chinese"
   },
   "JapHunter:15401286762819": {
-    "available": false,
+    "available": true,
     "title": "Pokémon 30th Anniversary Celebration Card Display Sleeve Set – Sylveon ex | Simplified Chinese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-30th-anniversary-celebration-card-display-sleeve-set-sylveon-ex-simplified-chinese-edition"
@@ -12087,7 +12087,7 @@
     "url": "https://japhunter.ch/products/preorder-dragon-ball-fusion-world-fierce-battle-gogeta-pack-vjump-exclusive-japanese-edition"
   },
   "JapHunter:15194308247875": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Center Bundle Tohoku / Hiroshima / Fukuoka (The 3 boxes)",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-center-bundle-tohoku-hiroshima-fukuoka"
@@ -13809,7 +13809,7 @@
     "url": "https://pokealp.ch/products/team-rockets-mewtwo-ex-sar-237-193-m2a-mega-dream-ex-psa-10-gem-mint-edition-japonaise"
   },
   "PokeAlp:15892346667339": {
-    "available": true,
+    "available": false,
     "title": "Pikachu AR 173/165 | SV2a Pokémon 151 | PSA 10 Gem Mint | Édition Japonaise",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pikachu-ar-173-165-sv2a-pokemon-151-psa-10-gem-mint-edition-japonaise"
@@ -21207,13 +21207,13 @@
     "url": "https://japhunter.ch/products/psa-10-greninja-ex-sar-090-066-crimson-haze-japanese-sv5a"
   },
   "JapHunter:15430916669763": {
-    "available": false,
+    "available": true,
     "title": "PSA 10 Fukuoka's Pikachu #289/SV-P – Pokémon Center Fukuoka Japanese Promo",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-fukuokas-pikachu-289-sv-p-pokemon-center-fukuoka-japanese-promo"
   },
   "JapHunter:15430916866371": {
-    "available": false,
+    "available": true,
     "title": "PSA 10 Tohoku's Pikachu #260/SV-P – Pokémon Center Tohoku Japanese Promo",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-tohokus-pikachu-260-sv-p-pokemon-center-tohoku-japanese-promo"
@@ -21915,7 +21915,7 @@
     "url": "https://japhunter.ch/products/psa-10-mistys-psyduck-ar-071-063-heat-wave-arena-japanese-sv9a"
   },
   "JapHunter:15428323672387": {
-    "available": true,
+    "available": false,
     "title": "PSA 10 Pikachu V CSR #222/184 – VMAX Climax Japanese S8b",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-pikachu-v-csr-222-184-vmax-climax-japanese-s8b"
