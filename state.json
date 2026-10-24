@@ -14061,7 +14061,7 @@
     "url": "https://pokealp.ch/products/display-mega-inferno-x-m2-edition-japonaise"
   },
   "PokeAlp:15719630012747": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Pack de Gemmes Vol.5 (CBB5C) | Boîte Chinoise — 18 Booster",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pack-de-gemmes-vol5-cbb5c-boite-chinois-simplifie"
@@ -22519,5 +22519,11 @@
     "title": "Pokémon MEGA – Special Deck Set MEGA | Mega Feraligatr ex, Mega Dragonite ex & Mega Gengar ex | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-mega-special-deck-set-mega-feraligatr-dragonite-gengar-japanese-edition"
+  },
+  "JapHunter:15461731270979": {
+    "available": true,
+    "title": "Pokémon Card Game MEGA M6a 30th Celebration Booster Pack | 6 Holo Cards | Japanese Edition",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/pokemon-card-game-mega-m6a-30th-celebration-booster-pack-japanese-edition"
   }
 }
