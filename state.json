@@ -2811,7 +2811,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-ecarlate-et-violet-evolutions-a-paldea-display-fr"
   },
   "Pikaversum:15841066320246": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG: 30th Celebration Binder Collection",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-binder-collection"
@@ -12087,7 +12087,7 @@
     "url": "https://japhunter.ch/products/preorder-dragon-ball-fusion-world-fierce-battle-gogeta-pack-vjump-exclusive-japanese-edition"
   },
   "JapHunter:15194308247875": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Center Bundle Tohoku / Hiroshima / Fukuoka (The 3 boxes)",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-center-bundle-tohoku-hiroshima-fukuoka"
@@ -12861,7 +12861,7 @@
     "url": "https://japhunter.ch/products/pokemon-center-mega-symphonia-set-m1s-japanese-collector-box-gardevoir-edition"
   },
   "JapHunter:15056289890627": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Center MEGA Brave Set M1L | Japanese Limited Collector Box | Lucario Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/preorder-pokemon-center-mega-brave-set-m1l-japanese-limited-edition-collector-bo"
@@ -22495,5 +22495,17 @@
     "title": "Pokémon Prismatische Entwicklungen Super-Premium-Kollektion (15 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-prismatische-entwicklungen-super-premium-kollektion-de"
+  },
+  "Pikaversum:15971387277686": {
+    "available": true,
+    "title": "Pokémon TCG Bundle: 30th Celebration Sylveon ex Box + Mega Greninja ex Premium Collection (Französisch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-sylveon-ex-box-mega-greninja-ex-premium-collection-franzosisch"
+  },
+  "Pikaversum:15971389505910": {
+    "available": true,
+    "title": "Pokémon TCG Bundle: 30th Celebration Greninja ex Box + Mega Greninja ex Premium Collection (Französisch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-greninja-ex-box-mega-greninja-ex-premium-collection-franzosisch"
   }
 }
