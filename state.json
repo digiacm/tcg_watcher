@@ -2031,7 +2031,7 @@
     "url": "https://pikaversum.ch/products/team-rocket-s-energy-dri-182-182"
   },
   "Pikaversum:15880143143286": {
-    "available": true,
+    "available": false,
     "title": "Team Rocket's Raticate - 148/182 [DRI - 148/182]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/team-rocket-s-raticate-148-182-dri-148-182"
@@ -2361,7 +2361,7 @@
     "url": "https://pikaversum.ch/products/dhelmise-meg-018-132"
   },
   "Pikaversum:15869100556662": {
-    "available": true,
+    "available": false,
     "title": "Lopunny [MEG - 108/132]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/lopunny-meg-108-132"
@@ -2547,7 +2547,7 @@
     "url": "https://pikaversum.ch/products/umbreon-pre-059-131"
   },
   "Pikaversum:15869084107126": {
-    "available": true,
+    "available": false,
     "title": "Team Rocket's Giovanni [DRI - 174/182]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/team-rocket-s-giovanni-dri-174-182"
@@ -4485,7 +4485,7 @@
     "url": "https://pikaversum.ch/products/nymble-009-094-pfl-009-094"
   },
   "Pikaversum:15796442366326": {
-    "available": true,
+    "available": false,
     "title": "Xerneas [MEG - 064/132]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/xerneas-meg-064-132"
@@ -13515,7 +13515,7 @@
     "url": "https://japhunter.ch/products/lost-abyss-display-s11"
   },
   "JapHunter:9600199262531": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Paradigm Trigger s12 Japanese Booster Box Display",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/paradigm-trigger-display-s12"
@@ -19965,7 +19965,7 @@
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-mini-tin-en"
   },
   "BoosterBox:15877581177206": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Celebration Elite Trainer Box (9 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-etb-en"
@@ -19989,13 +19989,13 @@
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-poster-collection-en"
   },
   "BoosterBox:15847600095606": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Celebration Greninja ex Box (4 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-greninja-ex-box-en"
   },
   "BoosterBox:15847599964534": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Celebration Sylveon ex Box (4 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-sylveon-ex-box-en"
@@ -20121,7 +20121,7 @@
     "url": "https://boosterbox.ch/products/pokemon-mega-moonlit-mega-gengar-ex-tin-en"
   },
   "BoosterBox:15750962512246": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Perfect Order (ME03) Booster Pack",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-perfect-order-booster-pack-en"
@@ -21273,7 +21273,7 @@
     "url": "https://theuncommonshop.ch/product/pokemon-xy-generations-xy8-5-20th-anniversary-genesect-mythical-collection/"
   },
   "PokeAlp:16061625401675": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG 30th Celebration only Binder Collection",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-tcg-30th-celebration-binder-collection-english-edition"
@@ -22507,5 +22507,17 @@
     "title": "Pokémon TCG Bundle: 30th Celebration Greninja ex Box + Mega Greninja ex Premium Collection (Französisch)",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-greninja-ex-box-mega-greninja-ex-premium-collection-franzosisch"
+  },
+  "JapHunter:15461121032515": {
+    "available": true,
+    "title": "Pokémon Bodoge Club – Are You Team Rocket? | Board Game for 4 to 6 Players | Japanese Edition",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/pokemon-bodoge-club-are-you-team-rocket-board-game-japanese-edition"
+  },
+  "JapHunter:15461120934211": {
+    "available": true,
+    "title": "Pokémon MEGA – Special Deck Set MEGA | Mega Feraligatr ex, Mega Dragonite ex & Mega Gengar ex | Japanese Edition",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/pokemon-mega-special-deck-set-mega-feraligatr-dragonite-gengar-japanese-edition"
   }
 }
