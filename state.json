@@ -609,7 +609,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-premium-kollektion-mega-bisaflor-ex"
   },
   "Cardmaniac:8334508556463": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG - Ultra-Premium-Kollektion Mega Glurak X ex",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-ultra-premium-kollektion-mega-glurak-x-ex"
@@ -2811,7 +2811,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-ecarlate-et-violet-evolutions-a-paldea-display-fr"
   },
   "Pikaversum:15841066320246": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG: 30th Celebration Binder Collection",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-binder-collection"
@@ -21327,7 +21327,7 @@
     "url": "https://japhunter.ch/products/psa-10-bulbasaur-ar-166-165-pokemon-card-151-japanese-sv2a"
   },
   "PokeAlp:16066580218187": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG: 30th Celebration Poster Collection",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-tcg-30th-celebration-poster-collection"
