@@ -2721,7 +2721,7 @@
     "url": "https://pikaversum.ch/products/iron-bundle-071-066-sv4m-071-066"
   },
   "Pikaversum:15858950144374": {
-    "available": true,
+    "available": false,
     "title": "Brute Bonnet - 077/066 [SV4K - 077/066]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/brute-bonnet-077-066-sv4k-077-066"
@@ -3363,7 +3363,7 @@
     "url": "https://pikaversum.ch/products/giovanni-s-exile-full-art-hif-67-68"
   },
   "Pikaversum:15808378601846": {
-    "available": true,
+    "available": false,
     "title": "Surfendes Pikachu VMAX [CLB - 009/025]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/surfing-pikachu-vmax-clb-009-025"
@@ -4473,7 +4473,7 @@
     "url": "https://pikaversum.ch/products/litleo-023-132-meg-023-132"
   },
   "Pikaversum:15796442431862": {
-    "available": true,
+    "available": false,
     "title": "Porygon-Z [SWSH06 - 118/198]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/porygon-z-swsh06-118-198"
@@ -5151,7 +5151,7 @@
     "url": "https://pikaversum.ch/products/stufful-075-063-m1s-075-063"
   },
   "Pikaversum:15782952042870": {
-    "available": true,
+    "available": false,
     "title": "Team Rocket's Mimikyu - 205/193 [M2a - 205/193]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/team-rocket-s-mimikyu-205-193-m2a-205-193"
@@ -8127,7 +8127,7 @@
     "url": "https://pikaversum.ch/products/mudsdale-078-071-sv5k-wild-force-568412"
   },
   "Pikaversum:15353243435382": {
-    "available": true,
+    "available": false,
     "title": "Bronzor - 074/071 [SV5K - 074/071]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/bronzor-074-071-sv5k-wild-force-568408"
@@ -9123,7 +9123,7 @@
     "url": "https://pikaversum.ch/products/manaphy-178-172-s12a-vstar-universe-571716"
   },
   "Pikaversum:15327720276342": {
-    "available": true,
+    "available": false,
     "title": "Larvitar - 114/108 [SV3 - 114/108]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/larvitar-114-108-sv3-ruler-of-the-black-flame-567068"
@@ -13869,7 +13869,7 @@
     "url": "https://pokealp.ch/products/pokemon-center-tohoku-special-box-carte-promo-pikachu-edition-japonaise"
   },
   "PokeAlp:15884325290315": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Center Hiroshima's Pikachu — Special BOX | Carte Promo Pikachu | Édition Japonaise",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-center-hiroshima-special-box-carte-promo-pikachu-edition-japonaise"
@@ -13905,7 +13905,7 @@
     "url": "https://pokealp.ch/products/pikachu-020-mp-promo-mcdonalds-japon-2025-carte-japonaise"
   },
   "PokeAlp:15852691259723": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Start Deck 100 — Battle Collection | Deck Aléatoire 60 Cartes | Édition Japonaise",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-start-deck-100-battle-collection-deck-aleatoire-japonais"
@@ -15189,13 +15189,13 @@
     "url": "https://pokeuri.ch/products/pokemon-booster-scarlet-violet-shiny-treasure-ex-1"
   },
   "PokeUri:14847310856572": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON BOOSTER SCARLET&VIOLET: ANCIENT ROAR",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-booster-scarlet-violet-ancient-roar"
   },
   "PokeUri:14847316951420": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON BOOSTER SCARLET&VIOLET: FUTURE FLASH",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-booster-scarlet-violet-future-flash"
@@ -15219,7 +15219,7 @@
     "url": "https://pokeuri.ch/products/pokemon-booster-scarlet-violet-paradigm-trigger"
   },
   "PokeUri:14847374852476": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON BOOSTER SCARLET&VIOLET: SCARLET EX",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-booster-scarlet-violet-scarlet-ex"
@@ -15231,7 +15231,7 @@
     "url": "https://pokeuri.ch/products/pokemon-booster-scarlet-violet-snow-hazard-1"
   },
   "PokeUri:14847390253436": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON BOOSTER SCARLET&VIOLET: VIOLET EX",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-booster-scarlet-violet-violet-ex"
@@ -15267,13 +15267,13 @@
     "url": "https://pokeuri.ch/products/pokemon-booster-scarlet-violet-mask-of-change"
   },
   "PokeUri:14847464276348": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON BOOSTER SCARLET&VIOLET: NIGHT WANDERER",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-booster-scarlet-violet-night-wanderer"
   },
   "PokeUri:14847473975676": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON BOOSTER SCARLET&VIOLET: STELLAR MIRACLE",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-booster-scarlet-violet-stellar-miracle"
@@ -15297,7 +15297,7 @@
     "url": "https://pokeuri.ch/products/pokemon-booster-scarlet-violet-terastal-festival-ex"
   },
   "PokeUri:15012729913724": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON BOOSTER SCARLET&VIOLET: BATTLE PARTNERS",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-booster-scarlet-violet-battle-partners"
@@ -21195,7 +21195,7 @@
     "url": "https://pokealp.ch/products/pokemon-tcg-30th-celebration-mini-tin-en"
   },
   "PokeAlp:16052873199947": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG: 30th Celebration Booster Bundle (6 Packs)",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-tcg-30th-celebration-booster-bundle-6-packs-en"
@@ -22503,7 +22503,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-sylveon-ex-box-mega-greninja-ex-premium-collection-franzosisch"
   },
   "Pikaversum:15971389505910": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG Bundle: 30th Celebration Greninja ex Box + Mega Greninja ex Premium Collection (Französisch)",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-greninja-ex-box-mega-greninja-ex-premium-collection-franzosisch"
@@ -22525,5 +22525,29 @@
     "title": "Pokémon Card Game MEGA M6a 30th Celebration Booster Pack | 6 Holo Cards | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-card-game-mega-m6a-30th-celebration-booster-pack-japanese-edition"
+  },
+  "PokeUri:16180904722812": {
+    "available": true,
+    "title": "PRE-ORDER: POKÉMON ETB: MEGA ENTWICKLUNG DELTA HERRSCHAFT",
+    "shop": "PokeUri",
+    "url": "https://pokeuri.ch/products/pre-order-pokemon-etb-mega-entwicklung-delta-herrschaft"
+  },
+  "PokeUri:16180902429052": {
+    "available": true,
+    "title": "PRE-ORDER: POKÉMON ETB: MEGA EVOLUTION DELTA REIGN",
+    "shop": "PokeUri",
+    "url": "https://pokeuri.ch/products/pre-order-pokemon-etb-mega-evolution-delta-reign"
+  },
+  "PokeUri:16180901314940": {
+    "available": true,
+    "title": "PRE-ORDER: POKÉMON DISPLAY: MEGA ENTWICKLUNG DELTA HERRSCHAFT",
+    "shop": "PokeUri",
+    "url": "https://pokeuri.ch/products/pre-order-pokemon-display-mega-entwicklung-delta-herrschaft"
+  },
+  "PokeUri:16180898267516": {
+    "available": true,
+    "title": "PRE-ORDER: POKÉMON DISPLAY: MEGA EVOLUTION DELTA REIGN",
+    "shop": "PokeUri",
+    "url": "https://pokeuri.ch/products/pokemon-display-mega-evolution-delta-reign"
   }
 }
