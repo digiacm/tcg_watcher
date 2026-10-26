@@ -267,7 +267,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-tin-box-mega-mondschein"
   },
   "Cardmaniac:8599832690863": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG - Abyss Eye Booster Box",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-abyss-eye-booster-box"
@@ -855,7 +855,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-white-flare-booster-box"
   },
   "Cardmaniac:8239838625967": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG - Black Bolt Booster Box",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-black-bolt-booster-box"
@@ -1551,7 +1551,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-wild-force-booster-box"
   },
   "Cardmaniac:7712573259951": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG - Cyber Judge Booster Box",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-cyber-judge-booster-box"
@@ -1695,7 +1695,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-ancient-roar-booster-box"
   },
   "Cardmaniac:7634131058863": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG - Future Flash Booster Box",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-future-flash-booster-box"
@@ -1875,7 +1875,7 @@
     "url": "https://cardmaniac.ch/products/sv2p-snow-hazard-booster-box"
   },
   "Cardmaniac:7542763487407": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG - Clay Burst Booster Box",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/sv2d-clay-burst-booster-box"
@@ -5751,7 +5751,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-true-mystery-csv6c-slim-booster-box-simplified-chinese"
   },
   "Pikaversum:15765002420598": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG - Blade Awakening CSV7C Slim Booster Box – Simplified Chinese",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-blade-awakening-csv7c-slim-booster-box-simplified-chinese"
@@ -11889,7 +11889,7 @@
     "url": "https://japhunter.ch/products/pokemon-mega-30th-celebration-futuristic-box-japanese-edition"
   },
   "JapHunter:15345625858371": {
-    "available": false,
+    "available": true,
     "title": "Pokémon MEGA – 30th CELEBRATION Premium Deck Set Espeon & Umbreon | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-mega-30th-celebration-premium-deck-set-espeon-umbreon-japanese-edition"
@@ -13113,7 +13113,7 @@
     "url": "https://japhunter.ch/products/pokemon-heat-wave-arena-sv9a-booster-japanese"
   },
   "JapHunter:14913572667715": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Time Gazer S10D Japanese Booster Box Display",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/time-gazer-display-s10d-japanese-edition"
@@ -13239,7 +13239,7 @@
     "url": "https://japhunter.ch/products/steven-s-beldum-and-metagross-ex-starter-set-japanese-edition"
   },
   "JapHunter:14821633294659": {
-    "available": false,
+    "available": true,
     "title": "Pokémon VMAX Climax S8b Japanese Booster Box Display",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/vmax-climax-display-booster-box"
@@ -20985,7 +20985,7 @@
     "url": "https://detsuki.ch/products/pokemon-storm-emeralda-display-box-m6"
   },
   "JapHunter:15417736659267": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Japanese Mega Darkrai ex #114 - Special Art Rare - M5 - PSA 10 GEM MT",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-japanese-mega-darkrai-ex-114-special-art-rare-m5-psa-10-gem-mt"
