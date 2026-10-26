@@ -3915,7 +3915,7 @@
     "url": "https://pikaversum.ch/products/sprigatito-ex-asc-251-217"
   },
   "Pikaversum:15798264398198": {
-    "available": true,
+    "available": false,
     "title": "Gouging Fire ex - 085/071 [SV5K - 085/071]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/gouging-fire-ex-085-071-sv5k-085-071"
@@ -7119,7 +7119,7 @@
     "url": "https://pikaversum.ch/products/medicham-207-193-m2a-high-class-pack-mega-dream-ex-665878"
   },
   "Pikaversum:15494771802486": {
-    "available": true,
+    "available": false,
     "title": "Cynthia's Spiritomb - 208/193 [M2a - 208/193]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/cynthia-s-spiritomb-208-193-m2a-high-class-pack-mega-dream-ex-665879"
@@ -7287,7 +7287,7 @@
     "url": "https://pikaversum.ch/products/cetitan-ex-065-182-sv10-destined-rivals-632878"
   },
   "Pikaversum:15464993882486": {
-    "available": true,
+    "available": false,
     "title": "Hydrapple - 188/182 [DRI - 188/182]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/hydrapple-188-182-sv10-destined-rivals-632988"
@@ -11463,7 +11463,7 @@
     "url": "https://japhunter.ch/products/psa-10-shining-magikarp-010-025-25th-anniversary-promo-japanese-s8a-p"
   },
   "JapHunter:15403020845379": {
-    "available": true,
+    "available": false,
     "title": "PSA 10 Seismitoad AR #109/086 – Black Bolt Japanese SV11B",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-seismitoad-ar-109-086-black-bolt-japanese-sv11b"
@@ -13965,7 +13965,7 @@
     "url": "https://pokealp.ch/products/okemon-black-bolt-white-flare-sv11b-sv11w-bundle-japonais"
   },
   "PokeAlp:15778613789003": {
-    "available": true,
+    "available": false,
     "title": "Pokémon White Flare SV11w | Boîte Japonaise - 30 Boosters",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-white-flare-sv11w-display-booster-box-japonaise"
@@ -21255,7 +21255,7 @@
     "url": "https://japhunter.ch/products/psa-10-venusaur-holo-002-025-pokemon-card-25th-anniversary-edition-japanese-s8a-p"
   },
   "JapHunter:15433408774467": {
-    "available": false,
+    "available": true,
     "title": "PSA 10 Roaring Moon ex SAR #218/187 – Terastal Fest ex Japanese SV8a",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-roaring-moon-ex-sar-218-187-terastal-fest-ex-japanese-sv8a"
@@ -22359,7 +22359,7 @@
     "url": "https://pikaversum.ch/products/mega-dragonite-ex-271-217-me-ascended-heroes-676083"
   },
   "Pikaversum:15970937471350": {
-    "available": true,
+    "available": false,
     "title": "Ethan's Typhlosion - 190/182 [DRI - 190/182]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/ethan-s-typhlosion-190-182-sv10-destined-rivals-632990"
@@ -22377,19 +22377,19 @@
     "url": "https://pikaversum.ch/products/rabsca-ex-sv10-destined-rivals-632848"
   },
   "Pikaversum:15970937340278": {
-    "available": true,
+    "available": false,
     "title": "Tyranitar V - SWSH109 [SWSD - SWSH109]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/tyranitar-v-swsh109-swsh-sword-shield-promo-cards-238553"
   },
   "Pikaversum:15970937241974": {
-    "available": true,
+    "available": false,
     "title": "Lucario VSTAR - SWSH291 [SWSD - SWSH291]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/lucario-vstar-swsh291-swsh-sword-shield-promo-cards-475642"
   },
   "Pikaversum:15970937209206": {
-    "available": true,
+    "available": false,
     "title": "Charcadet - 022 (Pokemon Center Exclusive) [MEP - 022]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/charcadet-022-pokemon-center-exclusive-me-mega-evolution-promo-665053"
@@ -22413,7 +22413,7 @@
     "url": "https://pikaversum.ch/products/tapu-koko-ex-sv09-journey-together-623478"
   },
   "Pikaversum:15970936914294": {
-    "available": true,
+    "available": false,
     "title": "Team Rocket's Raticate - 202/182 [DRI - 202/182]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/team-rocket-s-raticate-202-182-sv10-destined-rivals-633002"
@@ -22443,7 +22443,7 @@
     "url": "https://pikaversum.ch/products/azurill-086-076-m6-storm-emeralda-709239"
   },
   "Pikaversum:15970932523382": {
-    "available": true,
+    "available": false,
     "title": "Sinistcha ex [SV8a - 019/187]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/sinistcha-ex-sv8a-terastal-fest-ex-602352"
@@ -22455,7 +22455,7 @@
     "url": "https://pikaversum.ch/products/scoop-up-cyclone-sv8a-terastal-fest-ex-602577"
   },
   "Pikaversum:15970932425078": {
-    "available": true,
+    "available": false,
     "title": "Tyranitar ex - 122/108 [SV3]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/tyranitar-ex-122-108-sv3-ruler-of-the-black-flame-567076"
