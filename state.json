@@ -5067,7 +5067,7 @@
     "url": "https://pikaversum.ch/products/luxray-v-swsh10-050-189"
   },
   "Pikaversum:15784231928182": {
-    "available": true,
+    "available": false,
     "title": "Archaludon - 107/142 [SCR - 107/142]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/archaludon-107-142-scr-107-142"
@@ -17277,7 +17277,7 @@
     "url": "https://ryu.land/products/pok-mon-mega-moonlit-ex-tin"
   },
   "RyuLand:15553989968202": {
-    "available": false,
+    "available": true,
     "title": "Pokémon - M4 - Mega Evolutions - Ninja Spinner - Booster [JP]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pokemon-m4-mega-evolutions-ninja-spinner-booster-jp"
@@ -22555,5 +22555,11 @@
     "title": "Pokémon TCG Bundle: 30th Celebration 2-Pack Blister + Enhanced 2-Pack Blister Oktober 2025 (Deutsch)",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-2-pack-blister-enhanced-2-pack-blister-oktober-2025-deutsch"
+  },
+  "Pikaversum:15978222059894": {
+    "available": true,
+    "title": "Pokémon TCG: Gem Pack Vol. 2 CBB2C Booster Box – Simplified Chinese (CN)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-gem-pack-vol-2-cbb2c-booster-box-simplified-chinese"
   }
 }
