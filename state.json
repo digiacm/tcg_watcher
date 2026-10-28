@@ -11319,8 +11319,8 @@
     "url": "https://theuncommonshop.ch/product/dragon-ball-super-saiyan-showdown-pp06-premium-pack-set/"
   },
   "The Uncommon Shop:https://theuncommonshop.ch/product/dragon-ball-super-ultimate-squad-pp08-premium-pack-set/": {
-    "available": true,
-    "title": "Dragon Ball Super – Ultimate Squad (PP08) – Premium Pack Set",
+    "available": false,
+    "title": "395161 Dragon Ball Super Ultimate Squad PP08 Premium Pack Set",
     "shop": "The Uncommon Shop",
     "url": "https://theuncommonshop.ch/product/dragon-ball-super-ultimate-squad-pp08-premium-pack-set/"
   },
@@ -11367,20 +11367,20 @@
     "url": "https://theuncommonshop.ch/product/dragon-ball-super-fusion-world-fb09-booster-display/"
   },
   "The Uncommon Shop:https://theuncommonshop.ch/product/dragon-ball-super-fusion-world-saiyans-pride-fb08-booster-display/": {
-    "available": true,
-    "title": "Dragon Ball Super – Fusion World Saiyan’s Pride (FB08) – Booster Display",
+    "available": false,
+    "title": "257455 Dragon Ball Super Fusion World Saiyan s Pride FB08 Booster Display",
     "shop": "The Uncommon Shop",
     "url": "https://theuncommonshop.ch/product/dragon-ball-super-fusion-world-saiyans-pride-fb08-booster-display/"
   },
   "The Uncommon Shop:https://theuncommonshop.ch/product/dragon-ball-super-fusion-world-wish-for-shenron-fb07-booster-display/": {
-    "available": true,
-    "title": "Dragon Ball Super – Fusion World Wish for Shenron (FB07) – Booster Display",
+    "available": false,
+    "title": "257438 Dragon Ball Super Fusion World Wish for Shenron FB07 Booster Display",
     "shop": "The Uncommon Shop",
     "url": "https://theuncommonshop.ch/product/dragon-ball-super-fusion-world-wish-for-shenron-fb07-booster-display/"
   },
   "The Uncommon Shop:https://theuncommonshop.ch/product/dragon-ball-super-fusion-worlds-rivals-clash-fb06-booster-display/": {
-    "available": true,
-    "title": "Dragon Ball Super – Fusion Worlds Rivals Clash (FB06) – Booster Display",
+    "available": false,
+    "title": "125111 Dragon Ball Super Fusion Worlds Rivals Clash FB06 Booster Display",
     "shop": "The Uncommon Shop",
     "url": "https://theuncommonshop.ch/product/dragon-ball-super-fusion-worlds-rivals-clash-fb06-booster-display/"
   },
@@ -20823,7 +20823,7 @@
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-eevee-blister-en"
   },
   "BoosterBox:15884101878134": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Celebration Binder Collection (5 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-binder-collection-en"
