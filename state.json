@@ -375,7 +375,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-illustrations-kollektion-erste-partner-serie-1"
   },
   "Cardmaniac:8539902869679": {
-    "available": true,
+    "available": false,
     "title": "Pokémon - Gengar Elite Series 12-Pocket Zippered Pro-Binder",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-gengar-elite-series-12-pocket-zippered-pro-binder"
@@ -12351,7 +12351,7 @@
     "url": "https://japhunter.ch/products/dragon-ball-fusion-world-blazing-aura-display-fb02-japanese-edition"
   },
   "JapHunter:15233822982467": {
-    "available": false,
+    "available": true,
     "title": "Dragon Ball Fusion World Awakened Pulse Display [FB01] | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/dragon-ball-fusion-world-awakened-pulse-display-fb01-japanese-edition"
@@ -13809,7 +13809,7 @@
     "url": "https://pokealp.ch/products/team-rockets-mewtwo-ex-sar-237-193-m2a-mega-dream-ex-psa-10-gem-mint-edition-japonaise"
   },
   "PokeAlp:15892346667339": {
-    "available": false,
+    "available": true,
     "title": "Pikachu AR 173/165 | SV2a Pokémon 151 | PSA 10 Gem Mint | Édition Japonaise",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pikachu-ar-173-165-sv2a-pokemon-151-psa-10-gem-mint-edition-japonaise"
@@ -19965,7 +19965,7 @@
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-mini-tin-en"
   },
   "BoosterBox:15877581177206": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Celebration Elite Trainer Box (9 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-etb-en"
@@ -20823,7 +20823,7 @@
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-eevee-blister-en"
   },
   "BoosterBox:15884101878134": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Celebration Binder Collection (5 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-binder-collection-en"
@@ -22131,7 +22131,7 @@
     "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-m6a-booster-pack/"
   },
   "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-me5-5-booster-pack/": {
-    "available": false,
+    "available": true,
     "title": "Pokemon TCG 30th Celebration Booster Wrap e10e6ee2 073d 42ba 80fa 4f127d90e069",
     "shop": "The Uncommon Shop",
     "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-me5-5-booster-pack/"
@@ -22551,7 +22551,7 @@
     "url": "https://pokeuri.ch/products/pokemon-display-mega-evolution-delta-reign"
   },
   "Pikaversum:15976465596790": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG Bundle: 30th Celebration 2-Pack Blister + Enhanced 2-Pack Blister Oktober 2025 (Deutsch)",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-2-pack-blister-enhanced-2-pack-blister-oktober-2025-deutsch"
@@ -22579,5 +22579,11 @@
     "title": "Deck Box Pokémon Poké Ball Full-View | Ultra PRO",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/deck-box-pokemon-poke-ball-full-view-ultra-pro"
+  },
+  "Pikaversum:15979255562614": {
+    "available": true,
+    "title": "Pokémon TCG: Gem Pack Vol. 7 CBB7C Booster Box – Simplified Chinese (CN)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-gem-pack-vol-7-cbb7c-booster-box-simplified-chinese"
   }
 }
