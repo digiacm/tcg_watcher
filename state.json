@@ -14241,7 +14241,7 @@
     "url": "https://pokeuri.ch/products/pre-order-pokemon-poster-collection-30-celebrations-de"
   },
   "PokeUri:16088431952252": {
-    "available": false,
+    "available": true,
     "title": "POKÉMON POSTER COLLECTION 30 CELEBRATIONS -EN-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pre-order-pokemon-poster-collection-30-celebrations-en"
@@ -14283,7 +14283,7 @@
     "url": "https://pokeuri.ch/products/pre-order-pokemon-tech-sticker-collection-30th-celebrations-en"
   },
   "PokeUri:16088417468796": {
-    "available": false,
+    "available": true,
     "title": "POKÉMON 2-PACK BLISTER 30TH CELEBRATIONS -EN-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pre-order-pokemon-2-pack-blister-30th-celebrations-en"
@@ -22609,5 +22609,35 @@
     "title": "Pokémon Black Bolt CSV10.5C Booster Box | Slim or Jumbo | Simplified Chinese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-black-bolt-csv10-5c-booster-box-slim-jumbo-simplified-chinese"
+  },
+  "Cardmaniac:10359883038895": {
+    "available": false,
+    "title": "Pokémon TCG – Enhanced 2-Pack Blister Q4 2026",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/pokemon-tcg-enhanced-2-pack-blister-q4-2026"
+  },
+  "Cardmaniac:10359876452527": {
+    "available": false,
+    "title": "Pokémon TCG – Kampfdeck 30 Jahre: Nachtara‑ex",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/pokemon-tcg-kampfdeck-30-jahre-nachtara-ex"
+  },
+  "Cardmaniac:10359875895471": {
+    "available": false,
+    "title": "Pokémon TCG – Kampfdeck 30 Jahre: Psiana‑ex",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/pokemon-tcg-kampfdeck-30-jahre-psiana-ex"
+  },
+  "Cardmaniac:10359870718127": {
+    "available": false,
+    "title": "Pokémon TCG – Deckbau-Kollektion",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/pokemon-tcg-deckbau-kollektion"
+  },
+  "PokeUri:15940349886844": {
+    "available": true,
+    "title": "POKÉMON MEGA EVOLUTION: ASCENDED HEROES EX BOX -EN-",
+    "shop": "PokeUri",
+    "url": "https://pokeuri.ch/products/pre-order-pokemon-mega-evolution-ascended-heroes-ex-box-en"
   }
 }
