@@ -14307,7 +14307,7 @@
     "url": "https://pokeuri.ch/products/pre-order-pokemon-etb-30th-celebration-fr"
   },
   "PokeUri:16088411996540": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON ETB: 30TH CELEBRATION -EN-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pre-order-pokemon-etb-30th-celebration"
@@ -20895,7 +20895,7 @@
     "url": "https://japhunter.ch/products/pokemon-30th-celebration-ar-card-collection-single-card-or-complete-20-card-set-japanese-edition"
   },
   "JapHunter:15413718745411": {
-    "available": false,
+    "available": true,
     "title": "Pokémon MEGA 30th CELEBRATION Pikachu Complete Set | 30 Cards | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-mega-30th-celebration-pikachu-complete-set-30-cards-japanese-edition"
@@ -21159,7 +21159,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-3-30th-celebration-booster-bundle-lumiose-city-mini-tin-display-italienisch"
   },
   "Pikaversum:15911571751286": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG Bundle: 3× 30th Celebration Booster Bundle + Ascended Heroes Mini Tin Display (Italienisch)",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-3-30th-celebration-booster-bundle-ascended-heroes-mini-tin-display-italienisch"
@@ -22639,5 +22639,23 @@
     "title": "POKÉMON MEGA EVOLUTION: ASCENDED HEROES EX BOX -EN-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pre-order-pokemon-mega-evolution-ascended-heroes-ex-box-en"
+  },
+  "Pikaversum:15981935427958": {
+    "available": true,
+    "title": "Pokémon TCG Bundle: 30th Celebration Tech Sticker Collection Lucario + Enhanced 2-Pack Q4 2026 (Deutsch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-30th-celebration-tech-sticker-lucario-bundle-q4-2-pack-deutsch"
+  },
+  "Pikaversum:15981935296886": {
+    "available": true,
+    "title": "Pokémon TCG Bundle: 30th Celebration Tech Sticker Collection Alola-Kokowei + Enhanced 2-Pack Q4 2026 (Deutsch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-30th-celebration-tech-sticker-alola-kokowei-bundle-q4-2-pack-deutsch"
+  },
+  "Pikaversum:15981762543990": {
+    "available": true,
+    "title": "Ultra Pro - UV ONE-TOUCH Magnetic Holder für Booster Packs",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/ultra-pro-uv-one-touch-magnetic-holder-booster-pack"
   }
 }
