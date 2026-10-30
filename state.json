@@ -14391,7 +14391,7 @@
     "url": "https://pokeuri.ch/products/pokemon-booster-mega-evolution-pitch-black-en"
   },
   "PokeUri:16042303553916": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON BOOSTER MEGA EVOLUTION: CHAOS RISING",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-booster-mega-evolution-chaos-rising"
@@ -21327,7 +21327,7 @@
     "url": "https://japhunter.ch/products/psa-10-bulbasaur-ar-166-165-pokemon-card-151-japanese-sv2a"
   },
   "PokeAlp:16066580218187": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG: 30th Celebration Poster Collection",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-tcg-30th-celebration-poster-collection"
@@ -21555,7 +21555,7 @@
     "url": "https://ryu.land/products/pok-mon-sv05-scarlet-violet-temporal-forces-booster-box"
   },
   "PokeAlp:16068188897611": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Celebration Binder Collection",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-30th-celebration-binder-collection"
@@ -22717,5 +22717,47 @@
     "title": "Pokémon – Crafters Collection 2026 – Deck",
     "shop": "The Uncommon Shop",
     "url": "https://theuncommonshop.ch/product/pokemon-crafters-collection-2026-deck/"
+  },
+  "RyuLand:16153518833994": {
+    "available": true,
+    "title": "Pokémon - Scarlet & Violet - Mid-Autumn Festival Gift Box [CN]",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-scarlet-violet-mid-autumn-festival-gift-box-cn"
+  },
+  "RyuLand:16153445073226": {
+    "available": true,
+    "title": "Pokémon - CSV9.5C - Scarlet & Violet - Blooming Legends - Fridge Magnet Gift Box [CN]",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-csv9-5c-scarlet-violet-blooming-legends-fridge-magnet-gift-box-cn"
+  },
+  "RyuLand:16153378783562": {
+    "available": true,
+    "title": "Pokémon - CSV9.5C - Scarlet & Violet - Blooming Legends - Gift Box [CN]",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-csv9-5c-scarlet-violet-blooming-legends-gift-box-cn"
+  },
+  "RyuLand:16153278218570": {
+    "available": true,
+    "title": "Pokémon - CSV10C - Scarlet & Violet - Chasing Glory Together - Slim Booster [CN]",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-csv10c-scarlet-violet-chasing-glory-together-slim-booster-cn"
+  },
+  "RyuLand:16153278054730": {
+    "available": true,
+    "title": "Pokémon - CSV10C - Scarlet & Violet - Chasing Glory Together - Slim Booster Box [CN]",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-csv10c-scarlet-violet-chasing-glory-together-slim-booster-box-cn"
+  },
+  "RyuLand:16153263800650": {
+    "available": true,
+    "title": "Pokémon - CSV9.5C - Scarlet & Violet - Blooming Legends - Slim Booster [CN]",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-csv9-5c-scarlet-violet-blooming-legends-slim-booster-cn"
+  },
+  "RyuLand:16153263735114": {
+    "available": true,
+    "title": "Pokémon - CSV9.5C - Scarlet & Violet - Blooming Legends - Slim Booster Box [CN]",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-csv9-5c-scarlet-violet-blooming-legends-slim-booster-box-cn"
   }
 }
