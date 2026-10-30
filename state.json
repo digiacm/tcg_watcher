@@ -2397,7 +2397,7 @@
     "url": "https://pikaversum.ch/products/bergmite-cri-023-086"
   },
   "Pikaversum:15869098983798": {
-    "available": true,
+    "available": false,
     "title": "Trubbish [CRI - 056/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/trubbish-cri-056-086"
@@ -2787,7 +2787,7 @@
     "url": "https://pikaversum.ch/products/doublade-098-088-me03-perfect-order-684380"
   },
   "Pikaversum:15857985487222": {
-    "available": true,
+    "available": false,
     "title": "Dawn - 106/080 [M2 - 106/080]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/dawn-106-080-m2-inferno-x-655883"
@@ -3111,7 +3111,7 @@
     "url": "https://pikaversum.ch/products/mega-pyroar-ex-099-086-cri-099-086"
   },
   "Pikaversum:15821836058998": {
-    "available": true,
+    "available": false,
     "title": "Mega Gallade ex [CRI - 048/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/mega-gallade-ex-cri-048-086"
@@ -5193,7 +5193,7 @@
     "url": "https://pikaversum.ch/products/ambipom-092-080-m2-092-080"
   },
   "Pikaversum:15782951453046": {
-    "available": true,
+    "available": false,
     "title": "Okidogi - 110/101 [SV6 - 110/101]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/okidogi-110-101-sv6-110-101"
@@ -5691,7 +5691,7 @@
     "url": "https://pikaversum.ch/products/cinccino-ex-073-086-cri-073-086"
   },
   "Pikaversum:15769872793974": {
-    "available": true,
+    "available": false,
     "title": "Philippe - 110/086 [CRI - 110/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/philippe-110-086-cri-110-086"
@@ -5769,7 +5769,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-mega-greninja-ex-premium-collection"
   },
   "Pikaversum:15758429684086": {
-    "available": true,
+    "available": false,
     "title": "Special Red Card - 113/086 [CRI - 113/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/special-red-card-113-086-cri-113-086"
@@ -6075,7 +6075,7 @@
     "url": "https://pikaversum.ch/products/azumarill-ex-me-ascended-heroes-675896"
   },
   "Pikaversum:15691307221366": {
-    "available": true,
+    "available": false,
     "title": "Ultra Ball - 264/217 [ASC - 264/217]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/ultra-ball-264-217-me-ascended-heroes-676076"
@@ -6219,7 +6219,7 @@
     "url": "https://pikaversum.ch/products/keldeo-ex-sv-white-flare-642142"
   },
   "Pikaversum:15630801600886": {
-    "available": true,
+    "available": false,
     "title": "Fighting Gong - 168/132 [MEG - 168/132]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/fighting-gong-168-132-me01-mega-evolution-654507"
@@ -6459,7 +6459,7 @@
     "url": "https://pikaversum.ch/products/dudunsparce-ex-121-159-sv09-journey-together-623548"
   },
   "Pikaversum:15557374116214": {
-    "available": true,
+    "available": false,
     "title": "Deluxe Bomb [SCR - 134/142]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/deluxe-bomb-sv07-stellar-crown-567392"
@@ -7017,7 +7017,7 @@
     "url": "https://pikaversum.ch/products/mismagius-ex-036-080-m2-inferno-x-655815"
   },
   "Pikaversum:15523060416886": {
-    "available": true,
+    "available": false,
     "title": "Charcadet - 083/080 [M2 - 083/80]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/charcadet-083-080-m2-inferno-x-655862"
@@ -9231,7 +9231,7 @@
     "url": "https://pikaversum.ch/products/mewtwo-gx-hidden-fates-197675"
   },
   "Pikaversum:15327626494326": {
-    "available": true,
+    "available": false,
     "title": "Boss's Orders [SWSH11: TG - TG24/TG30]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/boss-s-orders-swsh11-lost-origin-trainer-gallery-284297"
@@ -11553,7 +11553,7 @@
     "url": "https://japhunter.ch/products/pokemon-30th-anniversary-celebration-card-display-sleeve-set-sylveon-ex-simplified-chinese-edition"
   },
   "JapHunter:15401286631747": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Anniversary Celebration Card Display Sleeve Set – Greninja ex | Simplified Chinese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-30th-anniversary-celebration-card-display-sleeve-set-greninja-ex-simplified-chinese-edition"
@@ -13635,7 +13635,7 @@
     "url": "https://pokealp.ch/products/pokemon-30th-anniversary-espeon-umbreon-collector-gift-box-chinese"
   },
   "PokeAlp:15984729751883": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Anniversary Celebration Futuristic Gift Box | Simplified Chinese Edition",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-30th-anniversary-futuristic-gift-box-chinese"
@@ -17169,13 +17169,13 @@
     "url": "https://ryu.land/products/box-break-pok-mon-csv8c-brilliant-illusions-slim-booster-cn"
   },
   "RyuLand:15672535351626": {
-    "available": false,
+    "available": true,
     "title": "[Box Break] Pokémon - CSV5C - Dark Crystal Blaze - Slim Booster [CN]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/box-break-pok-mon-csv5c-dark-crystal-blaze-slim-booster-cn"
   },
   "RyuLand:15672158519626": {
-    "available": false,
+    "available": true,
     "title": "[Box Break] Pokémon - CSV9C - Stellar Crystal - Booster [CN]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/box-break-pok-mon-csv9c-stellar-crystal-booster-cn"
@@ -21327,7 +21327,7 @@
     "url": "https://japhunter.ch/products/psa-10-bulbasaur-ar-166-165-pokemon-card-151-japanese-sv2a"
   },
   "PokeAlp:16066580218187": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG: 30th Celebration Poster Collection",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-tcg-30th-celebration-poster-collection"
@@ -21555,7 +21555,7 @@
     "url": "https://ryu.land/products/pok-mon-sv05-scarlet-violet-temporal-forces-booster-box"
   },
   "PokeAlp:16068188897611": {
-    "available": false,
+    "available": true,
     "title": "Pokémon 30th Celebration Binder Collection",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-30th-celebration-binder-collection"
@@ -22407,7 +22407,7 @@
     "url": "https://pikaversum.ch/products/lurantis-ex-004-084-me05-pitch-black-704761"
   },
   "Pikaversum:15970936979830": {
-    "available": true,
+    "available": false,
     "title": "Tapu Koko ex [JTG - 051/159]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/tapu-koko-ex-sv09-journey-together-623478"
@@ -22437,7 +22437,7 @@
     "url": "https://pikaversum.ch/products/ivysaur-065-063-m1l-mega-brave-647174"
   },
   "Pikaversum:15970932556150": {
-    "available": true,
+    "available": false,
     "title": "Azurill - 086/076 [m6]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/azurill-086-076-m6-storm-emeralda-709239"
@@ -22711,5 +22711,11 @@
     "title": "Pokémon - 30th - 30th Celebration - Battle Deck",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-30th-30th-celebration-battle-deck"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-crafters-collection-2026-deck/": {
+    "available": true,
+    "title": "Pokémon – Crafters Collection 2026 – Deck",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-crafters-collection-2026-deck/"
   }
 }
