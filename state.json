@@ -27,13 +27,13 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-2-pack-blister-30-jahre"
   },
   "Cardmaniac:8686144520367": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG – Tech-Sticker-Kollektion 30 Jahre – Alola-Kokowei",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-tech-sticker-kollektion-30-jahre-alola-kokowei"
   },
   "Cardmaniac:8686140424367": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG – Tech-Sticker-Kollektion 30 Jahre – Lucario",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-tech-sticker-kollektion-30-jahre-lucario"
@@ -11661,7 +11661,7 @@
     "url": "https://japhunter.ch/products/weekly-shonen-jump-no-36-37-2025-pokemon-one-piece-special-edition-japanese-magazine"
   },
   "JapHunter:15371938169155": {
-    "available": true,
+    "available": false,
     "title": "The Secret Hunt Mystery Pack | 1 Japanese Pokémon SR or SAR Card",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/the-secret-hunt-mystery-pack-1-japanese-pokemon-sr-or-sar-card-50-sar-chance"
@@ -11866,7 +11866,7 @@
   },
   "JapHunter:15346912592195": {
     "available": true,
-    "title": "Pokémon Mystery AR Cards Bulk Pack – 100 Art Rare / Illustration Cards | Random Pack",
+    "title": "Pokémon 100 Art Rare  Mystery AR Cards Bulk Pack/ Illustration Cards | Random Pack",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-mystery-ar-cards-bulk-pack-100-art-rare-illustration-cards-random-pack-duplicates-possible"
   },
@@ -14331,7 +14331,7 @@
     "url": "https://pokeuri.ch/products/dragon-ball-super-fusion-world-fb02-display-jp"
   },
   "PokeUri:8957279502623": {
-    "available": true,
+    "available": false,
     "title": "DRAGON BALL SUPER FUSION WORLD FB01 DISPLAY -JP-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/dragon-ball-super-fusion-world-fb01-display-jp"
@@ -20002,7 +20002,7 @@
   },
   "BoosterBox:15847599800694": {
     "available": false,
-    "title": "Pokémon 30th Celebration Greninja ex Tin (4 Packs)",
+    "title": "Pokémon 30th Celebration Greninja ex Tin (Englisch, 4 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-greninja-ex-tin-en"
   },
@@ -20829,7 +20829,7 @@
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-binder-collection-en"
   },
   "RyuLand:16040611610954": {
-    "available": true,
+    "available": false,
     "title": "Pokémon - 30th - 30th Celebration - Espeon Ex & Umbreon Ex - Premium Deck Box [JP]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-30th-30th-celebration-espeon-ex-umbreon-ex-premium-deck-box-jp"
@@ -21933,7 +21933,7 @@
     "url": "https://japhunter.ch/products/psa-10-charizard-vstar-sar-212-172-vstar-universe-japanese-s12a"
   },
   "RyuLand:16112266608970": {
-    "available": false,
+    "available": true,
     "title": "Pokémon - CBB6C - Gem Pack Vol. 6 - Booster [CN]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-cbb6c-gem-pack-vol-6-booster-cn"
@@ -22005,7 +22005,7 @@
     "url": "https://japhunter.ch/products/pokemon-gem-pack-vol-7-psyduck-booster-box-display-simplified-chinese-edition"
   },
   "PokeAlp:16085285929291": {
-    "available": false,
+    "available": true,
     "title": "Lugia Mirror 005/028 | s8a 25th Anniversary Collection | PSA 10 Gem Mint | Édition Japonaise",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/lugia-mirror-005-028-s8a-25th-anniversary-collection-psa-10-gem-mint-edition-japonaise"
@@ -22611,25 +22611,25 @@
     "url": "https://japhunter.ch/products/pokemon-black-bolt-csv10-5c-booster-box-slim-jumbo-simplified-chinese"
   },
   "Cardmaniac:10359883038895": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG – Enhanced 2-Pack Blister Q4 2026",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-enhanced-2-pack-blister-q4-2026"
   },
   "Cardmaniac:10359876452527": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG – Kampfdeck 30 Jahre: Nachtara‑ex",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-kampfdeck-30-jahre-nachtara-ex"
   },
   "Cardmaniac:10359875895471": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG – Kampfdeck 30 Jahre: Psiana‑ex",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-kampfdeck-30-jahre-psiana-ex"
   },
   "Cardmaniac:10359870718127": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG – Deckbau-Kollektion",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-deckbau-kollektion"
@@ -22759,5 +22759,59 @@
     "title": "Pokémon - CSV9.5C - Scarlet & Violet - Blooming Legends - Slim Booster Box [CN]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-csv9-5c-scarlet-violet-blooming-legends-slim-booster-box-cn"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-mega-evolution-gengar-enhanced-2-pack-blister/": {
+    "available": true,
+    "title": "Pokémon – Mega Evolution – Gengar – Enhanced 2 Pack Blister",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-gengar-enhanced-2-pack-blister/"
+  },
+  "JapHunter:15469982024003": {
+    "available": true,
+    "title": "PSA 10 Raikou V SAR #218/172 – VSTAR Universe (S12a) Japanese",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/psa-10-raikou-v-sar-218-172-vstar-universe-s12a-japanese"
+  },
+  "JapHunter:15469982187843": {
+    "available": true,
+    "title": "PSA 10 Lillie's Clefairy ex SAR #126/100 – Battle Partners (SV9) Japanese",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/psa-10-lillies-clefairy-ex-sar-126-100-battle-partners-sv9-japanese"
+  },
+  "JapHunter:15469982220611": {
+    "available": true,
+    "title": "PSA 10 Charizard ex SR #185/165 – Pokémon Card 151 (SV2a) Japanese",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/psa-10-charizard-ex-sr-185-165-pokemon-card-151-sv2a-japanese"
+  },
+  "BoosterBox:15986992185718": {
+    "available": true,
+    "title": "Pokémon Deck Crafter's Collection 2026",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-deck-crafters-collection-2026-en"
+  },
+  "BoosterBox:15986992152950": {
+    "available": true,
+    "title": "Pokémon 30th Celebration Battle Deck Espeon ex",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-30th-celebration-battle-deck-espeon-ex-en"
+  },
+  "BoosterBox:15986992120182": {
+    "available": true,
+    "title": "Pokémon 30 Jahre Tech-Sticker-Kollektion Lucario (3 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-30-jahre-tech-sticker-kollektion-lucario-de"
+  },
+  "BoosterBox:15986992087414": {
+    "available": true,
+    "title": "Pokémon 30 Jahre Tin-Box Quajutsu-ex (Deutsch, 4 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-30-jahre-quajutsu-ex-tin-de"
+  },
+  "BoosterBox:15986992054646": {
+    "available": true,
+    "title": "Pokémon Perfect Order (ME03) Booster Bundle (6 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-perfect-order-bundle-en"
   }
 }
