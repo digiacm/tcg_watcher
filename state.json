@@ -2661,7 +2661,7 @@
     "url": "https://pikaversum.ch/products/claydol-090-083-m4-090-083"
   },
   "Pikaversum:15858952765814": {
-    "available": true,
+    "available": false,
     "title": "Galarian Obstagoon - 209/193 [M2a - 209/193]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/galarian-obstagoon-209-193-m2a-209-193"
@@ -2673,7 +2673,7 @@
     "url": "https://pikaversum.ch/products/drapion-090-080-m3-090-080"
   },
   "Pikaversum:15858952667510": {
-    "available": true,
+    "available": false,
     "title": "Primarina - 085/081 [M5 - 085/081]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/primarina-085-081-m5-085-081"
@@ -2733,7 +2733,7 @@
     "url": "https://pikaversum.ch/products/helioptile-070-063-m1s-070-063"
   },
   "Pikaversum:15858949980534": {
-    "available": true,
+    "available": false,
     "title": "Ampharos - 088/083 [m4 - 088/083]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/ampharos-088-083-m4-088-083"
@@ -4617,7 +4617,7 @@
     "url": "https://pikaversum.ch/products/iron-jugulis-078-066-sv4m-078-066"
   },
   "Pikaversum:15785780117878": {
-    "available": true,
+    "available": false,
     "title": "Joltik - 108/102 [SV7 - 108/102]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/joltik-108-102-sv7-108-102"
@@ -4935,13 +4935,13 @@
     "url": "https://pikaversum.ch/products/togekiss-203-193-m2a-high-class-pack-mega-dream-ex-665874"
   },
   "Pikaversum:15523060941174": {
-    "available": true,
+    "available": false,
     "title": "Dustox - 195/193 [M2a - 195/193]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/dustox-195-193-m2a-high-class-pack-mega-dream-ex-665866"
   },
   "Pikaversum:15523060777334": {
-    "available": true,
+    "available": false,
     "title": "Hop's Trevenant - 204/193 [M2a - 204/193]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/hop-s-trevenant-204-193-m2a-high-class-pack-mega-dream-ex-665875"
@@ -5007,7 +5007,7 @@
     "url": "https://pikaversum.ch/products/loudred-078-066-sv4k-078-066"
   },
   "Pikaversum:15782951682422": {
-    "available": true,
+    "available": false,
     "title": "Probopass - 088/080 [M3 - 088/080]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/probopass-088-080-m3-088-080"
@@ -6645,7 +6645,7 @@
     "url": "https://pikaversum.ch/products/mega-froslass-ex-224-193-m2a-high-class-pack-mega-dream-ex-665896"
   },
   "Pikaversum:15525651743094": {
-    "available": true,
+    "available": false,
     "title": "Ethan's Magcargo - 197/193 [M2a - 197/193]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/ethan-s-magcargo-197-193-m2a-high-class-pack-mega-dream-ex-665868"
@@ -7647,7 +7647,7 @@
     "url": "https://pikaversum.ch/products/dragon-ball-super-card-game-fusion-world-manga-booster-box-02-sb02"
   },
   "Pikaversum:15433880142198": {
-    "available": false,
+    "available": true,
     "title": "Pokemon TCG - Mega Dream ex (JPN)",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-mega-dreame-ex-jpn"
@@ -7743,7 +7743,7 @@
     "url": "https://pikaversum.ch/products/mismagius-083-073-sv1a-triplet-beat-568206"
   },
   "Pikaversum:15424407011702": {
-    "available": true,
+    "available": false,
     "title": "Clauncher - 083/078 [SV1V - 083/078]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/clauncher-083-078-sv1v-violet-ex-568309"
@@ -22813,5 +22813,11 @@
     "title": "Pokémon Perfect Order (ME03) Booster Bundle (6 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-perfect-order-bundle-en"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-mega-evolution-delta-reign-me06-build-battle-kit/": {
+    "available": true,
+    "title": "Pokémon – Mega Evolution – Delta Reign (ME06) – Build & Battle Kit",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-delta-reign-me06-build-battle-kit/"
   }
 }
