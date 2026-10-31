@@ -27,13 +27,13 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-2-pack-blister-30-jahre"
   },
   "Cardmaniac:8686144520367": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG – Tech-Sticker-Kollektion 30 Jahre – Alola-Kokowei",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-tech-sticker-kollektion-30-jahre-alola-kokowei"
   },
   "Cardmaniac:8686140424367": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG – Tech-Sticker-Kollektion 30 Jahre – Lucario",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-tech-sticker-kollektion-30-jahre-lucario"
@@ -12009,7 +12009,7 @@
     "url": "https://japhunter.ch/products/dragon-ball-fusion-world-2nd-complete-card-collection-book-2-limited-cards-japanese-edition"
   },
   "JapHunter:15316895203651": {
-    "available": true,
+    "available": false,
     "title": "Dragon Ball Fusion World Story Booster 01 (ST01) Booster Box Display | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/dragon-ball-fusion-world-story-booster-01-st01-booster-box-display-japanese-edition"
@@ -13917,7 +13917,7 @@
     "url": "https://pokealp.ch/products/pokemon-tcg-scarlet-violet-sv10-destined-rivals-booster-pack-en"
   },
   "PokeAlp:15826139283787": {
-    "available": false,
+    "available": true,
     "title": "Dragon Ball - FB09 - Dual Evolution - Boîte japonaise",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/dragon-ball-fb09-dual-evolution-boite-japonaise"
@@ -22635,7 +22635,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-deckbau-kollektion"
   },
   "PokeUri:15940349886844": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON MEGA EVOLUTION: ASCENDED HEROES EX BOX -EN-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pre-order-pokemon-mega-evolution-ascended-heroes-ex-box-en"
@@ -22819,5 +22819,11 @@
     "title": "Pokémon – Mega Evolution – Delta Reign (ME06) – Build & Battle Kit",
     "shop": "The Uncommon Shop",
     "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-delta-reign-me06-build-battle-kit/"
+  },
+  "RyuLand:16155577942346": {
+    "available": true,
+    "title": "Pokémon - ME05/ME04 - Mega Evolution - Pitch Black / Chaos Rising - 2-Pack Blister",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-me05-me04-mega-evolution-pitch-black-chaos-rising-2-pack-blister"
   }
 }
