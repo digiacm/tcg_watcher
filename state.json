@@ -2055,8 +2055,8 @@
     "url": "https://pikaversum.ch/products/kyogre-meg-034-132"
   },
   "Pikaversum:15880142094710": {
-    "available": false,
-    "title": "Charmeleon - 079 (Cosmos Holo) [MEP - 079]",
+    "available": true,
+    "title": "Charmeleon (Cosmos Holo) [MEP - 079]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/charmeleon-079-cosmos-holo-mep-079"
   },
@@ -2758,7 +2758,7 @@
   },
   "Pikaversum:15857986699638": {
     "available": true,
-    "title": "Wailord ex - 016/084 [PBL - 016/084]",
+    "title": "Wailord-ex [PBL - 016/084]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/wailord-ex-016-084-me05-pitch-black-704773"
   },
@@ -3111,7 +3111,7 @@
     "url": "https://pikaversum.ch/products/mega-pyroar-ex-099-086-cri-099-086"
   },
   "Pikaversum:15821836058998": {
-    "available": false,
+    "available": true,
     "title": "Mega Gallade ex [CRI - 048/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/mega-gallade-ex-cri-048-086"
@@ -5673,8 +5673,8 @@
     "url": "https://pikaversum.ch/products/druddigon-swsh12-tg-tg09-tg30"
   },
   "Pikaversum:15769876234614": {
-    "available": false,
-    "title": "Mega Dragalge ex - 065/086 [CRI - 065/086]",
+    "available": true,
+    "title": "Mega Dragalge ex [CRI - 065/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/mega-dragalge-ex-065-086-cri-065-086"
   },
@@ -5703,8 +5703,8 @@
     "url": "https://pikaversum.ch/products/xerneas-091-086-cri-091-086"
   },
   "Pikaversum:15769872433526": {
-    "available": false,
-    "title": "Mega Greninja ex - 022/086 [CRI - 022/086]",
+    "available": true,
+    "title": "Mega Greninja ex [CRI - 022/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/mega-greninja-ex-022-086-cri-022-086"
   },
@@ -6177,8 +6177,8 @@
     "url": "https://pikaversum.ch/products/counter-gain-259-217-me-ascended-heroes-676071"
   },
   "Pikaversum:15630803763574": {
-    "available": false,
-    "title": "Stunfisk ex - 252/217 [ASC - 252/217]",
+    "available": true,
+    "title": "Stunfisk ex [ASC - 252/217]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/stunfisk-ex-252-217-me-ascended-heroes-676064"
   },
@@ -7239,7 +7239,7 @@
     "url": "https://pikaversum.ch/products/scream-tail-ex-040-066-sv5a-crimson-haze-566095"
   },
   "Pikaversum:15465014002038": {
-    "available": false,
+    "available": true,
     "title": "Greninja ex - 045/066 [SV5a - 045/066]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/greninja-ex-045-066-sv5a-crimson-haze-566100"
@@ -9819,7 +9819,7 @@
     "url": "https://pikaversum.ch/products/elgyem-126-086-sv11b-black-bolt-636480"
   },
   "Pikaversum:15316895105398": {
-    "available": false,
+    "available": true,
     "title": "Infernape - 070/066 [SV5a - 070/066]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/infernape-070-066-sv5a-crimson-haze-566125"
@@ -22831,5 +22831,137 @@
     "title": "Booster Legend L3 Clash at the Summit",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/retro-pack-legend-l3-clash-at-the-summit-pokemon-japanese-booster"
+  },
+  "Pikaversum:15990023618934": {
+    "available": true,
+    "title": "Iron Thorns ex - 033/066 [SV5a]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/iron-thorns-ex-033-066-sv5a-crimson-haze-566088"
+  },
+  "Pikaversum:15990016901494": {
+    "available": true,
+    "title": "Silvally [PBL - 095/084]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/silvally-095-084-me05-pitch-black-704852"
+  },
+  "Pikaversum:15990016639350": {
+    "available": true,
+    "title": "Team Rocket's Mimikyu [ASC - 097/217]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/team-rocket-s-mimikyu-097-217-me-ascended-heroes-675909"
+  },
+  "Pikaversum:15990016573814": {
+    "available": true,
+    "title": "Gengar [POR - 050/088]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/gengar-me03-perfect-order-684431"
+  },
+  "Pikaversum:15990016442742": {
+    "available": true,
+    "title": "Marshadow [PBL - 040/084]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/marshadow-me05-pitch-black-704797"
+  },
+  "Pikaversum:15990016377206": {
+    "available": true,
+    "title": "Mega Zeraora ex [PBL - 027/084]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/mega-zeraora-ex-027-084-me05-pitch-black-704784"
+  },
+  "Pikaversum:15990016278902": {
+    "available": true,
+    "title": "Mandibuzz ex [ASC - 139/217]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/mandibuzz-ex-me-ascended-heroes-675951"
+  },
+  "Pikaversum:15990016213366": {
+    "available": true,
+    "title": "Gladion's Final Battle [PBL - 108/084]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/gladion-s-final-battle-108-084-me05-pitch-black-704865"
+  },
+  "Pikaversum:15990015951222": {
+    "available": true,
+    "title": "Tyranitar GX [SM8 - 121/214]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/tyranitar-gx-sm-lost-thunder-178934"
+  },
+  "Pikaversum:15990015656310": {
+    "available": true,
+    "title": "Nidorina (30th Celebration) [MEP - 101]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/nidorina-101-30th-celebration-me-mega-evolution-promo-713260"
+  },
+  "Pikaversum:15990015295862": {
+    "available": true,
+    "title": "Dark Bell [PBL - 106/084]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/dark-bell-106-084-me05-pitch-black-704863"
+  },
+  "Pikaversum:15990014869878": {
+    "available": true,
+    "title": "Mega Floette ex [CRI - 117/086]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/mega-floette-ex-117-086-me04-chaos-rising-693513"
+  },
+  "Pikaversum:15990014443894": {
+    "available": true,
+    "title": "Mega Zeraora ex [PBL - 098/084]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/mega-zeraora-ex-098-084-me05-pitch-black-704855"
+  },
+  "Pikaversum:15990013952374": {
+    "available": true,
+    "title": "Primarina [PBL - 088/084]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/primarina-088-084-me05-pitch-black-704845"
+  },
+  "Pikaversum:15990013428086": {
+    "available": true,
+    "title": "Krookodile ex [CRI - 055/086]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/krookodile-ex-me04-chaos-rising-693504"
+  },
+  "Pikaversum:15990013034870": {
+    "available": true,
+    "title": "Team Rocket's Wobbuffet [SVP - 203]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/team-rocket-s-wobbuffet-sv-scarlet-violet-promo-cards-635467"
+  },
+  "Pikaversum:15989953888630": {
+    "available": true,
+    "title": "Yuyu-ex [PAL - 040/193]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/chi-yu-ex-040-193-sv02-paldea-evolved-497451"
+  },
+  "Pikaversum:15989952282998": {
+    "available": true,
+    "title": "Articuno (German) [30C - 132/128]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/articuno-132-128-me-30th-celebration-716220"
+  },
+  "Pikaversum:15989950742902": {
+    "available": true,
+    "title": "Schmetterhammer [PBL - 105/084]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/crushing-hammer-me05-pitch-black-704862"
+  },
+  "Pikaversum:15989949104502": {
+    "available": true,
+    "title": "Rameidon-ex [PBL - 045/084]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/rampardos-ex-045-084-me05-pitch-black-704802"
+  },
+  "Pikaversum:15989947367798": {
+    "available": true,
+    "title": "Pikachu (German) [30C - 024/128]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pikachu-024-128-me-30th-celebration-716309"
+  },
+  "Pikaversum:15989945696630": {
+    "available": true,
+    "title": "Pikachu (German) [30C - 029/128]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pikachu-029-128-me-30th-celebration-716311"
   }
 }
