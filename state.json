@@ -5907,7 +5907,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-anniversary-first-partner-special-illustration-card-set-vol-1-cn"
   },
   "Pikaversum:15737559417206": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG - Abyss Eye Booster Box (JPN)",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-abyss-eye-booster-box-jpn"
@@ -11553,7 +11553,7 @@
     "url": "https://japhunter.ch/products/pokemon-30th-anniversary-celebration-card-display-sleeve-set-sylveon-ex-simplified-chinese-edition"
   },
   "JapHunter:15401286631747": {
-    "available": false,
+    "available": true,
     "title": "Pokémon 30th Anniversary Celebration Card Display Sleeve Set – Greninja ex | Simplified Chinese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-30th-anniversary-celebration-card-display-sleeve-set-greninja-ex-simplified-chinese-edition"
@@ -11841,7 +11841,7 @@
     "url": "https://japhunter.ch/products/psa-10-rocket-s-mewtwo-ex-sar-237-2025-pokemon-m2a-jp"
   },
   "JapHunter:15347413254467": {
-    "available": true,
+    "available": false,
     "title": "Mega Gengar ex SAR #240 – Pokémon M2a Japanese | PSA 10 Gem Mint | Graded Card",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/mega-gengar-ex-240-pokemon-m2a-jp-psa-10-sar"
@@ -12405,7 +12405,7 @@
     "url": "https://japhunter.ch/products/gift-card-japhunter"
   },
   "JapHunter:15210184376643": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Start Deck 100 Battle Collection | 100 Unique Decks | Japanese Edition | Random Deck",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/preorder-pokemon-start-deck-100-battle-collection-100-unique-decks-japanese-edition-random-deck"
@@ -20835,7 +20835,7 @@
     "url": "https://ryu.land/products/pok-mon-30th-30th-celebration-espeon-ex-umbreon-ex-premium-deck-box-jp"
   },
   "RyuLand:16040611447114": {
-    "available": false,
+    "available": true,
     "title": "Pokémon - 30th - 30th Celebration - Booster Box [JP]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-30th-30th-celebration-booster-box-jp"
@@ -20853,7 +20853,7 @@
     "url": "https://boosterbox.ch/products/pokemon-first-partner-illustration-collection-series-1-en"
   },
   "PokeUri:16124412756348": {
-    "available": false,
+    "available": true,
     "title": "POKÉMON 30th CELEBRATION ESPEON EX & UMBREON EX PREMIUM DECK BOX -JP-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-30th-celebration-espeon-ex-umbreon-ex-premium-deck-box-jp"
@@ -21963,7 +21963,7 @@
     "url": "https://japhunter.ch/products/pokemon-regne-delta-me06-display-36-boosters-mega-evolution-francais"
   },
   "JapHunter:15444643512643": {
-    "available": true,
+    "available": false,
     "title": "Pokémon AR CARDS Complete Set | 27 First Partner Cards | 30th Celebration | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-ar-cards-complete-set-27-first-partner-cards-30th-celebration-japanese"
@@ -22492,7 +22492,7 @@
   },
   "BoosterBox:15970946908534": {
     "available": false,
-    "title": "Pokémon Prismatische Entwicklungen Super-Premium-Kollektion (15 Packs)",
+    "title": "Pokémon Prismatische Entwicklungen Super-Premium-Kollektion (Deutsch, 15 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-prismatische-entwicklungen-super-premium-kollektion-de"
   },
@@ -22798,7 +22798,7 @@
   },
   "BoosterBox:15986992120182": {
     "available": true,
-    "title": "Pokémon 30 Jahre Tech-Sticker-Kollektion Lucario (3 Packs)",
+    "title": "Pokémon 30 Jahre Tech-Sticker-Kollektion Lucario (Deutch, 3 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30-jahre-tech-sticker-kollektion-lucario-de"
   },
@@ -22963,5 +22963,47 @@
     "title": "Pikachu (German) [30C - 029/128]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pikachu-029-128-me-30th-celebration-716311"
+  },
+  "Pikaversum:15987962544502": {
+    "available": true,
+    "title": "Dragon Ball Card Game Fusion World – Story Booster 01 [ST01] Booster Display (JPN)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/dragon-ball-super-card-game-fusion-world-story-booster-01-st01-booster-display-jpn"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/dragon-ball-super-fusion-world-2nd-anniversary-set/": {
+    "available": true,
+    "title": "Dragon Ball Super – Fusion World – 2nd Anniversary Set",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/dragon-ball-super-fusion-world-2nd-anniversary-set/"
+  },
+  "RyuLand:15979369791818": {
+    "available": false,
+    "title": "Pokémon - 30th - 30th Celebration - Zapdos & Articuno & Moltres - Poster Collection",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-30th-30th-celebration-zapdos-articuno-moltres-poster-collection"
+  },
+  "RyuLand:15979369529674": {
+    "available": false,
+    "title": "Pokémon - 30th - 30th Celebration - Elite Trainer Box",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-30th-30th-celebration-elite-trainer-box"
+  },
+  "RyuLand:16158304731466": {
+    "available": true,
+    "title": "Pokémon - Scarlet & Violet - Fall 2024 - PokéBall - Tin [EN]",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-scarlet-violet-fall-2024-pok-ball-tin-en"
+  },
+  "RyuLand:16158300438858": {
+    "available": true,
+    "title": "Pokémon - 151C - Scarlet & Violet - Surprise, Hope, Journey & Gathering - Slim Booster [CN]",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-151c-scarlet-violet-surprise-hope-journey-gathering-slim-booster-cn"
+  },
+  "RyuLand:16158300340554": {
+    "available": true,
+    "title": "Pokémon - 151C - Scarlet & Violet - Surprise, Hope, Journey & Gathering - Slim Booster Box [CN]",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-151c-scarlet-violet-surprise-hope-journey-gathering-slim-booster-box-cn"
   }
 }
