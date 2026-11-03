@@ -17175,7 +17175,7 @@
     "url": "https://ryu.land/products/box-break-pok-mon-csv5c-dark-crystal-blaze-slim-booster-cn"
   },
   "RyuLand:15672158519626": {
-    "available": true,
+    "available": false,
     "title": "[Box Break] Pokémon - CSV9C - Stellar Crystal - Booster [CN]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/box-break-pok-mon-csv9c-stellar-crystal-booster-cn"
@@ -22131,7 +22131,7 @@
     "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-m6a-booster-pack/"
   },
   "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-me5-5-booster-pack/": {
-    "available": false,
+    "available": true,
     "title": "Pokemon TCG 30th Celebration Booster Wrap e10e6ee2 073d 42ba 80fa 4f127d90e069",
     "shop": "The Uncommon Shop",
     "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-me5-5-booster-pack/"
@@ -23041,5 +23041,23 @@
     "title": "Pokémon TCG 30th Celebration Futuristic Box + Premium Deck Set Espeon & Umbreon Bundle (Japanese, Sealed)",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-tcg-30th-celebration-futuristic-box-premium-deck-set-espeon-umbreon-bundle-japanese-sealed"
+  },
+  "Pikaversum:15994550059382": {
+    "available": true,
+    "title": "Pokémon TCG Tin Bundle: 30th Celebration Feelinara-ex + Mega Moonlit Mega-Pixi-ex (Deutsch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-tin-bundle-30th-celebration-feelinara-ex-mega-moonlit-mega-pixi-ex-deutsch"
+  },
+  "Pikaversum:15994550026614": {
+    "available": false,
+    "title": "Pokémon TCG Tin Bundle: 30th Celebration Quajutsu-ex + Mega Moonlit Mega-Gengar-ex (Deutsch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-tin-bundle-30th-celebration-quajutsu-ex-mega-moonlit-mega-gengar-ex-deutsch"
+  },
+  "Pikaversum:15994549993846": {
+    "available": true,
+    "title": "Pokémon TCG Tin Bundle: 30th Celebration Quajutsu-ex + Mega Moonlit Mega-Pixi-ex (Deutsch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-tin-bundle-30th-celebration-quajutsu-ex-mega-moonlit-mega-pixi-ex-deutsch"
   }
 }
