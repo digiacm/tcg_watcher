@@ -11931,7 +11931,7 @@
     "url": "https://japhunter.ch/products/pokemon-storm-emeralda-booster-box-display-m6-japanese-edition"
   },
   "JapHunter:15342424949059": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Eevee & Friends Flowing Sand Card Display Charm Gift Box | Simplified Chinese Edition | Blind Box",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-eevee-friends-flowing-sand-card-display-charm-gift-box-simplified-chinese-edition-blind-box"
@@ -14307,7 +14307,7 @@
     "url": "https://pokeuri.ch/products/pre-order-pokemon-etb-30th-celebration-fr"
   },
   "PokeUri:16088411996540": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON ETB: 30TH CELEBRATION -EN-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pre-order-pokemon-etb-30th-celebration"
@@ -21135,7 +21135,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-6-pokeball-tin-2-30th-celebration-booster-bundle-en"
   },
   "JapHunter:15425912701251": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Celebration Legendary Reprint Cards | Single Cards 136/103 to 165/103 | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-30th-celebration-m6a-legendary-reprint-cards-japanese"
@@ -23119,5 +23119,71 @@
     "title": "Pokémon Delta Reign (ME06) Elite Trainer Box (9 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-delta-reign-etb-en"
+  },
+  "Pikaversum:15995516518774": {
+    "available": true,
+    "title": "Pokémon TCG Bundle: 30th Celebration Ditto Premium Collection + Mega Venusaur ex Premium Collection (Englisch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-ditto-premium-collection-mega-venusaur-ex-premium-collection-englisch"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/4d-build-pokemon-bulbasaur-24cm/": {
+    "available": true,
+    "title": "4D Build – Pokémon – Bulbasaur 24cm",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/4d-build-pokemon-bulbasaur-24cm/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/4d-build-pokemon-charmander-26cm/": {
+    "available": true,
+    "title": "4D Build – Pokémon – Charmander 26cm",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/4d-build-pokemon-charmander-26cm/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/4d-build-pokemon-eevee-24cm/": {
+    "available": true,
+    "title": "4D Build – Pokémon – Eevee 24cm",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/4d-build-pokemon-eevee-24cm/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/4d-build-pokemon-pikachu-33cm/": {
+    "available": true,
+    "title": "4D Build – Pokémon – Pikachu 33cm",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/4d-build-pokemon-pikachu-33cm/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/4d-build-pokemon-squirtle-24cm/": {
+    "available": true,
+    "title": "4D Build – Pokémon – Squirtle 24cm",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/4d-build-pokemon-squirtle-24cm/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-scarlet-violet-paldean-fates-sv4-5-premium-collection/": {
+    "available": true,
+    "title": "Pokémon – Scarlet & Violet – Paldean Fates (SV4.5) – Premium Collection",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-scarlet-violet-paldean-fates-sv4-5-premium-collection/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-valentines-box-2027/": {
+    "available": true,
+    "title": "Pokémon – Valentines Box 2027",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-valentines-box-2027/"
+  },
+  "PokeUri:16192809140604": {
+    "available": true,
+    "title": "POKÉMON PREMIUM COLLECTION 30 CELEBRATIONS DITTO",
+    "shop": "PokeUri",
+    "url": "https://pokeuri.ch/products/pokemon-premium-collection-30-celebrations-ditto"
+  },
+  "BoosterBox:15995870216566": {
+    "available": false,
+    "title": "Pokémon Mega Venusaur ex Premium Collection (8 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-mega-venusaur-ex-premium-collection-en"
+  },
+  "BoosterBox:15995870183798": {
+    "available": false,
+    "title": "Pokémon 30th Celebration Ditto Premium Collection (8 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-30th-celebration-ditto-premium-collection-en"
   }
 }
