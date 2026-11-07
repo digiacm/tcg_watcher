@@ -11595,7 +11595,7 @@
     "url": "https://japhunter.ch/products/pokemon-mega-abyss-eye-booster-pack-m5-japanese-edition"
   },
   "JapHunter:15382605267267": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Umbreon Collector Bundle | Eevee & Friends Binder Gift Box + Eevee GX Umbreon Collection | Simplified Chinese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-umbreon-collector-bundle-simplified-chinese-edition"
@@ -12009,7 +12009,7 @@
     "url": "https://japhunter.ch/products/dragon-ball-fusion-world-2nd-complete-card-collection-book-2-limited-cards-japanese-edition"
   },
   "JapHunter:15316895203651": {
-    "available": true,
+    "available": false,
     "title": "Dragon Ball Fusion World Story Booster 01 (ST01) Booster Box Display | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/dragon-ball-fusion-world-story-booster-01-st01-booster-box-display-japanese-edition"
@@ -12513,7 +12513,7 @@
     "url": "https://japhunter.ch/products/pokemon-first-partner-gift-box-charmander-collect-151-vol-1-chinese"
   },
   "JapHunter:15163649458499": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Mega Inferno X (M2) Booster Japanese",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-glory-of-team-rocket-sv10-booster-japanese-copie"
@@ -22059,7 +22059,7 @@
     "url": "https://detsuki.ch/products/pokemon-mega-evolutions-delta-reign-display-box-me06"
   },
   "Detsuki:16113173889368": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Mega Evolution Delta Reign Elite Trainer Box (ME06)",
     "shop": "Detsuki",
     "url": "https://detsuki.ch/products/pokemon-mega-evolution-delta-reign-elite-trainer-box-me06"
@@ -23323,5 +23323,89 @@
     "title": "POKÉMON BOOSTER: 30TH CELEBRATION",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-booster-30th-celebration"
+  },
+  "Cardmaniac:10369988591791": {
+    "available": true,
+    "title": "Pokémon TCG – 30th Celebration Card Set",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/pokemon-tcg-30th-celebration-card-set"
+  },
+  "PokeAlp:16148147339595": {
+    "available": true,
+    "title": "Pokémon VSTAR Universe (s12a) | Display Japonais Scellé",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-vstar-universe-s12a-display-japonais-scelle"
+  },
+  "PokeAlp:16148147372363": {
+    "available": true,
+    "title": "Pokémon Paradigm Trigger (s12) | Display Japonais Scellé",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-paradigm-trigger-s12-display-japonais-scelle"
+  },
+  "PokeAlp:16148147405131": {
+    "available": true,
+    "title": "Pokémon Ruler of the Black Flame (sv3) | Display Japonais Scellé",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-ruler-of-the-black-flame-sv3-display-japonais-scelle"
+  },
+  "PokeAlp:16148150026571": {
+    "available": true,
+    "title": "Pokémon Cyber Judge (sv5M) | Display Japonais Scellé",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-cyber-judge-sv5m-display-japonais-scelle"
+  },
+  "PokeAlp:16148151828811": {
+    "available": true,
+    "title": "Pokémon Crimson Haze (sv5a) | Display Japonais Scellé",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-crimson-haze-sv5a-display-japonais-scelle"
+  },
+  "PokeAlp:16148151861579": {
+    "available": true,
+    "title": "Pokémon Mask of Change (sv6) | Display Japonais Scellé",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-mask-of-change-sv6-display-japonais-scelle"
+  },
+  "PokeAlp:16148151894347": {
+    "available": true,
+    "title": "Pokémon Night Wanderer (sv6a) | Display Japonais Scellé",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-night-wanderer-sv6a-display-japonais-scelle"
+  },
+  "PokeAlp:16148151959883": {
+    "available": true,
+    "title": "Pokémon Stella Miracle (sv7) | Display Japonais Scellé",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-stella-miracle-sv7-display-japonais-scelle"
+  },
+  "PokeAlp:16148151992651": {
+    "available": true,
+    "title": "Pokémon Paradise Dragona (sv7a) | Display Japonais Scellé",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-paradise-dragona-sv7a-display-japonais-scelle"
+  },
+  "PokeAlp:16148152058187": {
+    "available": true,
+    "title": "Pokémon Super Electric Breaker (sv8) | Display Japonais Scellé",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-super-electric-breaker-sv8-display-japonais-scelle"
+  },
+  "Zaibatsu:11452214083926": {
+    "available": true,
+    "title": "Pokémon |  30th Celebration | Elite Trainer Box + Battle Deck Set Bundle - EN",
+    "shop": "Zaibatsu",
+    "url": "https://zaibatsu.ch/products/pokemon-30th-celebration-destined-rivals-elite-trainer-box-bundle-en-02-10-2026-kopie"
+  },
+  "Zaibatsu:11452173713750": {
+    "available": true,
+    "title": "Pokémon | Scarlet & Violet: Destined Rivals - SV10 Booster Display - DE (36 Booster)",
+    "shop": "Zaibatsu",
+    "url": "https://zaibatsu.ch/products/pokemon-scarlet-violet-destined-rivals-sv10-booster-display-de-36-booster"
+  },
+  "Zaibatsu:11452146712918": {
+    "available": true,
+    "title": "Pokémon | Mega Evolution: ME06 Delta Reign | Elite Trainer Box Bundle | ENG",
+    "shop": "Zaibatsu",
+    "url": "https://zaibatsu.ch/products/pokemon-mega-evolution-me06-delta-reign-elite-trainer-box-eng"
   }
 }
