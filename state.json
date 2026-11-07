@@ -5955,7 +5955,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-mega-evolution-chaos-rising-booster-display-box"
   },
   "Pikaversum:15710511497590": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG: Mega Evolution-Chaos Rising Elite Trainer Box",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-mega-evolution-chaos-rising-elite-trainer-box"
@@ -23391,7 +23391,7 @@
     "url": "https://pokealp.ch/products/pokemon-super-electric-breaker-sv8-display-japonais-scelle"
   },
   "Zaibatsu:11452214083926": {
-    "available": true,
+    "available": false,
     "title": "Pokémon |  30th Celebration | Elite Trainer Box + Battle Deck Set Bundle - EN",
     "shop": "Zaibatsu",
     "url": "https://zaibatsu.ch/products/pokemon-30th-celebration-destined-rivals-elite-trainer-box-bundle-en-02-10-2026-kopie"
@@ -23407,5 +23407,113 @@
     "title": "Pokémon | Mega Evolution: ME06 Delta Reign | Elite Trainer Box Bundle | ENG",
     "shop": "Zaibatsu",
     "url": "https://zaibatsu.ch/products/pokemon-mega-evolution-me06-delta-reign-elite-trainer-box-eng"
+  },
+  "Pikaversum:16001610809718": {
+    "available": true,
+    "title": "Pokémon TCG: Épée et Bouclier – Origine Perdue Booster Display (Französisch) – B-Ware",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-lost-origin-booster-display-franzosisch-b-ware"
+  },
+  "Pikaversum:16001588658550": {
+    "available": true,
+    "title": "Pokémon TCG - Mega Zygarde ex Premium Collection (Englisch) – B-Ware",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-mega-zygarde-ex-premium-collection-englisch-b-ware"
+  },
+  "Pikaversum:16001588593014": {
+    "available": true,
+    "title": "Pokémon TCG: Écarlate et Violet – Foudre Noire et Flamme Blanche – Victini Illustration Collection (Französisch) – B-Ware",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-black-bolt-white-flare-unova-victini-illustration-collection-franzosisch-b-ware"
+  },
+  "Pikaversum:16001588527478": {
+    "available": true,
+    "title": "Pokémon TCG: Mega Evolution-Perfect Order Elite Trainer Box (Englisch) – B-Ware",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box-englisch-b-ware"
+  },
+  "Pikaversum:16001588429174": {
+    "available": true,
+    "title": "Pokémon TCG: Méga-Évolution – Flammes Fantasmagoriques Elite Trainer Box (Französisch) – B-Ware",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-mega-evolution-phantasmal-flames-elite-trainer-box-franzosisch-b-ware"
+  },
+  "Pikaversum:16001588363638": {
+    "available": true,
+    "title": "Pokémon TCG: Mewtwo V-UNION Special Collection (Englisch) – B-Ware",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-mewtwo-v-union-special-collection-englisch-b-ware"
+  },
+  "Pikaversum:16001588068726": {
+    "available": true,
+    "title": "Pokémon TCG: Mega Evolution-Chaos Rising Elite Trainer Box (Englisch) – B-Ware",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-mega-evolution-chaos-rising-elite-trainer-box-englisch-b-ware"
+  },
+  "Pikaversum:16001588003190": {
+    "available": true,
+    "title": "Pokémon TCG: Méga-Évolution – Flammes Fantasmagoriques Booster Display (Französisch) – B-Ware",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-mega-evolution-phantasmal-flames-booster-display-franzosisch-b-ware"
+  },
+  "Pikaversum:16000954990966": {
+    "available": false,
+    "title": "Pokémon TCG: Méga-Évolution – Héros Transcendants Premium Poster Collection Méga-Lucario ex (Französisch) – B-Ware",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-mega-evolution-ascended-heroes-premium-poster-collection-mega-lucario-ex-franzosisch-b-ware"
+  },
+  "Pikaversum:16000934969718": {
+    "available": false,
+    "title": "Pokémon TCG: 30th Celebration Elite Trainer Box – B-Ware",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box-b-ware"
+  },
+  "PokeAlp:16147799867723": {
+    "available": true,
+    "title": "Pokémon SR / SAR / MUR Set Abyss Eye [M5] (JP)",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-sr-sar-mur-set-abyss-eye-m5-jp"
+  },
+  "PokeAlp:16147796492619": {
+    "available": true,
+    "title": "Pokémon SR / SAR / MUR Set Ninja Spinner [M4] (JP)",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-sr-sar-mur-set-ninja-spinner-m4-jp"
+  },
+  "PokeAlp:16147794624843": {
+    "available": true,
+    "title": "Pokémon SR / SAR / MUR Set Nihil Zero [M3] (JP)",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-sr-sar-mur-set-nihil-zero-m3-jp"
+  },
+  "PokeAlp:16147792101707": {
+    "available": true,
+    "title": "Pokémon SR / SAR / MUR Set MEGA Dream ex [M2a] (JP)",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-sr-sar-mur-set-mega-dream-ex-m2a-jp"
+  },
+  "PokeAlp:16147789513035": {
+    "available": true,
+    "title": "Pokémon SR / SAR / MUR Set Inferno X [M2] (JP)",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-sr-sar-mur-set-inferno-x-m2-jp"
+  },
+  "PokeAlp:16140457738571": {
+    "available": true,
+    "title": "Pokémon SR / SAR / MUR Set Storm Emeralda [M6] (JP)",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-sr-sar-mur-set-storm-emeralda-m6-jp"
+  },
+  "PokeAlp:16147787284811": {
+    "available": true,
+    "title": "Pokémon SR / SAR / MUR Set Mega Symphonia [M1S] (JP)",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-sr-sar-mur-set-mega-symphonia-m1s-jp"
+  },
+  "PokeAlp:16147784204619": {
+    "available": true,
+    "title": "Pokémon SR / SAR / MUR Set Mega Brave [M1L] (JP)",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-sr-sar-mur-set-mega-brave-m1l-jp"
   }
 }
