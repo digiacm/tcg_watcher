@@ -2085,7 +2085,7 @@
     "url": "https://pikaversum.ch/products/deerling-006-086-poke-ball-pattern-sv11w-006-086"
   },
   "Pikaversum:15880140882294": {
-    "available": true,
+    "available": false,
     "title": "Bramblin [PFL - 046/094]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/bramblin-pfl-046-094"
@@ -2331,7 +2331,7 @@
     "url": "https://pikaversum.ch/products/eevee-pre-074-131"
   },
   "Pikaversum:15869101670774": {
-    "available": true,
+    "available": false,
     "title": "Slowking [PRE - 019/131]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/slowking-pre-019-131"
@@ -2373,7 +2373,7 @@
     "url": "https://pikaversum.ch/products/raboot-meg-027-132"
   },
   "Pikaversum:15869099999606": {
-    "available": true,
+    "available": false,
     "title": "Cottonee [PRE - 007/131]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/cottonee-pre-007-131"
@@ -2499,7 +2499,7 @@
     "url": "https://pikaversum.ch/products/marnie-s-purrloin-dri-130-182"
   },
   "Pikaversum:15869085286774": {
-    "available": true,
+    "available": false,
     "title": "Dunsparce [PRE - 079/131]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/dunsparce-pre-079-131"
@@ -2577,7 +2577,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-mini-tin-display-10-mini-tins"
   },
   "Pikaversum:15867144110454": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG: 30th Celebration Booster Bundle",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-booster-bundle"
@@ -3927,13 +3927,13 @@
     "url": "https://pikaversum.ch/products/bulbasaur-001-165-master-ball-pattern-sv2a-001-165"
   },
   "Pikaversum:15798263873910": {
-    "available": true,
+    "available": false,
     "title": "Pokegear 3.0 [BLK - 084/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokegear-3-0-blk-084-086"
   },
   "Pikaversum:15798263513462": {
-    "available": true,
+    "available": false,
     "title": "Solosis (Poke Ball Pattern) [BLK - 037/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/solosis-poke-ball-pattern-blk-037-086"
@@ -3969,13 +3969,13 @@
     "url": "https://pikaversum.ch/products/haxorus-master-ball-pattern-blk-070-086"
   },
   "Pikaversum:15798257484150": {
-    "available": true,
+    "available": false,
     "title": "Leavanny (Poke Ball Pattern) [WHT - 003/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/leavanny-poke-ball-pattern-wht-003-086"
   },
   "Pikaversum:15798257156470": {
-    "available": true,
+    "available": false,
     "title": "Reuniclus (Poke Ball Pattern) [BLK - 039/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/reuniclus-poke-ball-pattern-blk-039-086"
@@ -5985,13 +5985,13 @@
     "url": "https://pikaversum.ch/products/drampa-friend-ball-me-ascended-heroes-676989"
   },
   "Pikaversum:15712338641270": {
-    "available": true,
+    "available": false,
     "title": "Pancham (Love Ball) [ASC - 115/217]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pancham-love-ball-me-ascended-heroes-676943"
   },
   "Pikaversum:15712338379126": {
-    "available": true,
+    "available": false,
     "title": "Poochyena (Energy Symbol Pattern) [ASC - 128/217]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/poochyena-energy-symbol-pattern-me-ascended-heroes-677093"
@@ -12087,7 +12087,7 @@
     "url": "https://japhunter.ch/products/preorder-dragon-ball-fusion-world-fierce-battle-gogeta-pack-vjump-exclusive-japanese-edition"
   },
   "JapHunter:15194308247875": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Center Bundle Tohoku / Hiroshima / Fukuoka (The 3 boxes)",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-center-bundle-tohoku-hiroshima-fukuoka"
@@ -12303,7 +12303,7 @@
     "url": "https://japhunter.ch/products/preorder-pokemon-mega-special-card-set-mega-gallade-ex-japanese-edition"
   },
   "JapHunter:15233838121283": {
-    "available": false,
+    "available": true,
     "title": "Dragon Ball Fusion World Dual Evolution Display [FB09] | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/dragon-ball-fusion-world-dual-evolution-display-fb09-japanese-edition"
@@ -13983,7 +13983,7 @@
     "url": "https://pokealp.ch/products/pokemon-arene-de-la-vague-de-chaleur-sv9a-display-booster-box-japonais"
   },
   "PokeAlp:15778616443211": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Battle Partners SV9 | Boîte Japonaise - 30 Boosters",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-partenaires-de-combat-sv9-display-booster-box-japonais"
@@ -19728,7 +19728,7 @@
     "available": false,
     "title": "Pokémon TCG – Ascended Heroes – Gastly 3-Pack Blister (EN)",
     "shop": "Mr. Packhouse",
-    "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-ascended-heroes-trainers-blister-erika-s-tangela-en"
+    "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-ascended-heroes-gastly-3-pack-blister-en"
   },
   "Mr. Packhouse:10368548766035": {
     "available": false,
@@ -19746,7 +19746,7 @@
     "available": false,
     "title": "Pokémon TCG – Spring ex Tin Variante B (DE)",
     "shop": "Mr. Packhouse",
-    "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-spring-ex-tin-variante-b-de-kopie"
+    "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-spring-ex-tin-variante-b-de"
   },
   "Mr. Packhouse:10443522507091": {
     "available": false,
@@ -19770,19 +19770,19 @@
     "available": false,
     "title": "Pokémon TCG – Pokémon Day 2026 Collection (EN)",
     "shop": "Mr. Packhouse",
-    "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-pokemon-day-2026-collection-en-kopie"
+    "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-pokemon-day-2026-collection-en"
   },
   "Mr. Packhouse:10409657860435": {
     "available": false,
     "title": "Pokémon TCG – Ascended Heroes – Trainer's Blister Erika’s Tangela (EN)",
     "shop": "Mr. Packhouse",
-    "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-ascended-heroes-151-trainers-blister-l-en"
+    "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-ascended-heroes-trainers-blister-erika-s-tangela-en"
   },
   "Mr. Packhouse:10409647374675": {
     "available": false,
     "title": "Pokémon TCG – Ascended Heroes – Trainer's Blister Larry’s Komala (EN)",
     "shop": "Mr. Packhouse",
-    "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-scarlet-violet-151-booster-box-jp-kopie"
+    "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-ascended-heroes-trainers-blister-larrys-komala-en"
   },
   "Mr. Packhouse:10392615682387": {
     "available": false,
@@ -19800,7 +19800,7 @@
     "available": false,
     "title": "Pokémon TCG - Scarlet & Violet – 151 Booster Pack (EN)",
     "shop": "Mr. Packhouse",
-    "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-scarlet-violet-151-booster-bundle-en-kopie"
+    "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-scarlet-violet-151-booster-pack-en"
   },
   "Mr. Packhouse:10387457212755": {
     "available": false,
@@ -19908,7 +19908,7 @@
     "available": false,
     "title": "Pokémon TCG – Inferno X Booster Pack (JP)",
     "shop": "Mr. Packhouse",
-    "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-inferno-x-booster-display-jp-kopie"
+    "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-inferno-x-booster-pack-jp"
   },
   "Mr. Packhouse:10278002590035": {
     "available": false,
@@ -19944,7 +19944,7 @@
     "available": false,
     "title": "Pokemon TCG - Mega Dream ex Booster Pack (JP)",
     "shop": "Mr. Packhouse",
-    "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-mega-dream-ex-m2a-booster-box-kopie"
+    "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-mega-dream-ex-m2a-booster-pack-jp"
   },
   "BoosterBox:15877581308278": {
     "available": false,
@@ -19965,7 +19965,7 @@
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-mini-tin-en"
   },
   "BoosterBox:15877581177206": {
-    "available": false,
+    "available": true,
     "title": "Pokémon 30th Celebration Elite Trainer Box (9 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-etb-en"
@@ -20895,7 +20895,7 @@
     "url": "https://japhunter.ch/products/pokemon-30th-celebration-ar-card-collection-single-card-or-complete-20-card-set-japanese-edition"
   },
   "JapHunter:15413718745411": {
-    "available": true,
+    "available": false,
     "title": "Pokémon MEGA 30th CELEBRATION Pikachu Complete Set | 30 Cards | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-mega-30th-celebration-pikachu-complete-set-30-cards-japanese-edition"
@@ -22395,7 +22395,7 @@
     "url": "https://pikaversum.ch/products/charcadet-022-pokemon-center-exclusive-me-mega-evolution-promo-665053"
   },
   "Pikaversum:15970937110902": {
-    "available": true,
+    "available": false,
     "title": "N's Zoroark ex - 137/217 [ASC - 137/217]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/n-s-zoroark-ex-137-217-me-ascended-heroes-675949"
@@ -22492,7 +22492,7 @@
   },
   "BoosterBox:15970946908534": {
     "available": false,
-    "title": "Pokémon Prismatische Entwicklungen Super-Premium-Kollektion (15 Packs)",
+    "title": "Pokémon Prismatische Entwicklungen Super-Premium-Kollektion (Deutsch, 15 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-prismatische-entwicklungen-super-premium-kollektion-de"
   },
@@ -22869,7 +22869,7 @@
     "url": "https://pikaversum.ch/products/mega-zeraora-ex-027-084-me05-pitch-black-704784"
   },
   "Pikaversum:15990016278902": {
-    "available": true,
+    "available": false,
     "title": "Mandibuzz ex [ASC - 139/217]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/mandibuzz-ex-me-ascended-heroes-675951"
