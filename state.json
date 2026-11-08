@@ -2655,7 +2655,7 @@
     "url": "https://pikaversum.ch/products/cinccino-ex-105-086-cri-105-086"
   },
   "Pikaversum:15858952798582": {
-    "available": true,
+    "available": false,
     "title": "Claydol - 090/083 [m4 - 090/083]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/claydol-090-083-m4-090-083"
@@ -2667,7 +2667,7 @@
     "url": "https://pikaversum.ch/products/galarian-obstagoon-209-193-m2a-209-193"
   },
   "Pikaversum:15858952700278": {
-    "available": true,
+    "available": false,
     "title": "Drapion - 090/080 [M3 - 090/080]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/drapion-090-080-m3-090-080"
@@ -2745,7 +2745,7 @@
     "url": "https://pikaversum.ch/products/talonflame-083-080-m3-083-080"
   },
   "Pikaversum:15858949816694": {
-    "available": true,
+    "available": false,
     "title": "Fennekin - 085/083 [m4 - 085/083]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/fennekin-085-083-m4-085-083"
@@ -22935,7 +22935,7 @@
     "url": "https://pikaversum.ch/products/chi-yu-ex-040-193-sv02-paldea-evolved-497451"
   },
   "Pikaversum:15989952282998": {
-    "available": true,
+    "available": false,
     "title": "Articuno (German) [30C - 132/128]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/articuno-132-128-me-30th-celebration-716220"
@@ -23259,13 +23259,13 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-ditto-premium-collection"
   },
   "Pikaversum:15998722113910": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG Bundle: 2× 30th Celebration Booster Bundle + 3× Mega Forces Tin (Französisch)",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-2-30th-celebration-booster-bundle-3-mega-forces-tin-franzosisch"
   },
   "Pikaversum:15998724473206": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG Bundle: 30th Celebration Booster Bundle + 2× Mega Moonlit Tin (Französisch)",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-booster-bundle-2-mega-moonlit-tin-franzosisch"
@@ -23515,5 +23515,35 @@
     "title": "Pokémon SR / SAR / MUR Set Mega Brave [M1L] (JP)",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-sr-sar-mur-set-mega-brave-m1l-jp"
+  },
+  "PokeAlp:16158977261899": {
+    "available": true,
+    "title": "Pokémon MEGA Special Deck Set | Méga-Aligatueur ex, Méga-Dracolosse ex & Méga-Ectoplasma ex | Édition Japonaise",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-mega-special-deck-set-aligatueur-dracolosse-ectoplasma-edition-japonaise"
+  },
+  "Mr. Packhouse:11065946800467": {
+    "available": false,
+    "title": "Pokémon TCG – Mega Evolution – Delta Reign (ME06) – Elite Trainer Box (EN)",
+    "shop": "Mr. Packhouse",
+    "url": "https://www.mrpackhouse.ch/products/pokemon-delta-reign-elite-trainer-box-en"
+  },
+  "Mr. Packhouse:11065946964307": {
+    "available": true,
+    "title": "Pokémon Sammelkartenspiel – Mega-Entwicklung – Delta-Herrschaft (ME06) – Booster Bundle (DE)",
+    "shop": "Mr. Packhouse",
+    "url": "https://www.mrpackhouse.ch/products/pokemon-delta-herrschaft-booster-bundle-de"
+  },
+  "Mr. Packhouse:11065946931539": {
+    "available": false,
+    "title": "Pokémon TCG – Mega Evolution – Delta Reign (ME06) – Booster Bundle (EN)",
+    "shop": "Mr. Packhouse",
+    "url": "https://www.mrpackhouse.ch/products/pokemon-delta-reign-booster-bundle-en"
+  },
+  "Mr. Packhouse:11065946866003": {
+    "available": true,
+    "title": "Pokémon Sammelkartenspiel – Mega-Entwicklung – Delta-Herrschaft (ME06) – Top-Trainer-Box (DE)",
+    "shop": "Mr. Packhouse",
+    "url": "https://www.mrpackhouse.ch/products/pokemon-delta-herrschaft-top-trainer-box-de"
   }
 }
