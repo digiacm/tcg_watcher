@@ -22005,7 +22005,7 @@
     "url": "https://japhunter.ch/products/pokemon-gem-pack-vol-7-psyduck-booster-box-display-simplified-chinese-edition"
   },
   "PokeAlp:16085285929291": {
-    "available": false,
+    "available": true,
     "title": "Lugia Mirror 005/028 | s8a 25th Anniversary Collection | PSA 10 Gem Mint | Édition Japonaise",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/lugia-mirror-005-028-s8a-25th-anniversary-collection-psa-10-gem-mint-edition-japonaise"
@@ -23545,5 +23545,17 @@
     "title": "Pokémon Sammelkartenspiel – Mega-Entwicklung – Delta-Herrschaft (ME06) – Top-Trainer-Box (DE)",
     "shop": "Mr. Packhouse",
     "url": "https://www.mrpackhouse.ch/products/pokemon-delta-herrschaft-top-trainer-box-de"
+  },
+  "PokeAlp:16153922502987": {
+    "available": true,
+    "title": "Sylveon ex SAR 212/187 | SV8a Terastal Festival ex | PSA 10 Gem Mint | Édition Japonaise",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/sylveon-ex-sar-212-187-sv8a-terastal-festival-ex-psa-10-gem-mint-edition-japonaise"
+  },
+  "PokeAlp:16153922666827": {
+    "available": true,
+    "title": "Mega Gengar ex SAR 240/193 | M2a MEGA Dream ex | PSA 10 Gem Mint | Édition Japonaise",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/mega-gengar-ex-sar-240-193-m2a-mega-dream-ex-psa-10-gem-mint-edition-japonaise"
   }
 }
