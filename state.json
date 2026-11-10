@@ -11961,7 +11961,7 @@
     "url": "https://japhunter.ch/products/brilliant-fantasy-csv8c-chinese-booster-pack-slim-booster-box-pokemon-style-tcg"
   },
   "JapHunter:15331796091203": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Blade Awakening Slim Booster Box (CSV7c) | Simplified Chinese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-tcg-blade-awakening-csv7c-slim-booster-box-simplified-chinese"
@@ -23289,7 +23289,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-booster-box-mega-entwicklung-delta-herrschaft"
   },
   "Cardmaniac:10368919503023": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG – Top-Trainer-Box Mega-Entwicklung – Delta-Herrschaft",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-top-trainer-box-mega-entwicklung-delta-herrschaft"
@@ -24121,5 +24121,35 @@
     "title": "Pokémon TCG : Collection Premium Métamorph 30ᵉ Anniversaire (FR) + Collection Premium Méga-Amphinobi-ex (FR) Set",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-bundle-fr-metamorph-mega-amphinobi-ex-premium-collection"
+  },
+  "PokeAlp:16166160859467": {
+    "available": true,
+    "title": "Pokémon Mega Evolution Delta Reign (ME06) | Display Anglais 36 Boosters",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-delta-reign-me06-display-anglais-36-boosters"
+  },
+  "PokeAlp:16165353783627": {
+    "available": false,
+    "title": "Pokémon TCG: 30th Celebration Ultra-Premium Collection Day & Night | Édition anglaise",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-night-en"
+  },
+  "Mr. Packhouse:11079171473747": {
+    "available": true,
+    "title": "Pokémon Sammelkartenspiel – Mega-Entwicklung – Delta-Herrschaft (ME06) – Booster (DE)",
+    "shop": "Mr. Packhouse",
+    "url": "https://www.mrpackhouse.ch/products/pokemon-delta-herrschaft-booster-de"
+  },
+  "BoosterBox:16007736066422": {
+    "available": true,
+    "title": "Pokémon Delta Reign (ME06) 3-Pack-Blister (Seel Promo)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-delta-reign-blister-en"
+  },
+  "BoosterBox:16007735902582": {
+    "available": true,
+    "title": "Pokémon Delta Reign (ME06) Booster Pack",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-delta-reign-booster-lose-en"
   }
 }
