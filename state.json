@@ -2325,13 +2325,13 @@
     "url": "https://pikaversum.ch/products/goodra-cri-068-086"
   },
   "Pikaversum:15869101801846": {
-    "available": false,
+    "available": true,
     "title": "Eevee [PRE - 074/131]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/eevee-pre-074-131"
   },
   "Pikaversum:15869101670774": {
-    "available": false,
+    "available": true,
     "title": "Slowking [PRE - 019/131]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/slowking-pre-019-131"
@@ -2469,7 +2469,7 @@
     "url": "https://pikaversum.ch/products/ninetales-cri-009-086"
   },
   "Pikaversum:15869086302582": {
-    "available": false,
+    "available": true,
     "title": "Roaring Moon [PRE - 065/131]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/roaring-moon-pre-065-131"
@@ -3189,7 +3189,7 @@
     "url": "https://pikaversum.ch/products/pokemon-chasing-glory-together-csv10c-slim-booster-box-simplified-chinese"
   },
   "Pikaversum:15819332911478": {
-    "available": false,
+    "available": true,
     "title": "Protecc Acrylic Case Pokémon Japanese Booster Box",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/protecc-acrylic-case-pokemon-japanese-booster-box"
@@ -20049,7 +20049,7 @@
     "url": "https://boosterbox.ch/products/pokemon-lumiose-city-mini-tin-en"
   },
   "BoosterBox:15827382665590": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Destined Rivals (SV10) Booster Pack",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-destined-rivals-booster-lose-en"
@@ -21921,7 +21921,7 @@
     "url": "https://japhunter.ch/products/psa-10-pikachu-v-csr-222-184-vmax-climax-japanese-s8b"
   },
   "JapHunter:15428323639619": {
-    "available": false,
+    "available": true,
     "title": "PSA 10 Mew ex SR #195/165 – Pokémon Card 151 Japanese SV2a",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-mew-ex-sr-195-165-pokemon-card-151-japanese-sv2a"
@@ -21963,7 +21963,7 @@
     "url": "https://japhunter.ch/products/pokemon-regne-delta-me06-display-36-boosters-mega-evolution-francais"
   },
   "JapHunter:15444643512643": {
-    "available": true,
+    "available": false,
     "title": "Pokémon AR CARDS Complete Set | 27 First Partner Cards | 30th Celebration | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-ar-cards-complete-set-27-first-partner-cards-30th-celebration-japanese"
@@ -23109,7 +23109,7 @@
     "url": "https://boosterbox.ch/products/pokemon-delta-reign-bundle-en"
   },
   "BoosterBox:15995404517750": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Delta Reign (ME06) Booster Display (36 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-delta-reign-display-en"
@@ -24151,5 +24151,149 @@
     "title": "Pokémon Delta Reign (ME06) Booster Pack",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-delta-reign-booster-lose-en"
+  },
+  "Pikaversum:16010265133430": {
+    "available": true,
+    "title": "Vaporeon [PRE - 022/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/vaporeon-sv-prismatic-evolutions-610377"
+  },
+  "Pikaversum:16010264936822": {
+    "available": true,
+    "title": "Pikachu ex [PRE - 179/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pikachu-ex-179-131-sv-prismatic-evolutions-610534"
+  },
+  "Pikaversum:16010264838518": {
+    "available": true,
+    "title": "Espeon ex [PRE - 034/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/espeon-ex-034-131-sv-prismatic-evolutions-610389"
+  },
+  "Pikaversum:16010264707446": {
+    "available": true,
+    "title": "Sandy Shocks ex [PRE - 056/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/sandy-shocks-ex-056-131-sv-prismatic-evolutions-610411"
+  },
+  "Pikaversum:16010264576374": {
+    "available": true,
+    "title": "Applin (Poke Ball Pattern) [PRE - 009/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/applin-poke-ball-pattern-sv-prismatic-evolutions-610543"
+  },
+  "Pikaversum:16010264445302": {
+    "available": true,
+    "title": "Flareon (Poke Ball Pattern) [PRE - 013/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/flareon-poke-ball-pattern-sv-prismatic-evolutions-610545"
+  },
+  "Pikaversum:16010264346998": {
+    "available": true,
+    "title": "Drakloak (Poke Ball Pattern) [PRE - 072/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/drakloak-poke-ball-pattern-sv-prismatic-evolutions-610589"
+  },
+  "Pikaversum:16010264117622": {
+    "available": true,
+    "title": "Eevee [SVP - 173]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/eevee-173-sv-scarlet-violet-promo-cards-610758"
+  },
+  "Pikaversum:16010263855478": {
+    "available": true,
+    "title": "Dipplin [PRE - 010/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/dipplin-sv-prismatic-evolutions-610365"
+  },
+  "Pikaversum:16010263658870": {
+    "available": true,
+    "title": "Professor's Research [Professor Oak] [PRE - 122/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/professor-s-research-professor-oak-sv-prismatic-evolutions-610477"
+  },
+  "Pikaversum:16010263527798": {
+    "available": true,
+    "title": "Espeon [PRE - 033/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/espeon-sv-prismatic-evolutions-610388"
+  },
+  "Pikaversum:16010263331190": {
+    "available": true,
+    "title": "Rescue Board [PRE - 126/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/rescue-board-sv-prismatic-evolutions-610481"
+  },
+  "Pikaversum:16010263036278": {
+    "available": true,
+    "title": "Budew [PRE - 004/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/budew-sv-prismatic-evolutions-610359"
+  },
+  "Pikaversum:16010262872438": {
+    "available": true,
+    "title": "Noibat [PRE - 090/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/noibat-sv-prismatic-evolutions-610445"
+  },
+  "Pikaversum:16010262610294": {
+    "available": true,
+    "title": "Noctowl [PRE - 078/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/noctowl-sv-prismatic-evolutions-610433"
+  },
+  "Pikaversum:16010262446454": {
+    "available": true,
+    "title": "Scream Tail [PRE - 042/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/scream-tail-sv-prismatic-evolutions-610397"
+  },
+  "Pikaversum:16010261725558": {
+    "available": true,
+    "title": "Jolteon [PRE - 029/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/jolteon-sv-prismatic-evolutions-610384"
+  },
+  "Pikaversum:16010261594486": {
+    "available": true,
+    "title": "Hippopotas [PRE - 052/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/hippopotas-sv-prismatic-evolutions-610407"
+  },
+  "Pikaversum:16010261430646": {
+    "available": true,
+    "title": "Fezandipiti [PRE - 045/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/fezandipiti-sv-prismatic-evolutions-610400"
+  },
+  "Pikaversum:16010261234038": {
+    "available": true,
+    "title": "Houndour [PRE - 062/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/houndour-sv-prismatic-evolutions-610417"
+  },
+  "Pikaversum:16010260971894": {
+    "available": true,
+    "title": "Groudon [PRE - 049/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/groudon-sv-prismatic-evolutions-610404"
+  },
+  "Pikaversum:16010260250998": {
+    "available": true,
+    "title": "Heatran [PRE - 068/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/heatran-sv-prismatic-evolutions-610423"
+  },
+  "Pikaversum:16010259792246": {
+    "available": true,
+    "title": "Pinsir [PRE - 003/131]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pinsir-sv-prismatic-evolutions-610358"
+  },
+  "Mr. Packhouse:11081607577939": {
+    "available": true,
+    "title": "Pokémon Sammelkartenspiel – Karmesin & Purpur – 151 (SV3.5) – Mini Tin (DE)",
+    "shop": "Mr. Packhouse",
+    "url": "https://www.mrpackhouse.ch/products/pokemon-151-mini-tin-de"
   }
 }
