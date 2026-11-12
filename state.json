@@ -207,7 +207,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-booster-box-mega-entwicklung-dunkelnacht"
   },
   "Cardmaniac:8622159364271": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG – Top-Trainer-Box Mega-Entwicklung – Dunkelnacht",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-top-trainer-box-mega-entwicklung-dunkelnacht"
@@ -219,7 +219,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-premium-kollektion-mega-quajutsu-ex"
   },
   "Cardmaniac:8604030468271": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG – Enhanced 2-Pack Blister 2026",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-enhanced-2-pack-blister-2026"
@@ -2535,7 +2535,7 @@
     "url": "https://pikaversum.ch/products/dusknoir-pre-037-131"
   },
   "Pikaversum:15869084467574": {
-    "available": true,
+    "available": false,
     "title": "Vulpix [CRI - 008/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/vulpix-cri-008-086"
@@ -19905,7 +19905,7 @@
     "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-scarlet-violet-shrouded-fable-tin-en"
   },
   "Mr. Packhouse:10326960505171": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG – Inferno X Booster Pack (JP)",
     "shop": "Mr. Packhouse",
     "url": "https://www.mrpackhouse.ch/products/pokemon-tcg-inferno-x-booster-pack-jp"
@@ -22977,7 +22977,7 @@
     "url": "https://theuncommonshop.ch/product/dragon-ball-super-fusion-world-2nd-anniversary-set/"
   },
   "RyuLand:15979369791818": {
-    "available": true,
+    "available": false,
     "title": "Pokémon - 30th - 30th Celebration - Zapdos & Articuno & Moltres - Poster Collection",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-30th-30th-celebration-zapdos-articuno-moltres-poster-collection"
@@ -23595,7 +23595,7 @@
     "url": "https://pikaversum.ch/products/carvanha-dlr-061-103"
   },
   "Pikaversum:16004711154038": {
-    "available": true,
+    "available": false,
     "title": "Arcanine (German) [DLR - 019/103]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/arcanine-dlr-019-103"
@@ -23631,7 +23631,7 @@
     "url": "https://pikaversum.ch/products/altaria-082-103-dlr-082-103"
   },
   "Pikaversum:16004708794742": {
-    "available": true,
+    "available": false,
     "title": "Onix (German) [DLR - 051/103]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/onix-dlr-051-103"
@@ -23919,7 +23919,7 @@
     "url": "https://pikaversum.ch/products/pikachu-030-128-30c-030-128"
   },
   "Pikaversum:16004702142838": {
-    "available": true,
+    "available": false,
     "title": "Eevee [DLR - 078/103]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/eevee-dlr-078-103"
@@ -23961,7 +23961,7 @@
     "url": "https://pikaversum.ch/products/cranidos-pbl-044-084"
   },
   "Pikaversum:16004701782390": {
-    "available": true,
+    "available": false,
     "title": "Magmar [DLR - 020/103]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/magmar-dlr-020-103"
@@ -24033,7 +24033,7 @@
     "url": "https://pikaversum.ch/products/lugia-vstar-secret-202-swsh12-202-195"
   },
   "Pikaversum:16004675305846": {
-    "available": true,
+    "available": false,
     "title": "Mega Slowbro ex [PBL - 031/084]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/mega-slowbro-ex-pbl-031-084"
@@ -24159,7 +24159,7 @@
     "url": "https://pikaversum.ch/products/vaporeon-sv-prismatic-evolutions-610377"
   },
   "Pikaversum:16010264936822": {
-    "available": true,
+    "available": false,
     "title": "Pikachu ex [PRE - 179/131]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pikachu-ex-179-131-sv-prismatic-evolutions-610534"
