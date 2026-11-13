@@ -813,7 +813,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-spezial-kollektion-glurak-ex"
   },
   "Cardmaniac:8247098212527": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG - Premium-Kollektion Cynthias Knakrack‑ex",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-premium-kollektion-cynthias-knakrack-ex"
@@ -14901,7 +14901,7 @@
     "url": "https://pokeuri.ch/products/pokemon-premium-collection-venusaur-ex"
   },
   "PokeUri:15664428712316": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON MEGA CHARIZARD ULTRA PREMIUM COLLECTION -EN-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-mega-charizard-ultra-premium-collection"
@@ -15033,7 +15033,7 @@
     "url": "https://pokeuri.ch/products/pokemon-mini-tin-box-black-bolt-and-white-flare"
   },
   "PokeUri:15400511013244": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON: STEVEN RIVAL BATTLE DECK -EN-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-steven-rival-battle-deck"
@@ -16125,7 +16125,7 @@
     "url": "https://pokeuri.ch/products/pokemon-cards-tin-box-106-galagladi-v-de"
   },
   "PokeUri:8138757800223": {
-    "available": true,
+    "available": false,
     "title": "POP - POKÉMON - PICHU",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pop-pokemon-pichu"
@@ -19623,7 +19623,7 @@
     "url": "https://ryu.land/products/sv5k-wild-force-booster-display-jp"
   },
   "RyuLand:8620295586122": {
-    "available": true,
+    "available": false,
     "title": "Pokémon - SV4a - Shiny Treasure ex - Booster Display [JP]",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/sv4a-shiny-treasure-booster-display-jp"
@@ -21711,7 +21711,7 @@
     "url": "https://ryu.land/products/pok-mon-sv08-5-scarlet-violet-prismatic-evolutions-accessory-pouch-special-collection"
   },
   "RyuLand:16098597536074": {
-    "available": true,
+    "available": false,
     "title": "Pokémon - SV08.5 - Scarlet & Violet - Prismatic Evolutions - Ultra Premium Collection",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-sv08-5-scarlet-violet-prismatic-evolutions-ultra-premium-collection"
@@ -22689,7 +22689,7 @@
     "url": "https://ryu.land/products/pok-mon-deck-crafter-s-collection-2026-battle-deck"
   },
   "RyuLand:16053568635210": {
-    "available": true,
+    "available": false,
     "title": "Pokémon - 30th - 30th Celebration - Mini Tin",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-30th-30th-celebration-mini-tin"
@@ -23067,7 +23067,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-tech-sticker-collection-display-12-stuck-franzosisch"
   },
   "RyuLand:15979370938698": {
-    "available": true,
+    "available": false,
     "title": "Pokémon - 30th - 30th Celebration - 2-Pack Blister",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-30th-30th-celebration-2-pack-blister"
@@ -24327,7 +24327,7 @@
     "url": "https://boosterbox.ch/products/protecc-acryl-case-pokemon-30th-celebration-ultra-premium-collection"
   },
   "Pikaversum:16014795276662": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG: Gem Pack Vol. 7 CBB7C Booster Box – Simplified Chinese (CN) – B-Ware",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-gem-pack-vol-7-cbb7c-booster-box-simplified-chinese-b-ware"
@@ -24355,5 +24355,35 @@
     "title": "Pokémon 30th Celebration Starter-Promos (Japanisch, 27 Karten)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-spezial-jp"
+  },
+  "Pikaversum:16015581675894": {
+    "available": true,
+    "title": "Pokémon TCG: Mega-Entwicklung 36er Booster Display (Deutsch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-mega-entwicklung-36er-booster-display-deutsch"
+  },
+  "Pikaversum:16015399289206": {
+    "available": true,
+    "title": "Pokémon TCG: Épée et Bouclier – Astres Radieux Booster Display (Französisch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-epee-et-bouclier-astres-radieux-booster-display-franzosisch"
+  },
+  "Pikaversum:16015390081398": {
+    "available": true,
+    "title": "Pokémon TCG: Mega-Entwicklung – Fatale Flammen 18er Booster Display (Deutsch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-mega-entwicklung-fatale-flammen-18er-booster-display-deutsch"
+  },
+  "RyuLand:16127775408458": {
+    "available": true,
+    "title": "[Box Break] Pokémon - ME06 - Mega Evolution - Delta Reign - Booster",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/box-break-pok-mon-me06-mega-evolution-delta-reign-booster"
+  },
+  "RyuLand:16213689041226": {
+    "available": true,
+    "title": "[Box Break] Pokémon - ME06 - Mega Evolution - Delta Reign - Booster [DE]",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/box-break-pok-mon-me06-mega-evolution-delta-reign-booster-de"
   }
 }
