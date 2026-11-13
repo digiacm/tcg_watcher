@@ -2325,7 +2325,7 @@
     "url": "https://pikaversum.ch/products/goodra-cri-068-086"
   },
   "Pikaversum:15869101801846": {
-    "available": true,
+    "available": false,
     "title": "Eevee [PRE - 074/131]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/eevee-pre-074-131"
@@ -2871,7 +2871,7 @@
     "url": "https://pikaversum.ch/products/yamper-099-094-pfl-099-094"
   },
   "Pikaversum:15827254542710": {
-    "available": true,
+    "available": false,
     "title": "Mega Chandelure ex - 038/084 [PBL - 038/084]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/mega-chandelure-ex-038-084-pbl-038-084"
@@ -4551,7 +4551,7 @@
     "url": "https://pikaversum.ch/products/grookey-shf-011-072"
   },
   "Pikaversum:15796441612662": {
-    "available": true,
+    "available": false,
     "title": "Dartrix [SHF - 007/072]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/dartrix-shf-007-072"
@@ -5685,7 +5685,7 @@
     "url": "https://pikaversum.ch/products/mega-floette-ex-035-086-cri-035-086"
   },
   "Pikaversum:15769875972470": {
-    "available": true,
+    "available": false,
     "title": "Cinccino ex - 073/086 [CRI - 073/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/cinccino-ex-073-086-cri-073-086"
@@ -10359,7 +10359,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-rival-battle-deck-marnie-rival-battle-deck-steven"
   },
   "Pikaversum:15199049875830": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG: Cynthia’s Garchomp ex Premium Collection",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-cynthia-s-garchomp-ex-premium-collection"
@@ -10461,7 +10461,7 @@
     "url": "https://pikaversum.ch/products/ultra-pro-super-thick-130pt-toploaders-10-stk"
   },
   "Pikaversum:15069017538934": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG - Iono’s Bellibolt ex Premium Collection",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-iono-s-bellibolt-ex-premium-collection"
@@ -13629,7 +13629,7 @@
     "url": "https://pokealp.ch/products/pokemon-30th-anniversary-card-display-sleeve-sylveon-ex-chinese"
   },
   "PokeAlp:15984729456971": {
-    "available": false,
+    "available": true,
     "title": "Pokémon 30th Anniversary Celebration Collector Display Gift Box – Espeon ex & Umbreon ex | Simplified Chinese Edition",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-30th-anniversary-espeon-umbreon-collector-gift-box-chinese"
@@ -14061,7 +14061,7 @@
     "url": "https://pokealp.ch/products/display-mega-inferno-x-m2-edition-japonaise"
   },
   "PokeAlp:15719630012747": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Pack de Gemmes Vol.5 (CBB5C) | Boîte Chinoise — 18 Booster",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pack-de-gemmes-vol5-cbb5c-boite-chinois-simplifie"
@@ -21147,7 +21147,7 @@
     "url": "https://pokealp.ch/products/pokemon-30th-celebration-m6a-legendary-reprint-cartes-japonaises"
   },
   "PokeAlp:16044584468811": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Terastal Gathering Booster Box Display (CSV9.5 C) | Édition Chinois simplifié",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-terastal-gathering-booster-box-display-csv9-5-c-chinese"
@@ -22863,7 +22863,7 @@
     "url": "https://pikaversum.ch/products/marshadow-me05-pitch-black-704797"
   },
   "Pikaversum:15990016377206": {
-    "available": true,
+    "available": false,
     "title": "Mega Zeraora ex [PBL - 027/084]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/mega-zeraora-ex-027-084-me05-pitch-black-704784"
@@ -23319,7 +23319,7 @@
     "url": "https://pokeuri.ch/products/pokemon-30th-celebration-card-set-all-sets"
   },
   "PokeUri:16196473979260": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON BOOSTER: 30TH CELEBRATION",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-booster-30th-celebration"
@@ -23529,7 +23529,7 @@
     "url": "https://www.mrpackhouse.ch/products/pokemon-delta-reign-elite-trainer-box-en"
   },
   "Mr. Packhouse:11065946964307": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Sammelkartenspiel – Mega-Entwicklung – Delta-Herrschaft (ME06) – Booster Bundle (DE)",
     "shop": "Mr. Packhouse",
     "url": "https://www.mrpackhouse.ch/products/pokemon-delta-herrschaft-booster-bundle-de"
@@ -23727,7 +23727,7 @@
     "url": "https://pikaversum.ch/products/kecleon-dlr-083-103"
   },
   "Pikaversum:16004704207222": {
-    "available": true,
+    "available": false,
     "title": "Jolteon [DLR - 032/103]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/jolteon-dlr-032-103"
@@ -23769,7 +23769,7 @@
     "url": "https://pikaversum.ch/products/arboliva-dlr-017-103"
   },
   "Pikaversum:16004703682934": {
-    "available": true,
+    "available": false,
     "title": "Illumise [30C - 004/128]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/illumise-30c-004-128"
@@ -23853,7 +23853,7 @@
     "url": "https://pikaversum.ch/products/kyogre-dlr-026-103"
   },
   "Pikaversum:16004702798198": {
-    "available": true,
+    "available": false,
     "title": "Umbreon [30C - 091/128]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/umbreon-30c-091-128"
@@ -24051,7 +24051,7 @@
     "url": "https://pikaversum.ch/products/kommo-o-143-128-30c-143-128"
   },
   "Pikaversum:16004674748790": {
-    "available": true,
+    "available": false,
     "title": "Umbreon ex [30C - 092/128]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/umbreon-ex-30c-092-128"
@@ -24153,7 +24153,7 @@
     "url": "https://boosterbox.ch/products/pokemon-delta-reign-booster-lose-en"
   },
   "Pikaversum:16010265133430": {
-    "available": true,
+    "available": false,
     "title": "Vaporeon [PRE - 022/131]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/vaporeon-sv-prismatic-evolutions-610377"
@@ -24165,7 +24165,7 @@
     "url": "https://pikaversum.ch/products/pikachu-ex-179-131-sv-prismatic-evolutions-610534"
   },
   "Pikaversum:16010264838518": {
-    "available": true,
+    "available": false,
     "title": "Espeon ex [PRE - 034/131]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/espeon-ex-034-131-sv-prismatic-evolutions-610389"
@@ -24213,7 +24213,7 @@
     "url": "https://pikaversum.ch/products/professor-s-research-professor-oak-sv-prismatic-evolutions-610477"
   },
   "Pikaversum:16010263527798": {
-    "available": true,
+    "available": false,
     "title": "Espeon [PRE - 033/131]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/espeon-sv-prismatic-evolutions-610388"
@@ -24243,13 +24243,13 @@
     "url": "https://pikaversum.ch/products/noctowl-sv-prismatic-evolutions-610433"
   },
   "Pikaversum:16010262446454": {
-    "available": true,
+    "available": false,
     "title": "Scream Tail [PRE - 042/131]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/scream-tail-sv-prismatic-evolutions-610397"
   },
   "Pikaversum:16010261725558": {
-    "available": true,
+    "available": false,
     "title": "Jolteon [PRE - 029/131]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/jolteon-sv-prismatic-evolutions-610384"
@@ -24325,5 +24325,35 @@
     "title": "Protecc Acryl-Case für Pokémon 30th Celebration Ultra Premium Collection",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/protecc-acryl-case-pokemon-30th-celebration-ultra-premium-collection"
+  },
+  "Pikaversum:16014795276662": {
+    "available": true,
+    "title": "Pokémon TCG: Gem Pack Vol. 7 CBB7C Booster Box – Simplified Chinese (CN) – B-Ware",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-gem-pack-vol-7-cbb7c-booster-box-simplified-chinese-b-ware"
+  },
+  "Pikaversum:16014494564726": {
+    "available": true,
+    "title": "Pokémon TCG Bundle: Enigmaras Wampitz-ex Premium-Kollektion + 30th Celebration Booster Bundle (Deutsch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-enigmaras-wampitz-ex-premium-kollektion-30th-celebration-booster-bundle-deutsch"
+  },
+  "Pikaversum:16014494531958": {
+    "available": true,
+    "title": "Pokémon TCG Bundle: Cynthias Knakrack-ex Premium-Kollektion + 30th Celebration Booster Bundle (Deutsch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-cynthias-knakrack-ex-premium-kollektion-30th-celebration-booster-bundle-deutsch"
+  },
+  "Detsuki:16208661381464": {
+    "available": true,
+    "title": "Pokémon Gem Pack Vol. 7 (CBB7C)",
+    "shop": "Detsuki",
+    "url": "https://detsuki.ch/products/pokemon-gem-pack-vol-7-cbb7c"
+  },
+  "BoosterBox:16014675313014": {
+    "available": true,
+    "title": "Pokémon 30th Celebration Starter-Promos (Japanisch, 27 Karten)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-30th-celebration-spezial-jp"
   }
 }
