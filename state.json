@@ -2841,7 +2841,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-2-pack-blister"
   },
   "Pikaversum:15839832637814": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG: 30th Celebration Elite Trainer Box",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box"
@@ -2853,7 +2853,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-tin-box-pokeball-2024-en"
   },
   "Pikaversum:15113262039414": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-scarlet-violet-prismatic-evolutions-super-premium-collection"
@@ -3603,7 +3603,7 @@
     "url": "https://pikaversum.ch/products/metagross-v-swsh06-112-198"
   },
   "Pikaversum:15806698881398": {
-    "available": true,
+    "available": false,
     "title": "Lino [SWSH10 - 185/189]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/grant-full-art-swsh10-185-189"
@@ -3645,7 +3645,7 @@
     "url": "https://pikaversum.ch/products/numel-pgo-013-078"
   },
   "Pikaversum:15806698455414": {
-    "available": true,
+    "available": false,
     "title": "Schülerin [SWSH08 - 262/264]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/schoolgirl-full-art-swsh08-262-264"
@@ -15447,7 +15447,7 @@
     "url": "https://pokeuri.ch/products/pokemon-evolutions-accessory-pouch-special-collection"
   },
   "PokeUri:15155574571388": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON: MARNIE'S MORPEKO STARTER DECK",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-marnies-morpeko-starter-deck"
@@ -22929,7 +22929,7 @@
     "url": "https://pikaversum.ch/products/team-rocket-s-wobbuffet-sv-scarlet-violet-promo-cards-635467"
   },
   "Pikaversum:15989953888630": {
-    "available": true,
+    "available": false,
     "title": "Yuyu-ex [PAL - 040/193]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/chi-yu-ex-040-193-sv02-paldea-evolved-497451"
@@ -23565,19 +23565,19 @@
     "url": "https://ryu.land/products/pok-mon-me05-5-mega-evolution-30th-celebration-ditto-premium-collection"
   },
   "Pikaversum:16004712563062": {
-    "available": true,
+    "available": false,
     "title": "Cacnea (German) [DLR - 004/103]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/cacnea-dlr-004-103"
   },
   "Pikaversum:16004712300918": {
-    "available": true,
+    "available": false,
     "title": "Inkay (German) [DLR - 068/103]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/inkay-068-103-dlr-068-103"
   },
   "Pikaversum:16004712071542": {
-    "available": true,
+    "available": false,
     "title": "Rotom (German) [DLR - 034/103]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/rotom-dlr-034-103"
@@ -23601,7 +23601,7 @@
     "url": "https://pikaversum.ch/products/arcanine-dlr-019-103"
   },
   "Pikaversum:16004710793590": {
-    "available": true,
+    "available": false,
     "title": "Azurill (German) [DLR - 080/103]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/azurill-dlr-080-103"
@@ -24081,13 +24081,13 @@
     "url": "https://pikaversum.ch/products/meowscarada-ex-dlr-014-103"
   },
   "Pikaversum:16004658692470": {
-    "available": true,
+    "available": false,
     "title": "Altaria (German) [DLR - 116/103]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/altaria-116-103-dlr-116-103"
   },
   "Pikaversum:16004658299254": {
-    "available": true,
+    "available": false,
     "title": "Heat Rotom ex (German) [DLR - 023/103]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/heat-rotom-ex-023-103-dlr-023-103"
