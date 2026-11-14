@@ -1623,7 +1623,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-paldea-evolved-checklane-blister"
   },
   "Cardmaniac:7672550621359": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG - Shiny Treasure ex Booster Box",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-shiny-treasure-ex-booster-box"
@@ -2823,7 +2823,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-pokemon-ex-tin"
   },
   "Pikaversum:15840203538806": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG: 30th Celebration Sylveon ex Box & Greninja ex Box",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-sylveon-ex-box-greninja-ex-box"
@@ -2841,7 +2841,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-2-pack-blister"
   },
   "Pikaversum:15839832637814": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG: 30th Celebration Elite Trainer Box",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box"
@@ -2853,7 +2853,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-tin-box-pokeball-2024-en"
   },
   "Pikaversum:15113262039414": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-scarlet-violet-prismatic-evolutions-super-premium-collection"
@@ -19659,7 +19659,7 @@
     "url": "https://www.mrpackhouse.ch/products/ultra-pro-pokemon-pikachu-pro-binder-9-pocket"
   },
   "Mr. Packhouse:10516483014995": {
-    "available": true,
+    "available": false,
     "title": "Ultra PRO - Pokémon Pokéball – 35PT UV ONE-TOUCH Edge Magnetic Holder",
     "shop": "Mr. Packhouse",
     "url": "https://www.mrpackhouse.ch/products/ultra-pro-pokemon-pokeball-35pt-uv-one-touch-edge-magnetic-holder"
@@ -21081,7 +21081,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-tech-sticker-collection"
   },
   "Pikaversum:15904829702518": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG: 30th Celebration Battle Deck 2er-Set – Espeon ex & Umbreon ex",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-battle-deck-2er-set-espeon-ex-umbreon-ex"
@@ -24391,5 +24391,11 @@
     "title": "Son Goku FP-001 | Fusion World Regionals Top Prize | 451/777 | PSA 10 Gem Mint",
     "shop": "Zaibatsu",
     "url": "https://zaibatsu.ch/products/son-goku-fp-001-fusion-world-regionals-top-prize-451-777-psa-10-gem-mint"
+  },
+  "Pikaversum:16017354654070": {
+    "available": false,
+    "title": "Pokémon TCG Bundle: 30th Celebration Mini Tin Display + Lumiose City Mini Tin Display (Englisch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-mini-tin-display-lumiose-city-mini-tin-display-englisch"
   }
 }
