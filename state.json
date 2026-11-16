@@ -339,7 +339,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-boosterbundle-mega-entwicklung-optimale-ordnung"
   },
   "Cardmaniac:8540403302575": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG – Booster Box Mega-Entwicklung – Optimale Ordnung",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-booster-box-mega-entwicklung-optimale-ordnung"
@@ -11889,7 +11889,7 @@
     "url": "https://japhunter.ch/products/pokemon-mega-30th-celebration-futuristic-box-japanese-edition"
   },
   "JapHunter:15345625858371": {
-    "available": true,
+    "available": false,
     "title": "Pokémon MEGA – 30th CELEBRATION Premium Deck Set Espeon & Umbreon | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-mega-30th-celebration-premium-deck-set-espeon-umbreon-japanese-edition"
@@ -23175,7 +23175,7 @@
     "url": "https://pokeuri.ch/products/pokemon-premium-collection-30-celebrations-ditto"
   },
   "BoosterBox:15995870216566": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Mega Venusaur ex Premium Collection (8 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-mega-venusaur-ex-premium-collection-en"
@@ -23427,7 +23427,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-black-bolt-white-flare-unova-victini-illustration-collection-franzosisch-b-ware"
   },
   "Pikaversum:16001588527478": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG: Mega Evolution-Perfect Order Elite Trainer Box (Englisch) – B-Ware",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box-englisch-b-ware"
@@ -24403,5 +24403,11 @@
     "title": "Pokémon TCG Valentine's Box 2027 | 20 boosters Collect & Share",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-tcg-valentines-box-2027"
+  },
+  "RyuLand:16225658470730": {
+    "available": true,
+    "title": "Pokémon - 30th Anniversary - AR Full Set [JP]",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-30th-anniversary-ar-full-set-jp"
   }
 }
