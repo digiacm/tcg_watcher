@@ -69,7 +69,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-kollektion-30-jahre-feelinara-ex"
   },
   "Cardmaniac:8685453639855": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG - Ordner-Kollektion 30 Jahre",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-ordner-kollektion-30-jahre"
@@ -2577,7 +2577,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-mini-tin-display-10-mini-tins"
   },
   "Pikaversum:15867144110454": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG: 30th Celebration Booster Bundle",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-booster-bundle"
@@ -5847,7 +5847,7 @@
     "url": "https://pikaversum.ch/products/protecc-acryl-case-pokemon-english-booster"
   },
   "Pikaversum:15748474569078": {
-    "available": true,
+    "available": false,
     "title": "Protecc - Acryl Case Pokémon Ultra Premium Collection",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/protecc-acryl-case-pokemon-ultra-premium-collection"
@@ -11433,7 +11433,7 @@
     "url": "https://japhunter.ch/products/psa-10-m-rayquaza-ex-024-025-25th-anniversary-promo-japanese-s8a-p"
   },
   "JapHunter:15403574264131": {
-    "available": true,
+    "available": false,
     "title": "Pokémon MEGA – 30th CELEBRATION Booster Box Display (30THC) | Simplified Chinese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-mega-30th-celebration-booster-box-display-m6af-traditional-chinese-edition"
@@ -13809,7 +13809,7 @@
     "url": "https://pokealp.ch/products/team-rockets-mewtwo-ex-sar-237-193-m2a-mega-dream-ex-psa-10-gem-mint-edition-japonaise"
   },
   "PokeAlp:15892346667339": {
-    "available": false,
+    "available": true,
     "title": "Pikachu AR 173/165 | SV2a Pokémon 151 | PSA 10 Gem Mint | Édition Japonaise",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pikachu-ar-173-165-sv2a-pokemon-151-psa-10-gem-mint-edition-japonaise"
@@ -15039,7 +15039,7 @@
     "url": "https://pokeuri.ch/products/pokemon-steven-rival-battle-deck"
   },
   "PokeUri:15400492302716": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON CHARIZARD EX SPECIAL COLLECTION -EN-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-charizard-ex-special-collection"
@@ -21051,7 +21051,7 @@
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-premium-deck-set-jp"
   },
   "BoosterBox:15903164924278": {
-    "available": true,
+    "available": false,
     "title": "Pokémon 30th Celebration (M6A) Booster Display (Japanisch, 20 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-display-jp"
@@ -21711,7 +21711,7 @@
     "url": "https://ryu.land/products/pok-mon-sv08-5-scarlet-violet-prismatic-evolutions-accessory-pouch-special-collection"
   },
   "RyuLand:16098597536074": {
-    "available": false,
+    "available": true,
     "title": "Pokémon - SV08.5 - Scarlet & Violet - Prismatic Evolutions - Ultra Premium Collection",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-sv08-5-scarlet-violet-prismatic-evolutions-ultra-premium-collection"
@@ -22335,13 +22335,13 @@
     "url": "https://japhunter.ch/products/psa-10-charmeleon-ar-169-165-pokemon-card-151-japanese-sv2a"
   },
   "JapHunter:15460632756547": {
-    "available": true,
+    "available": false,
     "title": "PSA 10 Suicune V SAR #215/172 – VSTAR Universe Japanese S12a",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-suicune-v-sar-215-172-vstar-universe-japanese-s12a"
   },
   "JapHunter:15460632723779": {
-    "available": true,
+    "available": false,
     "title": "PSA 10 Entei V SAR #213/172 – VSTAR Universe Japanese S12a",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-entei-v-sar-213-172-vstar-universe-japanese-s12a"
@@ -22575,7 +22575,7 @@
     "url": "https://pokealp.ch/products/classeur-portfolio-pokemon-mega-dracaufeu-x-y-ultra-pro"
   },
   "PokeAlp:16123400782155": {
-    "available": true,
+    "available": false,
     "title": "Deck Box Pokémon Poké Ball Full-View | Ultra PRO",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/deck-box-pokemon-poke-ball-full-view-ultra-pro"
@@ -22767,7 +22767,7 @@
     "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-gengar-enhanced-2-pack-blister/"
   },
   "JapHunter:15469982024003": {
-    "available": true,
+    "available": false,
     "title": "PSA 10 Raikou V SAR #218/172 – VSTAR Universe (S12a) Japanese",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/psa-10-raikou-v-sar-218-172-vstar-universe-s12a-japanese"
@@ -23109,7 +23109,7 @@
     "url": "https://boosterbox.ch/products/pokemon-delta-reign-bundle-en"
   },
   "BoosterBox:15995404517750": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Delta Reign (ME06) Booster Display (36 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-delta-reign-display-en"
@@ -23295,7 +23295,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-top-trainer-box-mega-entwicklung-delta-herrschaft"
   },
   "Cardmaniac:10368903741615": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG – Premium-Kollektion 30 Jahre: Ditto",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-premium-kollektion-30-jahre-ditto"
@@ -24129,7 +24129,7 @@
     "url": "https://pokealp.ch/products/pokemon-delta-reign-me06-display-anglais-36-boosters"
   },
   "PokeAlp:16165353783627": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG: 30th Celebration Ultra-Premium Collection Day & Night | Édition anglaise",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-night-en"
