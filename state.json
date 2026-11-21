@@ -21711,7 +21711,7 @@
     "url": "https://ryu.land/products/pok-mon-sv08-5-scarlet-violet-prismatic-evolutions-accessory-pouch-special-collection"
   },
   "RyuLand:16098597536074": {
-    "available": true,
+    "available": false,
     "title": "Pokémon - SV08.5 - Scarlet & Violet - Prismatic Evolutions - Ultra Premium Collection",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-sv08-5-scarlet-violet-prismatic-evolutions-ultra-premium-collection"
@@ -23199,7 +23199,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-mega-evolution-delta-reign-booster"
   },
   "BoosterBox:15997004874102": {
-    "available": false,
+    "available": true,
     "title": "Pokémon 30th Celebration Ultra Premium Collection Night (30 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-ultra-premium-collection-night-en"
@@ -24129,7 +24129,7 @@
     "url": "https://pokealp.ch/products/pokemon-delta-reign-me06-display-anglais-36-boosters"
   },
   "PokeAlp:16165353783627": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG: 30th Celebration Ultra-Premium Collection Day & Night | Édition anglaise",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-night-en"
@@ -24321,7 +24321,7 @@
     "url": "https://pikaversum.ch/products/protecc-acryl-case-pokemon-30th-celebration-ultra-premium-collection"
   },
   "BoosterBox:16013649543542": {
-    "available": true,
+    "available": false,
     "title": "Protecc Acryl-Case für Pokémon 30th Celebration Ultra Premium Collection",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/protecc-acryl-case-pokemon-30th-celebration-ultra-premium-collection"
@@ -24577,5 +24577,11 @@
     "title": "Dragon Ball Fusion World Start Deck Saiyan Raised on Earth FS13 | Édition Japonaise",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/dragon-ball-fusion-world-start-deck-saiyan-raised-on-earth-fs13-edition-japonaise"
+  },
+  "PokeAlp:16205231882571": {
+    "available": true,
+    "title": "Pokémon Jeu de société « Es-tu de la Team Rocket ? » | Édition Japonaise",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-jeu-de-societe-es-tu-de-la-team-rocket-edition-japonaise"
   }
 }
