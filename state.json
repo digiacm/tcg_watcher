@@ -14841,7 +14841,7 @@
     "url": "https://pokeuri.ch/products/pre-order-pokemon-etb-mega-evolution-perfect-order"
   },
   "PokeUri:15856556769660": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON DISPLAY NIHIL ZERO",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-display-munikis-zero"
@@ -16233,7 +16233,7 @@
     "url": "https://detsuki.ch/products/pokemon-mega-greninja-ex-premium-collection"
   },
   "Detsuki:15817028895064": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Abyss Eye Display Box (M5)",
     "shop": "Detsuki",
     "url": "https://detsuki.ch/products/pokemon-abyss-eye-display-box-m5"
@@ -16485,7 +16485,7 @@
     "url": "https://detsuki.ch/products/pokemon-journey-together-sleeved-booster-sv09"
   },
   "Detsuki:15419659780440": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Mega Dream ex Display Box (M2a)",
     "shop": "Detsuki",
     "url": "https://detsuki.ch/products/pokemon-mega-dream-ex-m2a"
@@ -16599,7 +16599,7 @@
     "url": "https://detsuki.ch/products/pokemon-mega-evolution-mini-tin-me01"
   },
   "Detsuki:15292304884056": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Inferno X Display Box (M2)",
     "shop": "Detsuki",
     "url": "https://detsuki.ch/products/pokemon-inferno-x-display-box-m2"
@@ -21573,7 +21573,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-mega-evolution-delta-reign-booster-display-box"
   },
   "JapHunter:15166639735107": {
-    "available": true,
+    "available": false,
     "title": "Advent Calendar – 24 Days of Japanese and Chinese TCG Boosters | Pokémon or One Piece | Limited Handmade Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/advent-calendar"
@@ -23193,7 +23193,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-ditto-premium-collection-mega-greninja-ex-premium-collection-englisch"
   },
   "Pikaversum:15997410574710": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG: Mega Evolution-Delta Reign Booster",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-mega-evolution-delta-reign-booster"
@@ -24589,5 +24589,11 @@
     "title": "Pokémon Sammelkartenspiel – Mega-Entwicklung – Fatale Flammen (ME02) – Booster (DE)",
     "shop": "Mr. Packhouse",
     "url": "https://www.mrpackhouse.ch/products/pokemon-fatale-flammen-booster"
+  },
+  "Pikaversum:16033523106166": {
+    "available": true,
+    "title": "Pokémon-Sammelkartenspiel: Premium-Kollektion 30 Jahre: Ditto (Deutsch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-sammelkartenspiel-premium-kollektion-30-jahre-ditto-deutsch"
   }
 }
