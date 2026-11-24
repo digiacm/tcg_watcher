@@ -633,7 +633,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-gem-pack-vol-3-booster-box"
   },
   "Cardmaniac:8328217886895": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG - Pokémon Center Fukuoka Special Box",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-pokemon-center-fukuoka-special-box"
@@ -2817,7 +2817,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-binder-collection"
   },
   "Pikaversum:15840211698038": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG: 30th Celebration Pokémon ex Tin",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-pokemon-ex-tin"
@@ -2841,7 +2841,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-2-pack-blister"
   },
   "Pikaversum:15839832637814": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG: 30th Celebration Elite Trainer Box",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box"
@@ -20697,7 +20697,7 @@
     "url": "https://zaibatsu.ch/products/pokemon-scarlet-violet-glory-of-team-rocket-briefcase-jp"
   },
   "Zaibatsu:9475771171158": {
-    "available": true,
+    "available": false,
     "title": "Pokémon | Scarlet & Violet: Prismatic Evolutions - SV8.5 Super Premium Collection - EN",
     "shop": "Zaibatsu",
     "url": "https://zaibatsu.ch/products/pokemon-scarlet-violet-prismatic-evolutions-sv8-5-super-premium-collection-en"
@@ -23253,7 +23253,7 @@
     "url": "https://japhunter.ch/products/psa-10-mega-rayquaza-ex-sar-110-076-storm-emeralda-m6-japanese"
   },
   "Pikaversum:15999326847350": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG: 30th Celebration Ditto Premium Collection",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-ditto-premium-collection"
@@ -23463,7 +23463,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-mega-evolution-ascended-heroes-premium-poster-collection-mega-lucario-ex-franzosisch-b-ware"
   },
   "Pikaversum:16000934969718": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG: 30th Celebration Elite Trainer Box – B-Ware",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box-b-ware"
@@ -24631,5 +24631,125 @@
     "title": "Dragon Ball Fusion World Start Deck EX The Phase of Evolution FS11 | Édition Japonaise",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/dragon-ball-fusion-world-start-deck-ex-phase-of-evolution-fs11-edition-japonaise"
+  },
+  "Cardmaniac:10388749516975": {
+    "available": true,
+    "title": "Eventticket – Pokémon TCG: League Cup S2 26-27",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/eventticket-pokemon-tcg-league-cup-s2-26-27"
+  },
+  "Cardmaniac:10388748861615": {
+    "available": true,
+    "title": "Eventticket – Pokémon TCG: League Challenge Februar 2027",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/eventticket-pokemon-tcg-league-challenge-februar-2027"
+  },
+  "Cardmaniac:10388748632239": {
+    "available": true,
+    "title": "Eventticket – Pokémon TCG: League Challenge Januar 2027",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/eventticket-pokemon-tcg-league-challenge-januar-2027"
+  },
+  "Cardmaniac:10388747092143": {
+    "available": true,
+    "title": "Eventticket – Pokémon TCG: League Challenge Dezember 2026",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/eventticket-pokemon-tcg-league-challenge-dezember-2026"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-league-battle-deck-mega-greninja-ex/": {
+    "available": true,
+    "title": "Pokémon – League Battle Deck – Mega Greninja ex",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-league-battle-deck-mega-greninja-ex/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-mega-evolution-pokemon-day-2027-collection/": {
+    "available": true,
+    "title": "Pokémon – Mega Evolution – Pokémon Day 2027 – Collection",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-pokemon-day-2027-collection/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-mega-evolution-wonderful-waters-mini-tin/": {
+    "available": true,
+    "title": "Pokémon – Mega Evolution – Wonderful Waters – Mini Tin",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-mega-evolution-wonderful-waters-mini-tin/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/dragon-ball-super-fusion-world-reach-the-god-fb12-booster-display/": {
+    "available": true,
+    "title": "Dragon Ball Super – Fusion World – Reach the God (FB12) – Booster Display",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/dragon-ball-super-fusion-world-reach-the-god-fb12-booster-display/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/dragon-ball-super-ultra-bout-series-05-chromatic-ascension-b32-booster-display/": {
+    "available": true,
+    "title": "Dragon Ball Super – Ultra Bout Series 05 – Chromatic Ascension (B32) – Booster Display",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/dragon-ball-super-ultra-bout-series-05-chromatic-ascension-b32-booster-display/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/dragon-ball-super-ultra-bout-series-set-2-bt29-booster-display/": {
+    "available": true,
+    "title": "Dragon Ball Super – Ultra-Bout Series Set 2 (BT29) – Booster Display",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/dragon-ball-super-ultra-bout-series-set-2-bt29-booster-display/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/dragon-ball-super-carddass-premium-edition-dx-set-en/": {
+    "available": true,
+    "title": "328250 Dragon Ball Super Carddass Premium Edition DX Set EN",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/dragon-ball-super-carddass-premium-edition-dx-set-en/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/dragon-ball-super-collectors-selection-vol-2-en/": {
+    "available": true,
+    "title": "62544 Dragon Ball Super Collector s Selection Vol 2",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/dragon-ball-super-collectors-selection-vol-2-en/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/dragon-ball-super-fusion-worlds-vegeta-mini-fs07-starte-deck/": {
+    "available": true,
+    "title": "Dragon Ball Super – Fusion Worlds – Vegeta Mini (FS07) – Starte Deck",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/dragon-ball-super-fusion-worlds-vegeta-mini-fs07-starte-deck/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/dragon-ball-super-fusions-worlds-bardock-fs05-starter-deck/": {
+    "available": true,
+    "title": "Dragon Ball Super – Fusions Worlds – Bardock (FS05) – Starter Deck",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/dragon-ball-super-fusions-worlds-bardock-fs05-starter-deck/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/dragon-ball-super-fusions-worlds-vegeta-fs02-starter-deck/": {
+    "available": true,
+    "title": "Dragon Ball Super – Fusions Worlds – Vegeta (FS02) – Starter Deck",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/dragon-ball-super-fusions-worlds-vegeta-fs02-starter-deck/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/dragon-ball-super-gift-collection-en/": {
+    "available": true,
+    "title": "62401 Dragon Ball Super Gift Collection",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/dragon-ball-super-gift-collection-en/"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/dragon-ball-super-rise-of-the-unison-warrior-bt10-booster-display-en-reprint/": {
+    "available": true,
+    "title": "Dragon Ball Super – Rise of the Unison Warrior (B10) – Booster Display – EN (Reprint)",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/dragon-ball-super-rise-of-the-unison-warrior-bt10-booster-display-en-reprint/"
+  },
+  "PokeAlp:16211851706699": {
+    "available": true,
+    "title": "Pack Promo Illustration Contest 2024 (Scellé) | Pikachu 242/SV-P | Édition Japonaise",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pack-promo-illustration-contest-2024-pikachu-242-sv-p-scelle-edition-japonaise"
+  },
+  "Mr. Packhouse:10628812472659": {
+    "available": true,
+    "title": "Pokémon Gem Pack VOL.2 CBB2C Box CH",
+    "shop": "Mr. Packhouse",
+    "url": "https://www.mrpackhouse.ch/products/pokemon-gem-pack-vol-2-cbb2c-box-ch"
+  },
+  "Mr. Packhouse:11161896943955": {
+    "available": true,
+    "title": "Pokémon Gem Pack Vol. 7 (CBB7C) Booster Box – Vereinfachtes Chinesisch (CN)",
+    "shop": "Mr. Packhouse",
+    "url": "https://www.mrpackhouse.ch/products/pokemon-gem-pack-vol-7-cbb7c-booster-box-cn"
   }
 }
