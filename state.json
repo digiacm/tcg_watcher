@@ -933,7 +933,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-the-glory-of-team-rocket-booster-box"
   },
   "Cardmaniac:8204931956911": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG - Team Rocket's Glory Attaché Case Set",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-team-rockets-glory-attache-case-set"
@@ -2853,7 +2853,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-tin-box-pokeball-2024-en"
   },
   "Pikaversum:15113262039414": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-scarlet-violet-prismatic-evolutions-super-premium-collection"
@@ -14805,7 +14805,7 @@
     "url": "https://pokeuri.ch/products/pre-order-pokemon-display-mega-evolution-perfect-order-de"
   },
   "PokeUri:15915158176124": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON DISPLAY SCARLET & VIOLET: JOURNEY TOGETHER -FR-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pokemon-display-scarlet-violet-journey-together-fr"
@@ -14865,7 +14865,7 @@
     "url": "https://pokeuri.ch/products/pokemon-collector-chest-q4-2025"
   },
   "PokeUri:15810299265404": {
-    "available": true,
+    "available": false,
     "title": "CARD GRADING SUBMISSION COMBO PACK (50)",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/card-grading-submission-combo-pack-50"
@@ -21273,7 +21273,7 @@
     "url": "https://theuncommonshop.ch/product/pokemon-xy-generations-xy8-5-20th-anniversary-genesect-mythical-collection/"
   },
   "PokeAlp:16061625401675": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG 30th Celebration only Binder Collection",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-tcg-30th-celebration-binder-collection-english-edition"
@@ -21711,7 +21711,7 @@
     "url": "https://ryu.land/products/pok-mon-sv08-5-scarlet-violet-prismatic-evolutions-accessory-pouch-special-collection"
   },
   "RyuLand:16098597536074": {
-    "available": false,
+    "available": true,
     "title": "Pokémon - SV08.5 - Scarlet & Violet - Prismatic Evolutions - Ultra Premium Collection",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-sv08-5-scarlet-violet-prismatic-evolutions-ultra-premium-collection"
@@ -22185,7 +22185,7 @@
     "url": "https://ryu.land/products/pok-mon-me02-mega-evolution-phantasmal-flames-sleeved-booster"
   },
   "RyuLand:16126013997386": {
-    "available": false,
+    "available": true,
     "title": "Pokémon - ME02 - Mega Evolution - Phantasmal Flames - Booster Bundle",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-me02-mega-evolution-phantasmal-flames-booster-bundle"
@@ -22203,7 +22203,7 @@
     "url": "https://ryu.land/products/pok-mon-me02-mega-evolution-phantasmal-flames-booster"
   },
   "RyuLand:16126012752202": {
-    "available": false,
+    "available": true,
     "title": "Pokémon - ME02 - Mega Evolution - Phantasmal Flames - Booster Box",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-me02-mega-evolution-phantasmal-flames-booster-box"
@@ -22227,7 +22227,7 @@
     "url": "https://ryu.land/products/pok-mon-me01-mega-evolution-base-booster"
   },
   "RyuLand:16125736911178": {
-    "available": false,
+    "available": true,
     "title": "Pokémon - ME01 - Mega Evolution - Base - Booster Box",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-me01-mega-evolution-base-booster-box"
