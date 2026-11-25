@@ -23463,7 +23463,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-mega-evolution-ascended-heroes-premium-poster-collection-mega-lucario-ex-franzosisch-b-ware"
   },
   "Pikaversum:16000934969718": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG: 30th Celebration Elite Trainer Box – B-Ware",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box-b-ware"
@@ -24751,5 +24751,11 @@
     "title": "Pokémon Gem Pack Vol. 7 (CBB7C) Booster Box – Vereinfachtes Chinesisch (CN)",
     "shop": "Mr. Packhouse",
     "url": "https://www.mrpackhouse.ch/products/pokemon-gem-pack-vol-7-cbb7c-booster-box-cn"
+  },
+  "PokeAlp:16216680431947": {
+    "available": true,
+    "title": "Pokémon AR Set Inferno X [M2] (JP)",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-ar-set-inferno-x-m2-jp"
   }
 }
