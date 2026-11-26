@@ -11433,7 +11433,7 @@
     "url": "https://japhunter.ch/products/psa-10-m-rayquaza-ex-024-025-25th-anniversary-promo-japanese-s8a-p"
   },
   "JapHunter:15403574264131": {
-    "available": false,
+    "available": true,
     "title": "Pokémon MEGA – 30th CELEBRATION Booster Box Display (30THC) | Simplified Chinese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-mega-30th-celebration-booster-box-display-m6af-traditional-chinese-edition"
@@ -12567,7 +12567,7 @@
     "url": "https://japhunter.ch/products/pokemon-ar-cards-mega-inferno-x-m2-japanese"
   },
   "JapHunter:14753467302211": {
-    "available": false,
+    "available": true,
     "title": "Mystery Pack \"Nostalgia\" Black Edition (Japanese Cards)",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/mistery-japan-booster-nostalgia"
@@ -13341,7 +13341,7 @@
     "url": "https://japhunter.ch/products/pokemon-bath-ball-evee"
   },
   "JapHunter:14682573963587": {
-    "available": true,
+    "available": false,
     "title": "Toploader - 35PT (25x Pack) | 63×88mm | Premium Card Protection | Clear Hard Cases",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/toploaders-regular-size-25-pack"
@@ -14205,7 +14205,7 @@
     "url": "https://pokeuri.ch/products/pokemon-prismatic-evolutions-ultra-premium-collection-de"
   },
   "PokeUri:16088440766844": {
-    "available": false,
+    "available": true,
     "title": "POKÉMON 30 CELEBRATIONS EX BOX -DE-",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pre-order-pokemon-30-celebrations-ex-box-de"
@@ -19953,7 +19953,7 @@
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-ultra-premium-collection-day-en"
   },
   "BoosterBox:15877581275510": {
-    "available": false,
+    "available": true,
     "title": "Pokémon 30th Celebration Booster Bundle (6 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-30th-celebration-bundle-en"
@@ -20073,7 +20073,7 @@
     "url": "https://boosterbox.ch/products/pokemon-mega-evolution-base-set-mini-tin-en"
   },
   "BoosterBox:15827382534518": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Black Bolt & White Flare (SV10.5) Mini Tin (2 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-black-bolt-white-flare-mini-tin-en"
@@ -21171,7 +21171,7 @@
     "url": "https://boosterbox.ch/products/pokemon-30-jahre-feelinara-ex-tin-de"
   },
   "BoosterBox:15912678621558": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Erhabene Helden (ME02.5) Booster Bundle (6 Packs)",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-erhabene-helden-bundle-de"
@@ -23781,7 +23781,7 @@
     "url": "https://pikaversum.ch/products/backtrack-badge-pbl-074-084"
   },
   "Pikaversum:16004703519094": {
-    "available": true,
+    "available": false,
     "title": "Galarian Meowth [30C - 101/128]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/galarian-meowth-101-128-30c-101-128"
@@ -24057,7 +24057,7 @@
     "url": "https://pikaversum.ch/products/umbreon-ex-30c-092-128"
   },
   "Pikaversum:16004674355574": {
-    "available": true,
+    "available": false,
     "title": "Darkrai & Cresselia Legend (Bottom) [30C - 100/102]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/darkrai-cresselia-legend-bottom-30c-100-102"
@@ -24769,5 +24769,23 @@
     "title": "Dragon Ball Visual Adventure Premium Set Vol.2 | Carddass | Édition Japonaise",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/dragon-ball-visual-adventure-premium-set-vol-2-edition-japonaise"
+  },
+  "Pikaversum:16042162454902": {
+    "available": false,
+    "title": "Pokémon-Sammelkartenspiel: Ultra-Premium-Kollektion 30 Jahre: Nacht (Deutsch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-sammelkartenspiel-ultra-premium-kollektion-30-jahre-nacht-deutsch"
+  },
+  "Pikaversum:16042162422134": {
+    "available": false,
+    "title": "Pokémon-Sammelkartenspiel: Ultra-Premium-Kollektion 30 Jahre: Tag (Deutsch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-sammelkartenspiel-ultra-premium-kollektion-30-jahre-tag-deutsch"
+  },
+  "The Uncommon Shop:https://theuncommonshop.ch/product/pokemon-liga-kampf-deck-miraidon-ex/": {
+    "available": true,
+    "title": "Pokémon – Liga Kampf Deck – Miraidon ex",
+    "shop": "The Uncommon Shop",
+    "url": "https://theuncommonshop.ch/product/pokemon-liga-kampf-deck-miraidon-ex/"
   }
 }
