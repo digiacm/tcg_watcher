@@ -585,7 +585,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-gem-pack-vol-2-booster-box"
   },
   "Cardmaniac:8334438662319": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG - Fatale Flammen Boosterbundle",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-fatale-flammen-boosterbundle"
@@ -681,7 +681,7 @@
     "url": "https://cardmaniac.ch/products/pokemon-tcg-mega-entwicklung-top-trainer-box"
   },
   "Cardmaniac:8319061852335": {
-    "available": false,
+    "available": true,
     "title": "Pokémon TCG - Mega-Entwicklung Booster Box",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-mega-entwicklung-booster-box"
@@ -2595,7 +2595,7 @@
     "url": "https://pikaversum.ch/products/terapagos-ex-092-131-pre-092-131"
   },
   "Pikaversum:15866723860854": {
-    "available": true,
+    "available": false,
     "title": "Arven's Mabosstiff ex [DRI - 139/182]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/arven-s-mabosstiff-ex-139-182-dri-139-182"
@@ -2637,8 +2637,8 @@
     "url": "https://pikaversum.ch/products/fennekin-080-mep-080"
   },
   "Pikaversum:15863717888374": {
-    "available": false,
-    "title": "Mega Pyroar ex - 015/086 [CRI - 015/086]",
+    "available": true,
+    "title": "Mega Pyroar ex [CRI - 015/086]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/mega-pyroar-ex-015-086-cri-015-086"
   },
@@ -3249,7 +3249,7 @@
     "url": "https://pikaversum.ch/products/cramorant-vmax-shf-055-072"
   },
   "Pikaversum:15808379912566": {
-    "available": true,
+    "available": false,
     "title": "Aquana VMAX [SWSH07 - 030/203]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/vaporeon-vmax-swsh07-030-203"
@@ -3567,7 +3567,7 @@
     "url": "https://pikaversum.ch/products/greninja-v-union-swsh155-swsd-swsh155"
   },
   "Pikaversum:15806916002166": {
-    "available": true,
+    "available": false,
     "title": "Fliegendes Pikachu VMAX [CLB - 007/025]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/flying-pikachu-vmax-clb-007-025"
@@ -3705,7 +3705,7 @@
     "url": "https://pikaversum.ch/products/kricketune-v-full-art-swsh05-142-163"
   },
   "Pikaversum:15806697570678": {
-    "available": true,
+    "available": false,
     "title": "Mewtwo V (German) [SWSD - SWSH229]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/mewtwo-v-swsh229-swsd-swsh229"
@@ -6249,8 +6249,8 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-perfect-order-three-pack-blister"
   },
   "Pikaversum:15604729151862": {
-    "available": false,
-    "title": "Registeel ex [ASC - 145]",
+    "available": true,
+    "title": "Registeel ex [ASC - 145/217]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/registeel-ex-me-ascended-heroes-675957"
   },
@@ -11781,7 +11781,7 @@
     "url": "https://japhunter.ch/products/psa-10-zapdos-ex-sar-204-165-pokemon-151-japanese-sv2a"
   },
   "JapHunter:15353580323139": {
-    "available": true,
+    "available": false,
     "title": "Pokémon VSTAR Special Set – Lost Abyss | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-vstar-special-set-lost-abyss-japanese-edition"
@@ -12159,7 +12159,7 @@
     "url": "https://japhunter.ch/products/dragon-ball-visual-adventure-premium-set-vol-1-complete-collector-edition-march-2026-release"
   },
   "JapHunter:15264638206275": {
-    "available": true,
+    "available": false,
     "title": "Premium 360-Card Binder Zip Binder for TCG Cards (9-Pocket)",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/premium-360-card-binder-zip-binder-for-tcg-cards-9-pocket"
@@ -14427,7 +14427,7 @@
     "url": "https://pokeuri.ch/products/first-partner-illustration-collection"
   },
   "PokeUri:16032615072124": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON DISPLAY: STORM EMERALDA",
     "shop": "PokeUri",
     "url": "https://pokeuri.ch/products/pre-order-pokemon-display-storm-emeralda"
@@ -20049,7 +20049,7 @@
     "url": "https://boosterbox.ch/products/pokemon-lumiose-city-mini-tin-en"
   },
   "BoosterBox:15827382665590": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Destined Rivals (SV10) Booster Pack",
     "shop": "BoosterBox",
     "url": "https://boosterbox.ch/products/pokemon-destined-rivals-booster-lose-en"
@@ -21273,7 +21273,7 @@
     "url": "https://theuncommonshop.ch/product/pokemon-xy-generations-xy8-5-20th-anniversary-genesect-mythical-collection/"
   },
   "PokeAlp:16061625401675": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG 30th Celebration only Binder Collection",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-tcg-30th-celebration-binder-collection-english-edition"
@@ -21957,13 +21957,13 @@
     "url": "https://ryu.land/products/box-break-pok-mon-cbb6c-gem-pack-vol-6-booster-cn"
   },
   "JapHunter:15444757283139": {
-    "available": false,
+    "available": true,
     "title": "Pokémon Règne Delta ME06 | Display 36 Boosters Méga-Évolution | Édition Française",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-regne-delta-me06-display-36-boosters-mega-evolution-francais"
   },
   "JapHunter:15444643512643": {
-    "available": false,
+    "available": true,
     "title": "Pokémon AR CARDS Complete Set | 27 First Partner Cards | 30th Celebration | Japanese Edition",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/pokemon-ar-cards-complete-set-27-first-partner-cards-30th-celebration-japanese"
@@ -22347,7 +22347,7 @@
     "url": "https://japhunter.ch/products/psa-10-entei-v-sar-213-172-vstar-universe-japanese-s12a"
   },
   "Pikaversum:15970937602422": {
-    "available": true,
+    "available": false,
     "title": "Electivire ex [DRI - 069/182]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/electivire-ex-069-182-sv10-destined-rivals-632882"
@@ -22947,7 +22947,7 @@
     "url": "https://pikaversum.ch/products/crushing-hammer-me05-pitch-black-704862"
   },
   "Pikaversum:15989949104502": {
-    "available": true,
+    "available": false,
     "title": "Rameidon-ex [PBL - 045/084]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/rampardos-ex-045-084-me05-pitch-black-704802"
@@ -24075,7 +24075,7 @@
     "url": "https://pikaversum.ch/products/groudon-111-103-dlr-111-103"
   },
   "Pikaversum:16004673831286": {
-    "available": true,
+    "available": false,
     "title": "Meowscarada ex [DLR - 014/103]",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/meowscarada-ex-dlr-014-103"
@@ -24747,7 +24747,7 @@
     "url": "https://www.mrpackhouse.ch/products/pokemon-gem-pack-vol-2-cbb2c-box-ch"
   },
   "Mr. Packhouse:11161896943955": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Gem Pack Vol. 7 (CBB7C) Booster Box – Vereinfachtes Chinesisch (CN)",
     "shop": "Mr. Packhouse",
     "url": "https://www.mrpackhouse.ch/products/pokemon-gem-pack-vol-7-cbb7c-booster-box-cn"
@@ -24817,5 +24817,173 @@
     "title": "Pokémon – Stacking Tin Q1 2027",
     "shop": "The Uncommon Shop",
     "url": "https://theuncommonshop.ch/product/pokemon-stacking-tin-q1-2027/"
+  },
+  "Cardmaniac:7971914449071": {
+    "available": false,
+    "title": "Pokémon - Premium Gloss Hyper Beam Deck Protector Sleeves",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/pokemon-premium-gloss-hyper-beam-deck-protector-sleeves"
+  },
+  "Cardmaniac:7562675093679": {
+    "available": false,
+    "title": "Pokémon TCG - Pokémon Card 151 Booster Pack",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/sv2a-pokemon-card-151-booster-pack"
+  },
+  "Cardmaniac:8328581775535": {
+    "available": false,
+    "title": "Pokémon TCG - Mega-Entwicklung Booster Pack",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/pokemon-tcg-mega-entwicklung-booster-pack"
+  },
+  "Cardmaniac:7200946815151": {
+    "available": true,
+    "title": "Pokémon TCG - Astralglanz Booster Box",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/swsh10-astralglanz-booster-box"
+  },
+  "Pikaversum:16045434208630": {
+    "available": true,
+    "title": "Seel (Cosmos Holo) (German) [MEP - 116]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/seel-116-cosmos-holo-mep-116"
+  },
+  "Pikaversum:16045433586038": {
+    "available": true,
+    "title": "Kyogre [MEP - 117]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/kyogre-117-mep-117"
+  },
+  "Pikaversum:16045433520502": {
+    "available": true,
+    "title": "Team Rocket's Orbeetle [DRI - 198/182]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/team-rocket-s-orbeetle-198-182-dri-198-182"
+  },
+  "Pikaversum:16045433454966": {
+    "available": true,
+    "title": "Team Rocket's Petrel [DRI - 226/182]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/team-rocket-s-petrel-226-182-dri-226-182"
+  },
+  "Pikaversum:16045433389430": {
+    "available": true,
+    "title": "Team Rocket's Persian ex [DRI - 150/182]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/team-rocket-s-persian-ex-150-182-dri-150-182"
+  },
+  "Pikaversum:16045433291126": {
+    "available": true,
+    "title": "Iono's Bellibolt ex [JTG - 053/159]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/iono-s-bellibolt-ex-053-159-jtg-053-159"
+  },
+  "Pikaversum:16045433225590": {
+    "available": true,
+    "title": "Mega Charizard X ex [MEP - 023]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/mega-charizard-x-ex-023-mep-023"
+  },
+  "Pikaversum:16045433160054": {
+    "available": true,
+    "title": "Oricorio ex [MEP - 024]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/oricorio-ex-024-mep-024"
+  },
+  "Pikaversum:16045433028982": {
+    "available": true,
+    "title": "Scraggy [30C - 140/128]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/scraggy-140-128-30c-140-128"
+  },
+  "Pikaversum:16045432963446": {
+    "available": true,
+    "title": "Raikou ex [DLR - 033/103]",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/raikou-ex-033-103-dlr-033-103"
+  },
+  "Pikaversum:16044642435446": {
+    "available": true,
+    "title": "Dragon Ball Super Card Game Fusion World – 2nd Anniversary Set (EN)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/dragon-ball-super-card-game-fusion-world-2nd-anniversary-set-en"
+  },
+  "PokeUri:16226743976316": {
+    "available": true,
+    "title": "POKÉMON 30 JAHRE PREMIUM KOLLEKTION: DITTO",
+    "shop": "PokeUri",
+    "url": "https://pokeuri.ch/products/pokemon-30-jahre-premium-kollektion-ditto"
+  },
+  "PokeUri:16226739454332": {
+    "available": true,
+    "title": "POKÉMON 30TH ANNIVERSAIRE CELLECTION PREMIU8M MÉTAMORPH",
+    "shop": "PokeUri",
+    "url": "https://pokeuri.ch/products/pokemon-30th-anniversaire-cellection-premiu8m-metamorph"
+  },
+  "PokeUri:16226725069180": {
+    "available": true,
+    "title": "POKÉMON 30TH CELEBRATION ULTRA PREMIUM KOLLEKTION NACHT",
+    "shop": "PokeUri",
+    "url": "https://pokeuri.ch/products/pokemon-30th-celebration-ultra-premium-kollektion-nacht"
+  },
+  "PokeUri:16226719596924": {
+    "available": true,
+    "title": "POKÉMON 30TH CELEBRATION ULTRA PREMIUM KOLLEKTION TAG",
+    "shop": "PokeUri",
+    "url": "https://pokeuri.ch/products/pokemon-30th-celebration-ultra-premium-collection-tag"
+  },
+  "PokeUri:16226711601532": {
+    "available": true,
+    "title": "POKÉMON DISPLAY: SWSH10 ASTRES RADIEUX",
+    "shop": "PokeUri",
+    "url": "https://pokeuri.ch/products/pokemon-display-swsh10-astres-radieux"
+  },
+  "PokeUri:16226705801596": {
+    "available": true,
+    "title": "POKÉMON DISPLAY: MEGA ENTWICKLUNG",
+    "shop": "PokeUri",
+    "url": "https://pokeuri.ch/products/pokemon-display-mega-entwicklung"
+  },
+  "PokeUri:16226701443452": {
+    "available": true,
+    "title": "POKÉMON DISPLAY: MEGA EVOLUTION: FATALE FLAMMEN",
+    "shop": "PokeUri",
+    "url": "https://pokeuri.ch/products/pokemon-display-mega-evolution-fatale-flammen"
+  },
+  "PokeUri:16226698461564": {
+    "available": true,
+    "title": "POKÉMON BOOSTERBUNDLE MEGA-ENTWICKLUNG: FATALE FLAMMEN",
+    "shop": "PokeUri",
+    "url": "https://pokeuri.ch/products/pokemon-boosterbundle-mega-entwicklung-fatale-flammen"
+  },
+  "RyuLand:16268569182538": {
+    "available": false,
+    "title": "Pokémon - M7 - Mega Evolution - Aura Seeker - Booster [JP]",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-m7-mega-evolution-aura-seeker-booster-jp"
+  },
+  "RyuLand:16268569051466": {
+    "available": true,
+    "title": "Pokémon - M7 - Mega Evolution - Aura Seeker - Booster Box [JP]",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-m7-mega-evolution-aura-seeker-booster-box-jp"
+  },
+  "RyuLand:16268565086538": {
+    "available": true,
+    "title": "Pokémon - SWSH10 - Sword & Shield - Astral Radiance - Booster Box",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-swsh10-sword-shield-astral-radiance-booster-box"
+  },
+  "RyuLand:16268565152074": {
+    "available": false,
+    "title": "Pokémon - SWSH10 - Sword & Shield - Astral Radiance - Booster",
+    "shop": "RyuLand",
+    "url": "https://ryu.land/products/pok-mon-swsh10-sword-shield-astral-radiance-booster"
+  },
+  "BoosterBox:15706890076534": {
+    "available": true,
+    "title": "Pokémon Day 2026 Collection (3 Packs)",
+    "shop": "BoosterBox",
+    "url": "https://boosterbox.ch/products/pokemon-pokemon-day-2026-spezial-en"
   }
 }
