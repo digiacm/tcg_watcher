@@ -24997,5 +24997,17 @@
     "title": "Pokémon - Pokémon Day 2027 - Collection",
     "shop": "RyuLand",
     "url": "https://ryu.land/products/pok-mon-pok-mon-day-2027-collection"
+  },
+  "PokeAlp:16230278103371": {
+    "available": false,
+    "title": "Pokémon SR / SAR / MUR Set Aura Seeker [M7] (JP)",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-sr-sar-mur-set-aura-seeker-m7-jp"
+  },
+  "PokeAlp:16230277873995": {
+    "available": false,
+    "title": "Pokémon AR Set Aura Seeker [M7] (JP)",
+    "shop": "PokeAlp",
+    "url": "https://pokealp.ch/products/pokemon-ar-set-aura-seeker-m7-jp"
   }
 }
