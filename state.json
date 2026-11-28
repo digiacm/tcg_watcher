@@ -105,7 +105,7 @@
     "url": "https://cardmaniac.ch/products/eventticket-pokemon-tcg-league-challenge-oktober-2026"
   },
   "Cardmaniac:8678716965039": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG - Tin-Box Pokéball 2024 Reprint",
     "shop": "Cardmaniac",
     "url": "https://cardmaniac.ch/products/pokemon-tcg-tin-box-pokeball-2024-reprint"
@@ -3189,7 +3189,7 @@
     "url": "https://pikaversum.ch/products/pokemon-chasing-glory-together-csv10c-slim-booster-box-simplified-chinese"
   },
   "Pikaversum:15819332911478": {
-    "available": true,
+    "available": false,
     "title": "Protecc Acrylic Case Pokémon Japanese Booster Box",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/protecc-acrylic-case-pokemon-japanese-booster-box"
@@ -10803,7 +10803,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-scarlet-violet-paldea-tech-sticker-collectionen"
   },
   "Pikaversum:8155834384520": {
-    "available": true,
+    "available": false,
     "title": "POKÉMON - PIKACHU ELITE SERIES ALCOVE FLIP BOX",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-pikachu-elite-series-alcove-flip-box"
@@ -10881,7 +10881,7 @@
     "url": "https://pikaversum.ch/products/pokemon-tcg-ancient-roar-booster-box-jpn"
   },
   "Pikaversum:8048983408776": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG - Future Flash Booster Box (JPN)",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-future-flash-booster-box-jpn"
@@ -22659,7 +22659,7 @@
     "url": "https://pikaversum.ch/products/ultra-pro-uv-one-touch-magnetic-holder-booster-pack"
   },
   "JapHunter:15467872092483": {
-    "available": true,
+    "available": false,
     "title": "The Secret Hunt Booster | Japanese Pokémon Mystery Pack | 50% SR or SAR Chance",
     "shop": "JapHunter",
     "url": "https://japhunter.ch/products/the-secret-hunt-booster-japanese-pokemon-mystery-pack-sr-sar"
@@ -23253,7 +23253,7 @@
     "url": "https://japhunter.ch/products/psa-10-mega-rayquaza-ex-sar-110-076-storm-emeralda-m6-japanese"
   },
   "Pikaversum:15999326847350": {
-    "available": true,
+    "available": false,
     "title": "Pokémon TCG: 30th Celebration Ditto Premium Collection",
     "shop": "Pikaversum",
     "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-ditto-premium-collection"
@@ -24531,7 +24531,7 @@
     "url": "https://www.mrpackhouse.ch/products/pokemon-erhabene-helden-booster-bundle-display-de"
   },
   "Mr. Packhouse:11066053099859": {
-    "available": true,
+    "available": false,
     "title": "Pokémon Sammelkartenspiel – Schwert & Schild – Kampfstile – Top-Trainer-Box Fokussierter Schlag (DE)",
     "shop": "Mr. Packhouse",
     "url": "https://www.mrpackhouse.ch/products/pokemon-kampfstile-top-trainer-box-fokussierter-schlag-de"
@@ -25009,5 +25009,35 @@
     "title": "Pokémon AR Set Aura Seeker [M7] (JP)",
     "shop": "PokeAlp",
     "url": "https://pokealp.ch/products/pokemon-ar-set-aura-seeker-m7-jp"
+  },
+  "Cardmaniac:10383722217647": {
+    "available": true,
+    "title": "Pokémon TCG – Ultra-Premium-Kollektion 30 Jahre – Nacht",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/pokemon-tcg-ultra-premium-kollektion-30-jahre-nacht"
+  },
+  "Cardmaniac:10383676244143": {
+    "available": true,
+    "title": "Pokémon TCG – Ultra-Premium-Kollektion 30 Jahre – Tag",
+    "shop": "Cardmaniac",
+    "url": "https://cardmaniac.ch/products/pokemon-tcg-ultra-premium-kollektion-30-jahre-tag"
+  },
+  "Pikaversum:16047056028022": {
+    "available": true,
+    "title": "Pokémon TCG: Mega Greninja ex League Battle Deck (Englisch)",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-mega-greninja-ex-league-battle-deck-englisch"
+  },
+  "Pikaversum:16047056060790": {
+    "available": true,
+    "title": "Pokémon TCG: Mega Greninja ex League Battle Deck (Englisch) – B-Ware",
+    "shop": "Pikaversum",
+    "url": "https://pikaversum.ch/products/pokemon-tcg-mega-greninja-ex-league-battle-deck-englisch-b-ware"
+  },
+  "JapHunter:15499536728387": {
+    "available": false,
+    "title": "Pokémon AR Cards MEGA Aura Seeker (M7) | Art Rare Singles | Japanese Edition",
+    "shop": "JapHunter",
+    "url": "https://japhunter.ch/products/pokemon-ar-cards-mega-aura-seeker-m7-japanese"
   }
 }
